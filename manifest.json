@@ -1,0 +1,12 @@
+{
+    "name": "LC-Which Company",
+    "version": "1.0.0",
+    "description": "An extension that returns which company has asked a problem.",
+    "manifest_version": 3,
+    "author": "Avik Sarkar",
+    "action":{
+        "default_popup": "popup.html",
+        "default_title": "LeetCode Company "
+    },
+    "permissions": ["tabs"]
+}
