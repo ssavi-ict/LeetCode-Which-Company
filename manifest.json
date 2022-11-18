@@ -8,5 +8,8 @@
         "default_popup": "popup.html",
         "default_title": "LeetCode Company "
     },
+    "icons": {
+        "32": "32.png"
+    },
     "permissions": ["tabs"]
 }
