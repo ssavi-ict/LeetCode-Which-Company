@@ -18,7 +18,7 @@ async function leetcode_company(){
 		document.write('</ul>');*/
 		let url = tabs[0].url;
 		if (url.includes("leetcode")){
-			const requestURL = 'https://gist.githubusercontent.com/ssavi-ict/83113f27f45dd4c31c173e0c23952397/raw/469e3632dc06be36d96bd66f4c1b6c54d5004fdf/lc_data.json';
+			const requestURL = 'https://api.npoint.io/9835fe21bb7976ae44d9';
 			const request = new Request(requestURL);
 			const response = await fetch(request);
 			const json_response = await response.json();
