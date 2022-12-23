@@ -9,7 +9,7 @@
         "default_title": "LeetCode Company "
     },
     "icons": {
-        "32": "32.png"
+        "32": "res/32.png"
     },
     "permissions": ["tabs"]
 }

@@ -26,21 +26,24 @@ async function leetcode_company(){
 			let theReformedURL = checkFullOrPartialURL(url, json_response);
 		
 			if(json_response [theReformedURL]){
-				const companies = json_response[theReformedURL];
+				const company_list_elem = json_response[theReformedURL];
+				const sorted = company_list_elem.slice(1).sort((a, b) => a.length - b.length);
+				const companies = [company_list_elem[0]].concat(sorted);
+
 				let length = companies.length;
-				let problem_name = ("<h3 style='text-align:center;padding-bottom: 10px;border-bottom: 2px solid black;'>Problem Name : ");
-				let text = "<ul style='list-style-type: none;margin-left: -40px;'>";
+				let problem_name = ("<h3 style='text-align:center;padding-bottom: 5px;border-bottom: 2px solid black;background-image: linear-gradient(45deg, red, orange, green, blue, indigo, violet); -webkit-background-clip: text; -webkit-text-fill-color: transparent;'>Problem Name : ");
+				let text = "<center><p>";
+				let char_len = 0;
 				for (let i=0; i<length; i++){
 					if(i === 0){
 						problem_name += companies[i] + "</h3>";
 					}
 					else{
-						text += "<li style='display: inline-block;'> &nbsp;" + companies[i];
-						if(i < length-1) text += ",";
-						text += "</li>";
+						text += "<p style='display: inline-block; border-radius: 2px; margin-bottom:5px;border: 1px solid; border-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);border-image-slice: 1;'>&nbsp;<b>" + companies[i];
+						text += "&nbsp; </b></p>&nbsp;";
 					}
 				}
-				text += "</ul><br><br>";
+				text += "</p></center>";
 				document.write(problem_name);
 				document.write(text);
 			}
