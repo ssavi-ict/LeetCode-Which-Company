@@ -31,7 +31,7 @@ async function leetcode_company(){
 				const companies = [company_list_elem[0]].concat(sorted);
 
 				let length = companies.length;
-				let problem_name = ("<h3 style='text-align:center;padding-bottom: 5px;border-bottom: 2px solid black;background-image: linear-gradient(45deg, red, orange, green, blue, indigo, violet); -webkit-background-clip: text; -webkit-text-fill-color: transparent;'>Problem Name : ");
+				let problem_name = ("<h3 style='text-align:center;border-bottom: 2px solid black;background-image: linear-gradient(45deg, red, orange, green, blue, indigo, violet); -webkit-background-clip: text; -webkit-text-fill-color: transparent;'>Problem Name : ");
 				let text = "<center><p>";
 				let char_len = 0;
 				for (let i=0; i<length; i++){
@@ -44,15 +44,14 @@ async function leetcode_company(){
 					}
 				}
 				text += "</p></center>";
-				document.write(problem_name);
-				document.write(text);
+				document.getElementById("main-content").innerHTML = problem_name + text;
 			}
 			else{ 
-				document.write(`<h3 style='margin-top: 50px; text-align: center;'>Sorry! Information Not Found.</h3>`);
+				document.getElementById("main-content").innerHTML = `<center><img src="res/404.gif" style="width: 400px;"></center>`;
 			}
 		}
 		else{
-			document.write(`<h3 style='margin-top: 50px; text-align: center;'>Sorry! I can only parse LeetCode site.</h3>`);
+			document.getElementById("main-content").innerHTML = `<center><img src="res/leetcode.gif" style="width: 400px;"></center>`;
 		}
 	});
 }
