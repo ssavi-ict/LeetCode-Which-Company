@@ -31,3 +31,5 @@ If you click on the ![icon](/res/32.png) from the *extensions* list -
 -----
 
 **Note**: Works currently with `Google Chrome`. Hopefully, I will be able to update this for all other major browsers.
+
+**Special Thanks** to @marjankhan945 for his emmense contribution, support and suggestions towards working on this project.
