@@ -1,7 +1,8 @@
 {
     "name": "LC-Which Company",
     "version": "1.0.0",
-    "description": "An extension that returns which company has asked a problem.",
+    "homepage_url":"https://github.com/ssavi-ict/LC-Which-Company",
+    "description": "While solving a LeetCode problem this extension shows the name of companies who asked that problem.",
     "manifest_version": 3,
     "author": "Avik Sarkar",
     "action":{
