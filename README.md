@@ -1,4 +1,4 @@
-# LC-Which-Company
+# LeetCode Which Company
 
 ## This extension gives you the information of the companies who asked a certain question in the technical interview.
 ------
