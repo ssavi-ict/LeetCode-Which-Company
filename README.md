@@ -17,7 +17,7 @@ On `Google Chrome` browser -
 1. Go to `Extensions`.
 2. Turn On `Developer Mode`.
 3. Click `Load Unpacked`.
-4. Show the path where this repostory located on your PC.
+4. Show the following path `<directory_path>/LC-Which-Company/blob/main/chrome/manifest.json` located on your PC.
 ----
 
 ### **2. Activate on Mozila Firefox browser**
