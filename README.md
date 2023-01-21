@@ -8,11 +8,11 @@ To activate this extension on your Google Chrome browser.
 
 Download the chrome version **[LeetCode Which Company.zip](https://github.com/ssavi-ict/LC-Which-Company/raw/main/chrome/LeetCode%20Which%20Company.zip)**. 
 -----
-On `Google Chrome` browser - 
-1. Go to `Extensions`.
-2. Turn On `Developer Mode`.
-3. Click `Load Unpacked`.
-4. Show the following path `<directory_path>/LC-Which-Company/blob/main/chrome/manifest.json` located on your PC.
+1. Extract the downloaded ZIP file
+2. On your `Google Chrome` browser, go to `Extensions`.
+3. Turn On `Developer Mode`.
+4. Click `Load Unpacked`.
+5. Show the following path `<directory_path>/LC-Which-Company/manifest.json` located on your PC.
 ----
 <br><br>
 ### **2. Activate on Mozila Firefox browser**
