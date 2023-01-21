@@ -1,8 +1,8 @@
 # LeetCode Which Company
 
 ## This extension gives you the information of the companies who asked a certain question in the technical interview.
-------
-
+------ 
+<br><br>
 ### **1. Activate on Google Chrome browser**
 To activate this extension on your Google Chrome browser, first `clone/download` this repository.
 
@@ -19,7 +19,7 @@ On `Google Chrome` browser -
 3. Click `Load Unpacked`.
 4. Show the following path `<directory_path>/LC-Which-Company/blob/main/chrome/manifest.json` located on your PC.
 ----
-
+<br><br>
 ### **2. Activate on Mozila Firefox browser**
 
 1. Go to this link - https://addons.mozilla.org/en-US/firefox/addon/leetcode-for-company/
@@ -40,7 +40,20 @@ When solving a problem if you click on the ![icon](chrome/res/32.png) from the *
 ![not found](chrome/res/showing_non_lc_ui.png)
 
 -----
+<br><br>
+
+# CONTRIBUTIONS
+We appreciate your intention towards contributing in this repository. 
+
+This extension is a small effort for all the LeetCode non-premium users who wants to have the company informations while solving a leetcode problem. 
+
+Currently we are accepting only the `Company Contributions` to enrich the company database. To contribute please follow the instructions of this issue [[CONTRIBUTE] Dear Contributors, Requesting Your Attention Regarding Company Contribution](https://github.com/ssavi-ict/LC-Which-Company/issues/4).
+
+----
+<br>
 
 **Note**: Works currently with `Google Chrome` and `Mozilla Firefox`. Hopefully, I will be able to update this for all other major browsers.
 
 **Special Thanks** to **B M Marjan Khan** [@marjankhan945](https://github.com/marjankhan945) for his emmense contribution, support and suggestions towards working on this project.
+
+Read the background about how I started working on this in [LC Which Company - A Company names retrieval extension](https://sites.google.com/view/iamavik/leetcode-which-company-a-company-names-retrieval-extension).
