@@ -6,7 +6,7 @@
 ### **1. Activate on Google Chrome browser**
 To activate this extension on your Google Chrome browser.
 
-Download the chrome version **[LeetCode Which Company.zip](https://github.com/ssavi-ict/LC-Which-Company/blob/main/chrome/LeetCode%20Which%20Company.zip)**. 
+Download the chrome version **[LeetCode Which Company.zip](https://github.com/ssavi-ict/LC-Which-Company/raw/main/chrome/LeetCode%20Which%20Company.zip)**. 
 -----
 On `Google Chrome` browser - 
 1. Go to `Extensions`.
