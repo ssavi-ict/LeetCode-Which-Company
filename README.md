@@ -4,14 +4,9 @@
 ------ 
 <br><br>
 ### **1. Activate on Google Chrome browser**
-To activate this extension on your Google Chrome browser, first `clone/download` this repository.
+To activate this extension on your Google Chrome browser.
 
-- To download simply **[Download ZIP](https://github.com/ssavi-ict/LC-Which-Company/archive/refs/heads/main.zip)**. 
-<br>OR<br>
-- Clone this repository, open Git Bash on your PC and write the following command -
-```
-git clone https://github.com/ssavi-ict/LC-Which-Company.git
-```
+Download the chrome version from **[Download ZIP](https://github.com/ssavi-ict/LC-Which-Company/archive/refs/heads/main.zip)**. 
 -----
 On `Google Chrome` browser - 
 1. Go to `Extensions`.
