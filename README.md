@@ -6,7 +6,7 @@
 ### **1. Activate on Google Chrome browser**
 To activate this extension on your Google Chrome browser.
 
-Download the chrome version **[LeetCode Which Company.zip](https://github.com/ssavi-ict/LC-Which-Company/raw/main/chrome/LeetCode%20Which%20Company.zip)**. 
+Download the chrome version **[LeetCode Which Company.zip](https://github.com/ssavi-ict/LC-Which-Company/raw/main/chrome/LC-Which-Company-chrome.zip)**. 
 -----
 1. Extract the downloaded ZIP file
 2. On your `Google Chrome` browser, go to `Extensions`.
@@ -27,6 +27,8 @@ When solving a problem if you click on the ![icon](chrome/res/32.png) from the *
 
 1. If the extension is able find the `Company Names` for the leetcode problem on the current window then it will show as follows - 
 ![found](chrome/res/showing_value_ui.png)
+💥 NEW FEATURE 💥
+- Once you click on the **[Complete List]** button it will open up a page where you can see all the problems available in our storage with company names are listed. [all_list](/chrome/res/complete_list.png)
 
 2. If the extension is not able to find the `Company Names` for the leetcode problem on the current window or if the current window is not a leetcode problem then it will show as follows - 
 ![not found](chrome/res/showing_not_found_ui.png)
@@ -41,6 +43,8 @@ When solving a problem if you click on the ![icon](chrome/res/32.png) from the *
 We appreciate your intention towards contributing in this repository. 
 
 This extension is a small effort for all the LeetCode non-premium users who wants to have the company informations while solving a leetcode problem. 
+
+We would request someone having **Chrome Developer** account contact *ssavi.ict@gmail.com* to publish this extension on chrome web store
 
 Currently we are accepting only the `Company Contributions` to enrich the company database. To contribute please follow the instructions of this issue [[CONTRIBUTE] Dear Contributors, Requesting Your Attention Regarding Company Contribution](https://github.com/ssavi-ict/LC-Which-Company/issues/4).
 
