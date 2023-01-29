@@ -44,11 +44,11 @@ When solving a problem if you click on the ![icon](chrome/res/32.png) from the *
 <br><br>
 
 # CONTRIBUTIONS
-We appreciate your intention towards contributing in this repository. 
+I appreciate your intentions for making contribution in this repository. 
 
-This extension is a small effort for all the LeetCode non-premium users who wants to have the company informations while solving a leetcode problem. 
+This extension is a small effort for all the LeetCode **non-premium** users who wants to have the company informations while solving a leetcode problem. 
 
-We would request someone having **Chrome Developer** account contact *ssavi.ict@gmail.com* to publish this extension on chrome web store
+I would request someone having **Chrome Developer** account contact *ssavi.ict@gmail.com* to publish this extension on chrome web store
 
 Currently we are accepting only the `Company Contributions` to enrich the company database. To contribute please follow the instructions of this issue [[CONTRIBUTE] Dear Contributors, Requesting Your Attention Regarding Company Contribution](https://github.com/ssavi-ict/LC-Which-Company/issues/4).
 
