@@ -52,6 +52,12 @@ We would request someone having **Chrome Developer** account contact *ssavi.ict@
 
 Currently we are accepting only the `Company Contributions` to enrich the company database. To contribute please follow the instructions of this issue [[CONTRIBUTE] Dear Contributors, Requesting Your Attention Regarding Company Contribution](https://github.com/ssavi-ict/LC-Which-Company/issues/4).
 
+
+Contributor(s) - 
+<a href="https://github.com/ssavi-ict/LC-Which-Company/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ssavi-ict/LC-Which-Company" />
+</a>
+
 ----
 <br>
 
