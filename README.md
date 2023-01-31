@@ -54,8 +54,8 @@ Currently we are accepting only the `Company Contributions` to enrich the compan
 
 
 Contributor(s) - 
-<a href="https://github.com/ssavi-ict/LC-Which-Company/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ssavi-ict/LC-Which-Company" />
+<a href="https://github.com/ssavi-ict/lc-which-company/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ssavi-ict/lc-which-company" />
 </a>
 
 ----
