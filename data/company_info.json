@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/naming-a-company/":[
+    "Naming a Company"
+  ],
   "https://leetcode.com/problems/cheapest-flights-within-k-stops/":[
 	"Cheapest Flights Within K Stops",
 	"Airbnb", "Amazon", "Facebook", "Coupang", "TikTok", "Google", "Apple", "Cisco", "Microsoft", "Snapchat", "Expedia", "InMobi", "Bloomberg", "Qualtrics", "Uber", "Wish"
