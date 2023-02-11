@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/shortest-path-with-alternating-colors/":[
+	"Shortest Path with Alternating Colors", "Bloomberg", "Google", "Wish", "LinkedIn", "Amazon"
+  ],
   "https://leetcode.com/problems/as-far-from-land-as-possible/":[
 	"As Far from Land as Possible", "Amazon", "Google", "Microsoft", "Uber", "UiPath"
   ],
@@ -5339,7 +5342,7 @@
   ],
   "https://leetcode.com/problems/wiggle-sort/": [
     "Wiggle Sort",
-    "Amazon"
+    "Amazon", "Microsoft", "Google"
   ],
   "https://leetcode.com/problems/perfect-squares/": [
     "Perfect Squares",
