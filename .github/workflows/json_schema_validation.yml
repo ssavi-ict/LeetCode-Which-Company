@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           json_schema: data/schema.schema
-          json_path_pattern: data/*.json$
+          json_path_pattern: data/company_info.json$
           send_comment: false
           clear_comments: false
       
