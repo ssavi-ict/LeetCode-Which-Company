@@ -2,20 +2,29 @@ name: JSON Schema Validation
 
 on:
   pull_request:
-    branches: [main]
+    branches:
+      - main
+  push:
     paths:
-      - data/company_info.json
+      - '../../data/company_info.json'
 
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Validate JSON Schema
-        uses: snapcart/json-schema-validator@v1.0.0
-        with: 
-          token: ${{ secrets.GITHUB_TOKEN }}
-          json_schema: data/schema.json
-          json_path_pattern: data/company_info.json
-          send_comment: true
-          clear_comments: true
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install jsonschema jq
+      - name: Validate JSON schema
+        run: |
+          json_schema="../../data/schema.json"
+          json_path_pattern="../../data/company_info.json"
+          python validate_json.py "$json_schema" "$json_path_pattern"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
