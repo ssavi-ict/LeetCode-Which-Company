@@ -1,9 +1,11 @@
 name: JSON Schema Validation
 
 on:
-  push:
+  pull_request:
+    branches:
+      - main
     paths:
-      - 'data/**/*.json'
+      - 'data/company_info.json'
 
 jobs:
   validate:
