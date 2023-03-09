@@ -25,6 +25,6 @@ jobs:
         run: |
           json_schema="../../data/schema.json"
           json_path_pattern="../../data/company_info.json"
-          python .github/workflows/validate_json.py "$json_schema" "$json_path_pattern"
+          python .github/workflows/validate_json.py "$json_schema" "$json_path_pattern" true true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
