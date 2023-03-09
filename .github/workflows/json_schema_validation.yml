@@ -3,9 +3,8 @@ name: Configuration Validation
 on:
   pull_request:
     branches:
-      - master
+      - main
 
-name: Pull request workflow
 jobs:
   validate_configurations:
     name: Validate Configuration
