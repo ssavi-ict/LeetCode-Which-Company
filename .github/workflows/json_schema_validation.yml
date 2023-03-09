@@ -1,30 +1,23 @@
-name: JSON Schema Validation
+name: Configuration Validation
 
 on:
   pull_request:
     branches:
-      - main
-  push:
-    paths:
-      - '../../data/company_info.json'
+      - master
 
+name: Pull request workflow
 jobs:
-  validate:
+  validate_configurations:
+    name: Validate Configuration
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.9
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install jsonschema jq requests
       - name: Validate JSON schema
-        run: |
-          json_schema="../../data/schema.json"
-          json_path_pattern="../../data/company_info.json"
-          python .github/workflows/validate_json.py "$json_schema" "$json_path_pattern" true true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: snapcart/json-schema-validator@v1.0.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          json_schema: data/schema.schema
+          json_path_pattern: data/*.json$
+          send_comment: true
+          clear_comments: true
+      
