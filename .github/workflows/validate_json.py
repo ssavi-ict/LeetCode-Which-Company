@@ -4,7 +4,7 @@ from distutils.util import strtobool
 
 import jq
 
-from utils import (BASE, create_comment, delete_comments, json_from_file,
+from utils import (BASE_URL, create_comment, delete_comments, json_from_file,
                    request, validate_file)
 
 json_schema = os.getenv('INPUT_JSON_SCHEMA')
@@ -15,7 +15,7 @@ clear_comments = strtobool(os.getenv('INPUT_CLEAR_COMMENTS'))
 event_path = os.getenv('GITHUB_EVENT_PATH')
 repo = os.getenv('GITHUB_REPOSITORY')
 
-PR_FILES = BASE + '/repos/{repo}/pulls/{pull_number}/files'
+PR_FILES = BASE_URL + '/repos/{repo}/pulls/{pull_number}/files'
 
 event = json_from_file(event_path)
 pull_number = jq.compile('.pull_request.number').input(event).first()
