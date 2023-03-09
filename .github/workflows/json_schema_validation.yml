@@ -2,10 +2,9 @@ name: JSON Schema Validation
 
 on:
   pull_request:
-    branches:
-      - main
+    branches: [main]
     paths:
-      - 'data/company_info.json'
+      - data/company_info.json
 
 jobs:
   validate:
@@ -17,6 +16,6 @@ jobs:
         with: 
           token: ${{ secrets.GITHUB_TOKEN }}
           json_schema: data/schema.json
-          json_path_pattern: data/*.json
+          json_path_pattern: data/company_info.json
           send_comment: true
           clear_comments: true
