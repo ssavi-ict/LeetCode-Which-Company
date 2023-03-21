@@ -1,9 +1,12 @@
 {
+  "https://leetcode.com/problems/number-of-zero-filled-subarrays/":[
+	"Number of Zero-Filled Subarrays", "Google"
+  ],
   "https://leetcode.com/problems/count-subarrays-with-fixed-bounds/":[
-  "Count Subarrays With Fixed Bounds", "Google"
+		"Count Subarrays With Fixed Bounds", "Google"
   ],
   "https://leetcode.com/problems/koko-eating-bananas/":[
-  "Koko Eating Bananas", "Facebook"
+		"Koko Eating Bananas", "Facebook"
   ],
   "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/":[
 	"Find the Index of the First Occurrence in a String",
