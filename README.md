@@ -6,7 +6,7 @@
 ### **1. Activate on Google Chrome browser**
 To activate this extension on your Google Chrome browser.
 
-Download the chrome version from the release page **[LC-Which-Company-chrome-x.x.x.zip](https://github.com/ssavi-ict/LC-Which-Company/releases/)**. 
+- ## Download the chrome version from the release page **[LC-Which-Company-chrome-x.x.x.zip](https://github.com/ssavi-ict/LC-Which-Company/releases/)**. 
 -----
 1. Extract the downloaded ZIP file
 2. On your `Google Chrome` browser, go to `Extensions`.
@@ -17,9 +17,9 @@ Download the chrome version from the release page **[LC-Which-Company-chrome-x.x
 <br><br>
 ### **2. Activate on Mozila Firefox browser**
 
-1. Go to this link - https://addons.mozilla.org/en-US/firefox/addon/leetcode-for-company/
+- ## Install the extension from - https://addons.mozilla.org/en-US/firefox/addon/leetcode-for-company/
 
-2. Install it using **Add to Firefox**.
+- Click on **Add to Firefox**.
 
 ---
 ### **3. How to check which company asked a Problem ?**
