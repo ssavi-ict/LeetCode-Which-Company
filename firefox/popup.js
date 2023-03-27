@@ -47,7 +47,12 @@ async function leetcode_company(){
 				document.getElementById("main-content").innerHTML = problem_name + text;
 			}
 			else{ 
-				document.getElementById("main-content").innerHTML = `<center><img src="res/404.gif" style="width: 400px;"></center>`;
+				let text = "<center><p>";
+				text += "<p style='display: inline-block; border-radius: 2px; margin-bottom:5px; font-size:14px;'>&nbsp;<b>";
+				text += "This problem is either not asked by any Company.<br><br>OR<br><br>The company information not yet updated.<br>Please bear with us.<br>We will update the information soon.<br><br>";
+				text += "However, you can contribute if you have any information.<br>Click below button to Contribute.&nbsp; </b></p>&nbsp;";
+				text += "</p></center>";
+				document.getElementById("main-content").innerHTML = text;
 			}
 		}
 		else{
