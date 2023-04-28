@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/similar-string-groups/":[
+	"Similar String Groups", "Apple", "PayPal"
+  ],
   "https://leetcode.com/problems/smallest-number-in-infinite-set/":[
 	"Smallest Number in Infinite Set", "Google", "Amazon", "Apple"
   ],
