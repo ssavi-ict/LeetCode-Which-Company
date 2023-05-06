@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/":[
+	"Number of Subsequences That Satisfy the Given Sum Condition", "Amazon", "Facebook", "Snapchat"
+  ],
   "https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/":[
 	"Remove Max Number of Edges to Keep Graph Fully Traversable", "Google"
   ],
