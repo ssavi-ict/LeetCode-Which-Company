@@ -1,4 +1,4 @@
-name: Configuration Validation
+name: JSON Validation
 
 on:
   pull_request:
@@ -7,16 +7,13 @@ on:
 
 jobs:
   validate_configurations:
-    name: Validate Configuration
+    name: Validate JSON
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Validate JSON schema
-        uses: snapcart/json-schema-validator@v1.0.0
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          json_schema: data/schema.schema
-          json_path_pattern: data/company_info.json$
-          send_comment: false
-          clear_comments: false
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: data/schema.schema
+          INPUT_JSONS: data/company_info.json
       
