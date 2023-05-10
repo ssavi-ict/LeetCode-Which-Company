@@ -7103,7 +7103,7 @@
     "Spiral Matrix II",
     "tiktok",
     "Apple",
-    "Amazon"
+    "Amazon", "Microsoft"
   ],
   "https://leetcode.com/problems/length-of-last-word/": [
     "Length of Last Word",
@@ -7166,8 +7166,8 @@
     "Google",
     "Adobe",
     "LiveRamp",
-    "Zillow",
-    "Uber"
+    "Zillow", "Oracle", "Wipro", "Jio", "Accenture", "PayTM", "OYO", "Cisco", "Zoho",
+    "Uber", "JPMorgan", "SAP Labs", "Cognizant", "Salesforce", "Browserstack"
   ],
   "https://leetcode.com/problems/maximum-subarray/": [
     "Maximum Subarray",
