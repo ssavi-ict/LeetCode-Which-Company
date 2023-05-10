@@ -12,25 +12,21 @@ Install this extension/add-on and boost your prep. Wishing you all the very best
 ------ 
 <br><br>
 ### **1. Activate on Google Chrome browser**
-To activate this extension on your Google Chrome browser.
 
-- ## Download the chrome version from the release page **[LC-Which-Company-chrome-x.x.x.zip](https://github.com/ssavi-ict/LC-Which-Company/releases/)**. 
------
-1. Extract the downloaded ZIP file
-2. On your `Google Chrome` browser, go to `Extensions`.
-3. Turn On `Developer Mode`.
-4. Click `Load Unpacked`.
-5. Show the following path `<directory_path>/LC-Which-Company/manifest.json` located on your PC.
+- ## Install the extension from Chrome Web Store - https://chrome.google.com/webstore/detail/leetcode-which-company/fmbicfmfmangckllfaomfkhdankgapfk
 ----
 <br><br>
 ### **2. Activate on Mozila Firefox browser**
 
-- ## Install the extension from - https://addons.mozilla.org/en-US/firefox/addon/leetcode-for-company/
+- ## Install the add-on from firefox add-on store - https://addons.mozilla.org/en-US/firefox/addon/leetcode-for-company/
+---
+<br><br>
+### **3. Activate on Microsoft Edge browser**
 
-- Click on **Add to Firefox**.
+- ## Install the extension from - https://microsoftedge.microsoft.com/addons/detail/leetcode-which-company/aknogcjbpnfdmmnlphmkpcldbepblapf
 
 ---
-### **3. How to check which company asked a Problem ?**
+### **4. How to check which company asked a Problem ?**
 When solving a problem if you click on the ![icon](chrome/res/32.png) from the *extensions* / *add ons* list -
 
 1. If the extension is able find the `Company Names` for the leetcode problem on the current window then it will show as follows - 
@@ -56,7 +52,7 @@ I appreciate your intentions for making contribution in this repository.
 
 This extension is a small effort for all the LeetCode **non-premium** users who wants to have the company informations while solving a leetcode problem. 
 
-I would request someone having **Chrome Developer** account contact *ssavi.ict@gmail.com* to publish this extension on chrome web store
+~~I would request someone having **Chrome Developer** account contact *ssavi.ict@gmail.com* to publish this extension on chrome web store.~~
 
 Currently we are accepting only the `Company Contributions` to enrich the company database. To contribute please follow the instructions of this issue [[CONTRIBUTE] Dear Contributors, Requesting Your Attention Regarding Company Contribution](https://github.com/ssavi-ict/LC-Which-Company/issues/4).
 
