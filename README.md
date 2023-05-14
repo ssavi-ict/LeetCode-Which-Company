@@ -12,11 +12,9 @@ Install this extension/add-on and boost your prep. Wishing you all the very best
 ------ 
 ## How this extension works - 
 Check following video - <br>
-<center> 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hq_aiK_POY0" target="_blank">
- <img src="https://img.youtube.com/vi/hq_aiK_POY0/default.jpg" width="560" height="315" border="1" />
+ <img src="https://img.youtube.com/vi/hq_aiK_POY0/hqdefault.jpg" width="560" height="315" border="1" />
 </a>
-</center>
 <br><br>
 
 ### **1. Activate on Google Chrome browser**
