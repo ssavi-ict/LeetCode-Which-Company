@@ -10,7 +10,15 @@ However, since I am continuously updating company information solely, you might 
 Install this extension/add-on and boost your prep. Wishing you all the very best in your journey.
 
 ------ 
+## How this extension works - 
+Check following video - <br>
+<center> 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hq_aiK_POY0" target="_blank">
+ <img src="https://img.youtube.com/vi/hq_aiK_POY0/default.jpg" width="560" height="315" border="1" />
+</a>
+</center>
 <br><br>
+
 ### **1. Activate on Google Chrome browser**
 
 - ## Install the extension from Chrome Web Store - https://chrome.google.com/webstore/detail/leetcode-which-company/fmbicfmfmangckllfaomfkhdankgapfk
@@ -29,20 +37,21 @@ Install this extension/add-on and boost your prep. Wishing you all the very best
 ### **4. How to check which company asked a Problem ?**
 When solving a problem if you click on the ![icon](chrome/res/32.png) from the *extensions* / *add ons* list -
 
-1. If the extension is able find the `Company Names` for the leetcode problem on the current window then it will show as follows - 
+a. If the extension is able find the `Company Names` for the leetcode problem on the current window then it will show as follows - 
 ![found](chrome/res/showing_value_ui.png)
 
     **💥 NEW FEATURE 💥**
     -  Once you click on the **[Complete List]** button it will open up a page where you can see all the problems available in our storage with company names are listed as follows - <img src = "chrome/res/complete_list.png">
 
 
-2. If the extension is not able to find the `Company Names` for the leetcode problem on the current window or if the current window is not a leetcode problem then it will show as follows - 
+b. If the extension is not able to find the `Company Names` for the leetcode problem on the current window or if the current window is not a leetcode problem then it will show as follows - 
 ![not found](chrome/res/showing_not_found_ui.png)
 
 
 
-3. If the extension is clicked on a `non-leetcode` site then it will show as follows - 
+c. If the extension is clicked on a `non-leetcode` site then it will show as follows - 
 ![not found](chrome/res/showing_non_lc_ui.png)
+
 
 -----
 <br><br>
