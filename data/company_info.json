@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/shortest-bridge/":[
+	"Shortest Bridge", "Goldman Sachs", "Dell", "Uber", "Facebook", "Walmart"
+  ],
   "https://leetcode.com/problems/is-graph-bipartite/":[
 	"Is Graph Bipartite?", "Samsung", "Infosys", "Facebook", "PegaSystems", "Goldman Sachs", "Uber", "eBay", "Walmart", "OYO", "Triology", "Bunzo"
   ],
