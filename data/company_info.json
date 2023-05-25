@@ -1,4 +1,13 @@
 {
+  "https://leetcode.com/problems/maximum-subsequence-score/":[
+	"Maximum Subsequence Score", "Uber", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-performance-of-a-team/":[
+	"Maximum Performance of a Team", "Uber", "Amazon"
+  ],
+  "https://leetcode.com/problems/new-21-game/":[
+	"New 21 Game", "Google"
+  ],
   "https://leetcode.com/problems/shortest-bridge/":[
 	"Shortest Bridge", "Goldman Sachs", "Dell", "Uber", "Facebook", "Walmart", "Snap"
   ],
