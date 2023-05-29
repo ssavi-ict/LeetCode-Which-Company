@@ -1,4 +1,4 @@
-# LeetCode Which Company
+# CrackTech - Find LeetCode Company Tags
 
 ## This extension gives you the information of the companies who asked a certain question in the technical interview.
 Are you preparing for your technical interviews? Are you looking for the question asked by companies like Microsoft, Google, Meta, Apple, etc.? Then this extension gives you what you are looking for.
@@ -15,7 +15,7 @@ Install this extension/add-on and boost your prep. Wishing you all the very best
 - Regular updates on company information.
 - Company based problem list at a glance.
 - A pop-up window extension. No garbage, just the content you needed.
-- Flexible to LeetCode UI changes.
+- Flexible to LeetCode UI changes. So no downtime on your preparation.
 - No data collection.
 
 ------ 
@@ -26,17 +26,19 @@ Install this extension/add-on and boost your prep. Wishing you all the very best
 </a></center>
 <br><br>
 
-### **1. Activate on Google Chrome browser**
+### **1. Chrome WebStore**
 
 - ## Install the extension from Chrome Web Store - https://chrome.google.com/webstore/detail/leetcode-which-company/fmbicfmfmangckllfaomfkhdankgapfk
 ----
 <br><br>
-### **2. Activate on Mozila Firefox browser**
+
+### **2. Firefox AddOn Store**
 
 - ## Install the add-on from firefox add-on store - https://addons.mozilla.org/en-US/firefox/addon/leetcode-for-company/
 ---
 <br><br>
-### **3. Activate on Microsoft Edge browser**
+
+### **3. MS Edge Store**
 
 - ## Install the extension from - https://microsoftedge.microsoft.com/addons/detail/leetcode-which-company/aknogcjbpnfdmmnlphmkpcldbepblapf
 
@@ -47,17 +49,15 @@ When solving a problem if you click on the ![icon](chrome/res/32.png) from the *
 a. If the extension is able find the `Company Names` for the leetcode problem on the current window then it will show as follows - 
 ![found](chrome/res/showing_value_ui.png)
 
-    **💥 NEW FEATURE 💥**
-    -  Once you click on the **[Complete List]** button it will open up a page where you can see all the problems available in our storage with company names are listed as follows - <img src = "chrome/res/complete_list.png">
+**💥 NEW FEATURE 💥**
+    
+-  Once you click on the **[Complete List]** button it will open up a page where you can see all the problems available in our storage with company names are listed as follows - <img src = "chrome/res/complete_list.png">
 
 
-b. If the extension is not able to find the `Company Names` for the leetcode problem on the current window or if the current window is not a leetcode problem then it will show as follows - 
-![not found](chrome/res/showing_not_found_ui.png)
+b. If the extension is not able to find the `Company Names` for the leetcode problem on the current window or if the current window is not a leetcode problem then it will show a **Problem Not Found** message.
 
 
-
-c. If the extension is clicked on a `non-leetcode` site then it will show as follows - 
-![not found](chrome/res/showing_non_lc_ui.png)
+c. If the extension is clicked on a `non-leetcode` site then it will show a **Not a LeetCode Site** message.
 
 
 -----
