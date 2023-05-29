@@ -10,11 +10,20 @@ However, since I am continuously updating company information solely, you might 
 Install this extension/add-on and boost your prep. Wishing you all the very best in your journey.
 
 ------ 
+## How this extension is different from existing others - 
+
+- Regular updates on company information.
+- Company based problem list at a glance.
+- A pop-up window extension. No garbage, just the content you needed.
+- Flexible to LeetCode UI changes.
+- No data collection.
+
+------ 
 ## How this extension works - 
-Check following video - <br>
+<center><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hq_aiK_POY0" target="_blank">
  <img src="https://img.youtube.com/vi/hq_aiK_POY0/hqdefault.jpg" width="560" height="315" border="1" />
-</a>
+</a></center>
 <br><br>
 
 ### **1. Activate on Google Chrome browser**
