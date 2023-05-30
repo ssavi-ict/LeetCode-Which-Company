@@ -1,4 +1,4 @@
-# CrackTech - Find LeetCode Company Tags
+# CrackTech - Get LeetCode Company Tags
 
 ## This extension gives you the information of the companies who asked a certain question in the technical interview.
 Are you preparing for your technical interviews? Are you looking for the question asked by companies like Microsoft, Google, Meta, Apple, etc.? Then this extension gives you what you are looking for.

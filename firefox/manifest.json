@@ -1,13 +1,13 @@
 {
-    "name": "LeetCode Which Company",
-    "version": "1.0.4",
+    "name": "CrackTech - Find LeetCode Company Tags",
+    "version": "1.0.5",
     "homepage_url":"https://github.com/ssavi-ict/LC-Which-Company",
-    "description": "While solving a LeetCode problem this extension shows the name of companies who asked that problem.",
+    "description": "An extension that can help candidate to prepare for a Company specific DSA interview.",
     "manifest_version": 2,
     "author": "Avik Sarkar",
     "browser_action":{
         "default_popup": "popup.html",
-        "default_title": "LeetCode Which Company"
+        "default_title": "CrackTech - Find LeetCode Company Tags"
     },
     "icons": {
         "32": "res/32.png"

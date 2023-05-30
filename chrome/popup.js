@@ -17,6 +17,14 @@ async function leetcode_company(){
 		document.write(`<li>${tabs[0].url}</li>`);
 		document.write('</ul>');*/
 		let url = tabs[0].url;
+		if (url.startsWith("http://")) {
+			url = url.replace("http://", "https://");
+		}
+
+		if (url.startsWith("https://leetcode.cn/")) {
+			url = url.replace("https://leetcode.cn/", "https://leetcode.com/");
+		}
+		
 		if (url.includes("leetcode")){
 			const requestURL = 'https://raw.githubusercontent.com/ssavi-ict/LC-Which-Company/main/data/company_info.json';
 			const request = new Request(requestURL);
@@ -56,7 +64,12 @@ async function leetcode_company(){
 			}
 		}
 		else{
-			document.getElementById("main-content").innerHTML = `<center><img src="res/leetcode.gif" style="width: 400px;"></center>`;
+			let text = "<center><p>";
+			text += "<p style='display: inline-block; border-radius: 2px; margin-bottom:5px; font-size:14px;'>&nbsp;<b>";
+			text += "This is a Non-LeetCode Website.";
+			text += "</b></p>&nbsp;";
+			text += "</p></center>";
+			document.getElementById("main-content").innerHTML = text;
 		}
 	});
 }
