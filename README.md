@@ -1,11 +1,12 @@
-# CrackTech - Get LeetCode Company Tags
+# CrackTech - Get LeetCode Company Tags 
 
-## This extension gives you the information of the companies who asked a certain question in the technical interview.
+## CrackTech (previously *LeetCode Which Company*) gives you the information of the companies who asked a certain question in the technical interview.
+---
 Are you preparing for your technical interviews? Are you looking for the question asked by companies like Microsoft, Google, Meta, Apple, etc.? Then this extension gives you what you are looking for.
 
 This extension is my effort to make your preparation one step better. If you are solving problems on Leetcode and you do not have a premium account to see company information then I am definite that this extension will give you the same experience to some extent. You can prepare for your dream companies and sharpen your DSA skill accordingly.
 
-However, since I am continuously updating company information solely, you might not get company information for every single problem as you can find in Leetcode premium. I collect company information from different sources on the internet and update it in my database. So in some cases, you might get some more company information than Leetcode provides.
+However, since I am continuously updating company information solely, you might not get company information for every single problem as you can find in Leetcode premium. I collect company information from different sources on the internet and update it in my database. So in some cases, you might get **some more company information** than Leetcode provides.
 
 Install this extension/add-on and boost your prep. Wishing you all the very best in your journey.
 
@@ -13,6 +14,7 @@ Install this extension/add-on and boost your prep. Wishing you all the very best
 ## How this extension is different from existing others - 
 
 - Regular updates on company information.
+- Addition of new company information for problems almost everyday.
 - Company based problem list at a glance.
 - A pop-up window extension. No garbage, just the content you needed.
 - Flexible to LeetCode UI changes. So no downtime on your preparation.

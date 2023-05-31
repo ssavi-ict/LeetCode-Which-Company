@@ -14,12 +14,29 @@
             word-wrap: break-word;
             text-align: center;
         }
+        tr:first-child {
+            background-color: lightblue;
+            height: 25px;
+        }
+        td:first-child {
+            font-weight: bold;
+            font-size: 24px;
+        }
         td a {
             display: block;
             font-size: 12px;
             font-weight: bold;
             text-decoration: none;
             color: black;
+        }
+        tr {
+            margin-top: 10px;
+        }
+        .footer {
+            text-align: center;
+            font-size: 12px;
+            color: gray;
+            margin-top: 3px;
         }
     </style>
 </head>
@@ -30,11 +47,17 @@
     <div class="footer_content" id="footer_content_1">
         <table>
             <tr>
+                <td colspan="3"><a href="index.html" target="_blank">All Company</a></td>
+            </tr>
+            <tr>
               <td><a href="https://github.com/ssavi-ict/LeetCode-Which-Company/issues/4" target="_blank">Contribute</a></td>
+              <td><a href="https://forms.gle/cAW1jxYxUTwgUmMd9" target="_blank">Feedback</a></td>
               <td><a href="https://www.buymeacoffee.com/ssavi" target="_blank">Buy Me A Coffee</a></td>
-              <td><a href="index.html" target="_blank">All Company</a></td>
             </tr>
           </table>
+    </div>
+    <div class="footer">
+        &copy; ssavi
     </div>
 </body>
 <script type="text/javascript" src="popup.js"></script>
