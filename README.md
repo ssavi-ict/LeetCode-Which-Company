@@ -23,8 +23,8 @@ Install this extension/add-on and boost your prep. Wishing you all the very best
 ------ 
 ## How this extension works - 
 <center><br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hq_aiK_POY0" target="_blank">
- <img src="https://img.youtube.com/vi/hq_aiK_POY0/hqdefault.jpg" width="560" height="315" border="1" />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kELpCJ3Rc_Q" target="_blank">
+ <img src="https://img.youtube.com/vi/kELpCJ3Rc_Q/hqdefault.jpg" width="560" height="315" border="1" />
 </a></center>
 <br><br>
 
