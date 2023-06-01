@@ -2334,9 +2334,9 @@
   ],
   "https://leetcode.com/problems/shortest-path-in-binary-matrix/": [
     "Shortest Path in Binary Matrix",
-    "Facebook",
-    "Amazon",
-    "Microsoft",
+    "Facebook",  "Samsung", "Dunzo", "Oracle", "Intuit", "Goldman Sachs", "MakeMyTrip", "JP Morgan and Chase",
+    "Amazon", "Sprinklr", "Cognizant", "VMWare", "inMobi", "Juspay", "Publicis Sapient", "BlackRock",
+    "Microsoft", "Myntra",
     "Google",
     "Snapchat",
     "Adobe"
