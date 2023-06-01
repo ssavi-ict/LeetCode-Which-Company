@@ -30,38 +30,43 @@ Install this extension/add-on and boost your prep. Wishing you all the very best
 
 ### **1. Chrome WebStore**
 
-- ## Install the extension from Chrome Web Store - https://chrome.google.com/webstore/detail/leetcode-which-company/fmbicfmfmangckllfaomfkhdankgapfk
+- ## Available in Chrome Web Store - <a href = "https://chrome.google.com/webstore/detail/leetcode-which-company/fmbicfmfmangckllfaomfkhdankgapfk" target="_blank">![chrome webstore](/static/chrome-webstore.png)</a>
 ----
 <br><br>
 
 ### **2. Firefox AddOn Store**
 
-- ## Install the add-on from firefox add-on store - https://addons.mozilla.org/en-US/firefox/addon/leetcode-for-company/
+- ## Available in firefox add-on store - <a href = "https://addons.mozilla.org/en-US/firefox/addon/leetcode-for-company/" target="_blank">![firefox add on store](/static/firefox-add-on-store.PNG)</a>
 ---
 <br><br>
 
-### **3. MS Edge Store**
+### **3. MS Edge Add On Store**
 
-- ## Install the extension from - https://microsoftedge.microsoft.com/addons/detail/leetcode-which-company/aknogcjbpnfdmmnlphmkpcldbepblapf
+- ## Available in MS Edge Add On Store - <a href = "https://microsoftedge.microsoft.com/addons/detail/leetcode-which-company/aknogcjbpnfdmmnlphmkpcldbepblapf" target="_blank">![Edge Add On Store](/static/ms-edge-store.PNG)</a>
 
 ---
 ### **4. How to check which company asked a Problem ?**
 When solving a problem if you click on the ![icon](chrome/res/32.png) from the *extensions* / *add ons* list -
 
-a. If the extension is able find the `Company Names` for the leetcode problem on the current window then it will show as follows - 
-![found](chrome/res/showing_value_ui.png)
+- If the extension is able find the `Company Names` for the leetcode problem on the current window then it will show as follows - 
+![found](/static/webfile/info_shows.PNG)
 
-**💥 NEW FEATURE 💥**
+- **💥 NEW FEATURE 💥**
     
--  Once you click on the **[Complete List]** button it will open up a page where you can see all the problems available in our storage with company names are listed as follows - <img src = "chrome/res/complete_list.png">
+    - Once you click on the **[All Company]** button it will open up a page where you can see all the problems available in our storage with company names are listed as follows - ![all company](/static/webfile/complete_list.png)
 
 
-b. If the extension is not able to find the `Company Names` for the leetcode problem on the current window or if the current window is not a leetcode problem then it will show a **Problem Not Found** message.
+- If the extension is not able to find the `Company Names` for the leetcode problem on the current window or if the current window is not a leetcode problem then it will show a **Company information not found** message.
 
 
-c. If the extension is clicked on a `non-leetcode` site then it will show a **Not a LeetCode Site** message.
+- If the extension is clicked on a `non-leetcode` site then it will show a **Not a LeetCode site** message.
 
 
+-----
+# Feedback
+- Let me know how can I improve this extension. Give your <a href='https://forms.gle/cAW1jxYxUTwgUmMd9' target="_blank">![feedback](/static/feedback-button-file.png)</a>.
+
+- If you find this work impactful for you and if you are interested enough, <a href="https://www.buymeacoffee.com/ssavi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> then.
 -----
 <br><br>
 
@@ -69,8 +74,6 @@ c. If the extension is clicked on a `non-leetcode` site then it will show a **No
 I appreciate your intentions for making contribution in this repository. 
 
 This extension is a small effort for all the LeetCode **non-premium** users who wants to have the company informations while solving a leetcode problem. 
-
-~~I would request someone having **Chrome Developer** account contact *ssavi.ict@gmail.com* to publish this extension on chrome web store.~~
 
 Currently we are accepting only the `Company Contributions` to enrich the company database. To contribute please follow the instructions of this issue [[CONTRIBUTE] Dear Contributors, Requesting Your Attention Regarding Company Contribution](https://github.com/ssavi-ict/LC-Which-Company/issues/4).
 

@@ -57,8 +57,7 @@ async function leetcode_company(){
 			else{ 
 				let text = "<center><p>";
 				text += "<p style='display: inline-block; border-radius: 2px; margin-bottom:5px; font-size:14px;'>&nbsp;<b>";
-				text += "This problem is either not asked by any Company.<br><br>OR<br><br>The company information not yet updated.<br>Please bear with us.<br>We will update the information soon.<br><br>";
-				text += "However, you can contribute if you have any information.<br>Click below button to Contribute.&nbsp; </b></p>&nbsp;";
+				text += "Could not locate any Company information for this problem.<br><br>We are looking into collecting company information.<br>We will update soon once we have it.<br><br>";
 				text += "</p></center>";
 				document.getElementById("main-content").innerHTML = text;
 			}
