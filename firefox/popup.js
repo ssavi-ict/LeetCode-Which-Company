@@ -17,6 +17,14 @@ async function leetcode_company(){
 		document.write(`<li>${tabs[0].url}</li>`);
 		document.write('</ul>');*/
 		let url = tabs[0].url;
+		if (url.startsWith("http://")) {
+			url = url.replace("http://", "https://");
+		}
+
+		if (url.startsWith("https://leetcode.cn/")) {
+			url = url.replace("https://leetcode.cn/", "https://leetcode.com/");
+		}
+		
 		if (url.includes("leetcode")){
 			const requestURL = 'https://raw.githubusercontent.com/ssavi-ict/LC-Which-Company/main/data/company_info.json';
 			const request = new Request(requestURL);
@@ -49,14 +57,18 @@ async function leetcode_company(){
 			else{ 
 				let text = "<center><p>";
 				text += "<p style='display: inline-block; border-radius: 2px; margin-bottom:5px; font-size:14px;'>&nbsp;<b>";
-				text += "This problem is either not asked by any Company.<br><br>OR<br><br>The company information not yet updated.<br>Please bear with us.<br>We will update the information soon.<br><br>";
-				text += "However, you can contribute if you have any information.<br>Click below button to Contribute.&nbsp; </b></p>&nbsp;";
+				text += "Could not locate any Company information for this problem.<br><br>We are looking into collecting company information.<br>We will update soon once we have it.<br><br>";
 				text += "</p></center>";
 				document.getElementById("main-content").innerHTML = text;
 			}
 		}
 		else{
-			document.getElementById("main-content").innerHTML = `<center><img src="res/leetcode.gif" style="width: 400px;"></center>`;
+			let text = "<center><p>";
+			text += "<p style='display: inline-block; border-radius: 2px; margin-bottom:5px; font-size:14px;'>&nbsp;<b>";
+			text += "This is a Non-LeetCode Website.";
+			text += "</b></p>&nbsp;";
+			text += "</p></center>";
+			document.getElementById("main-content").innerHTML = text;
 		}
 	});
 }
