@@ -36,7 +36,7 @@ Install this extension/add-on and boost your prep. Wishing you all the very best
 
 ### **2. Firefox AddOn Store**
 
-- ## Available in firefox add-on store - <a href = "https://addons.mozilla.org/en-US/firefox/addon/leetcode-for-company/" target="_blank">![firefox add on store](/static/firefox-add-on-store.PNG)</a>
+- ## Available in firefox add-on store - <a href = "https://addons.mozilla.org/en-US/firefox/addon/cracktech-leetcode-company-tag/" target="_blank">![firefox add on store](/static/firefox-add-on-store.PNG)</a>
 ---
 <br><br>
 
