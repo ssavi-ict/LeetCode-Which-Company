@@ -1,8 +1,8 @@
 # Find all the change history listed below 
 
-**[08/05/2023]**
+**[03/06/2023]**
 - Improved User Interface.
-- Extension name updated to `CrackTech - Get LeetCode Company Tags` from `LeetCode Which Company`
+- Extension name updated to `CrackTech - Find LeetCode Company Tags` from `LeetCode Which Company`
 - Updated position of `Contribution` button.
 - `Complete List` button updated to `All Company` button.
 - Updated position of `All Company` button.
