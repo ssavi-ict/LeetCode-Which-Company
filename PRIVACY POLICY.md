@@ -1,7 +1,7 @@
 # Privacy Policy 
-### Last Updated On 03-June-2023 
+### Last Updated On 04-June-2023 
 ### Effective Date 09-May-2023 
- This Privacy Policy describes the policies of **CrackTech - Get LeetCode Company Tags, Dhaka, Dhaka 1205, Bangladesh, email: ssavi.cou@gmail.com, phone: 01783332998** (previously LeetCode Which Company) on the collection, use and disclosure of your information that we collect when you use our website ( https://github.com/ssavi-ict/LeetCode-Which-Company ). (the **“Service”**). By accessing or using the Service, you are consenting to the collection, use and disclosure of your information in accordance with this Privacy Policy. If you do not consent to the same, please do not access or use the Service. 
+ This Privacy Policy describes the policies of **CrackTech - Find LeetCode Company Tags, Dhaka, Dhaka 1205, Bangladesh, email: ssavi.cou@gmail.com, phone: 01783332998** (previously LeetCode Which Company) on the collection, use and disclosure of your information that we collect when you use our website ( https://github.com/ssavi-ict/LeetCode-Which-Company ). (the **“Service”**). By accessing or using the Service, you are consenting to the collection, use and disclosure of your information in accordance with this Privacy Policy. If you do not consent to the same, please do not access or use the Service. 
 
  We may modify this Privacy Policy at any time without any prior notice to you and will post the revised Privacy Policy on the Service. The revised Policy will be effective 180 days from when the revised Policy is posted in the Service and your continued access or use of the Service after such time will constitute your acceptance of the revised Privacy Policy. We therefore recommend that you periodically review this page. 
  
@@ -17,6 +17,6 @@
  Our Service may contain links to other websites that are not operated by us. This Privacy Policy does not address the privacy policy and other practices of any third parties, including any third party operating any website or service that may be accessible via a link on the Service. We strongly advise you to review the privacy policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services. 
  
  ## Grievance / Data Protection Officer: 
- If you have any queries or concerns about the processing of your information that is available with us, you may email our Grievance Officer at **CrackTech - Get LeetCode Company Tags, Dhaka, email: ssavi.cou@gmail.com**. We will address your concerns in accordance with applicable law. 
+ If you have any queries or concerns about the processing of your information that is available with us, you may email our Grievance Officer at **CrackTech - Find LeetCode Company Tags, Dhaka, email: ssavi.cou@gmail.com**. We will address your concerns in accordance with applicable law. 
  
  Privacy Policy generated with [CookieYes](https://www.cookieyes.com/). 

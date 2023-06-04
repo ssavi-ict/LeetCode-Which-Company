@@ -1,4 +1,4 @@
-# CrackTech - Get LeetCode Company Tags 
+# CrackTech - Find LeetCode Company Tags 
 
 ## CrackTech (previously *LeetCode Which Company*) gives you the information of the companies who asked a certain question in the technical interview.
 ---
@@ -30,7 +30,7 @@ Install this extension/add-on and boost your prep. Wishing you all the very best
 
 ### **1. Chrome WebStore**
 
-- ## Available in Chrome Web Store - <a href = "https://chrome.google.com/webstore/detail/leetcode-which-company/fmbicfmfmangckllfaomfkhdankgapfk" target="_blank">![chrome webstore](/static/chrome-webstore.png)</a>
+- ## Available in Chrome Web Store - <a href = "https://chrome.google.com/webstore/detail/cracktech-find-leetcode-c/fmbicfmfmangckllfaomfkhdankgapfk" target="_blank">![chrome webstore](/static/chrome-webstore.png)</a>
 ----
 <br><br>
 
