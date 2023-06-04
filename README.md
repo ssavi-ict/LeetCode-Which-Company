@@ -86,8 +86,6 @@ Contributor(s) -
 ----
 <br>
 
-**Note**: Works currently with `Google Chrome` and `Mozilla Firefox`. Hopefully, I will be able to update this for all other major browsers.
-
 **Special Thanks** to **B M Marjan Khan** [@marjankhan945](https://github.com/marjankhan945) for his emmense contribution, support and suggestions towards working on this project.
 
 Read the background about how I started working on this in [LC Which Company - A Company names retrieval extension](https://sites.google.com/view/iamavik/leetcode-which-company-a-company-names-retrieval-extension).
