@@ -10,6 +10,7 @@
 - Added `Buy Me A Coffee` button for sponsoring.
 - Updated unnecessary gifs.
 - Minor bug fixed.
+- v1.0.5 published.
 
 **[08/05/2023]**
 - **v1.0.4** Published extension on Google Chrome web store.
