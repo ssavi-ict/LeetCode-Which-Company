@@ -3057,8 +3057,7 @@
   ],
   "https://leetcode.com/problems/minimum-distance-between-bst-nodes/": [
     "Minimum Distance Between BST Nodes",
-    "Bloomberg",
-    "Microsoft"
+    "Bloomberg", "Google", "Samsung", "Microsoft"
   ],
   "https://leetcode.com/problems/rabbits-in-forest/": [
     "Rabbits in Forest",
@@ -4066,7 +4065,7 @@
   ],
   "https://leetcode.com/problems/minimum-absolute-difference-in-bst/": [
     "Minimum Absolute Difference in BST",
-    "Google"
+    "Bloomberg", "Google", "Samsung", "Microsoft"
   ],
   "https://leetcode.com/problems/minesweeper/": [
     "Minesweeper",
