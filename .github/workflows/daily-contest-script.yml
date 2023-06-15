@@ -1,0 +1,44 @@
+name: Daily Contest Script
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Schedule the workflow to run at 00:00 UTC daily
+
+jobs:
+  run_contest_script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10' 
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run contest.py script
+        run: python scripts/contest.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update JSON file"
+          git push
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Automated pull request for JSON file update
+          title: Automated Pull Request
+          branch: automate-json-update
+          base: main
+          body: |
+            This pull request updates the JSON file automatically.
+
