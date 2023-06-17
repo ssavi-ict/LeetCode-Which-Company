@@ -23,12 +23,12 @@ jobs:
 
       - name: Check if branch exists
         run: |
-          branch_exists=$(git ls-remote --exit-code --heads origin automate-json-update || echo "")
+          branch_exists=$(git ls-remote --exit-code --heads origin automate-c-json-update || echo "")
           if [ -n "$branch_exists" ]; then
-            git fetch origin automate-json-update
-            git checkout automate-json-update
+            git fetch origin automate-c-json-update
+            git checkout automate-c-json-update
           else
-            git checkout -b automate-json-update
+            git checkout -b automate-c-json-update
           fi
 
       - name: Run contest.py script
@@ -40,7 +40,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add data/contests.json
           git commit -m "Update JSON file"
-          git push origin automate-json-update
+          git push origin automate-c-json-update
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
