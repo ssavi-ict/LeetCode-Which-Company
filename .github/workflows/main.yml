@@ -48,7 +48,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: Automated pull request for JSON file update
           title: Automated Pull Request
-          branch: automate-json-update
+          branch: automate-c-json-update
           base: main
           body: |
             This pull request updates the JSON file automatically.
