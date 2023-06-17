@@ -21,10 +21,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Create new branch
+      - name: Check if branch exists
         run: |
-          git checkout -b automate-json-update
-          git push -u origin automate-json-update
+          branch_exists=$(git ls-remote --exit-code --heads origin automate-json-update || echo "")
+          if [ -n "$branch_exists" ]; then
+            git fetch origin automate-json-update
+            git checkout automate-json-update
+          else
+            git checkout -b automate-json-update
+          fi
 
       - name: Run contest.py script
         run: python scripts/contest.py
@@ -33,9 +38,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
+          git add data/contests.json
           git commit -m "Update JSON file"
-          git push
+          git push origin automate-json-update
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
