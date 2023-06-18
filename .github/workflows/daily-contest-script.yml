@@ -38,10 +38,11 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
-          git add .
-          git add .
-          git add .
+          git add data/contests.json
+          git add data/contests.json
+          git add data/contests.json
+          git add data/contests.json
+          git status
           git commit -m "Update JSON file"
           git push origin automate-c-json-update
 
