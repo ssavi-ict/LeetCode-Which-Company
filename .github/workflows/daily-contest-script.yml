@@ -19,7 +19,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install -r scripts/requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Check if branch exists
         run: |
@@ -32,26 +32,32 @@ jobs:
           fi
 
       - name: Run contest.py script
-        run: python scripts/contest.py
+        run: python contest.py
+
+      - name: Check for changes
+        id: git-diff
+        run: |
+          git fetch origin main
+          changes=$(git diff --name-only main -- data/contests.json)
+          echo "::set-output name=changes::$changes"
 
       - name: Commit and push changes
+        if: steps.git-diff.outputs.changes != ''
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
-          git add .
-          git add .
-          git add .
+          git add data/contests.json
           git commit -m "Update JSON file"
           git push origin automate-c-json-update
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: Automated pull request for JSON file update
-          title: Automated Pull Request
-          branch: automate-c-json-update
-          base: main
-          body: |
-            This pull request updates the JSON file automatically.
+        if: steps.git-diff.outputs.changes != ''
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pr_branch="automate-c-json-update"
+          pr_title="Automated Pull Request"
+          pr_body="This pull request updates the JSON file automatically."
+
+          # Create the pull request
+          hub pull-request -m "$pr_title" -b main -h "$pr_branch" -m "$pr_body"
