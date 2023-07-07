@@ -1,4 +1,10 @@
 {
+  "https://leetcode.com/problems/fair-distribution-of-cookies/":[
+	"Fair Distribution of Cookies", "Amazon"
+  ],
+  "https://leetcode.com/problems/shortest-path-to-get-all-keys/":[
+	"Shortest Path to Get All Keys", "Airbnb", "Palantir Technologies", "ByteDance", "Wells Fargo", "PayPal", "PhonePe"
+  ],
   "https://leetcode.com/problems/total-cost-to-hire-k-workers/":[
 	"Total Cost to Hire K Workers", "Mathworks"
   ],
@@ -594,7 +600,7 @@
   ],
   "https://leetcode.com/problems/maximize-the-confusion-of-an-exam/": [
     "Maximize the Confusion of an Exam",
-    "Amazon"
+    "Amazon", "Facebook", "Arcesium"
   ],
   "https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/": [
     "Number of Pairs of Strings With Concatenation Equal to Target",
@@ -2908,7 +2914,7 @@
   ],
   "https://leetcode.com/problems/buddy-strings/": [
     "Buddy Strings",
-    "DoorDash",
+    "DoorDash", "Square", "Google", "Microsoft", 
     "Facebook"
   ],
   "https://leetcode.com/problems/score-of-parentheses/": [
@@ -6490,7 +6496,7 @@
   ],
   "https://leetcode.com/problems/single-number-ii/": [
     "Single Number II",
-    "Amazon"
+    "Amazon", "Google", "Apple", "Goldman Sachs", "ZS Associates", "Myntra", "TCS", "Tailnode", "MAQ Software", "ShareChat", "Testbook.com"
   ],
   "https://leetcode.com/problems/single-number/": [
     "Single Number",
