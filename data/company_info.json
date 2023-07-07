@@ -1,4 +1,10 @@
 {
+  "https://leetcode.com/problems/total-cost-to-hire-k-workers/":[
+	"Total Cost to Hire K Workers", "Mathworks"
+  ],
+  "https://leetcode.com/problems/count-all-possible-routes/":[
+	"Count All Possible Routes", "Amazon"
+  ],
   "https://leetcode.com/problems/longest-arithmetic-subsequence/":[
 	"Longest Arithmetic Subsequence", "Google", "Microsoft", "Snapdeal"
   ],
