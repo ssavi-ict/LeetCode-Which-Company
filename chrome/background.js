@@ -49,7 +49,10 @@ function showNotification(title, message) {
     message: message || "No Contest Available"
   };
 
-  chrome.notifications.create("", options);
+  // chrome.notifications.create("", options);
+  // Generate a unique notification ID
+  const notificationId = `cracktech_notification_${Date.now()}`;
+  chrome.notifications.create(notificationId, options);
 }
 
 // Helper function to convert epoch to date string
@@ -144,3 +147,22 @@ chrome.alarms.onAlarm.addListener(function (alarm) {
 function scheduleSecondNotification() {
   chrome.alarms.create("secondNotificationAlarm", { delayInMinutes: 18 });
 }
+
+// Function to show the popup with notification ID
+function showPopup(notificationId) {
+  const popupUrl = chrome.runtime.getURL(`content.html?id=${notificationId}`);
+  chrome.windows.create({ url: popupUrl, type: "popup", width: 400, height: 200 });
+}
+
+// Event listener for notification click
+chrome.notifications.onClicked.addListener(function (notificationId) {
+  // Perform actions based on the clicked notification
+  if (notificationId.startsWith("cracktech_notification_")) {
+    // Extract the associated notification ID
+    const notificationIdNumber = Number(notificationId.split("_")[2]);
+
+    // Perform actions based on the notification ID
+    // For example, show a popup with the notification details
+    showPopup(notificationIdNumber);
+  }
+});
