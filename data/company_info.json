@@ -4514,10 +4514,11 @@
   ],
   "https://leetcode.com/problems/add-two-numbers-ii/": [
     "Add Two Numbers II",
-    "Bloomberg",
-    "Microsoft",
-    "Amazon",
-    "Oracle"
+    "Bloomberg", "Samsung", "Uber", "Yahoo", "Accolite", "Adobe", "Amazon", "Apple", "ByteDance", "Capital One", "eBay", "Facebook", "Google",
+    "Microsoft", "Oracle", "Accenture", "Meesho", "Flipkar", "PayTM", "Intuit", "Myntra", "Publicis Sapient", "Cisco", "Expedia Group", "Josh Software",
+	"Infineon Technologies", "NewGen Software", "VMware", "Twilio", "Airtel", "TCS", "Informatica", "IBM", "Sprinklr", "Deutsche Bank", "BNY Mellon", 
+	"Proteum", "SAP Labs", "Travelopia", "Gigaforce", "PegaSystems", "Netcore", "Jupiter Money", "Housing.com", "Bristlecone", "Loconav", "Jio", "OKCredit",
+	"Nsquare"
   ],
   "https://leetcode.com/problems/sequence-reconstruction/": [
     "Sequence Reconstruction",
