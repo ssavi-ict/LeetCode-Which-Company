@@ -1,5 +1,14 @@
 # Find all the change history listed below 
 
+**[__/__/2023]**
+- v1.0.6 [Features](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/81) implementation.
+- **Contribute** button changed to `Upcoming Contest` button.
+- **Contribute** option modified and showed as a link. 
+- **Leetcoder.html** page to show contest details as per user's GMT.
+- **Upcoming Contest** desktop notification.
+- **Enabling** or **Disabling** notification as per user's choice.
+- Implementation Status: Chrome (*Done*), Firefox (*Ongoing*)
+
 **[03/06/2023]**
 - Improved User Interface.
 - Extension name updated to `CrackTech - Find LeetCode Company Tags` from `LeetCode Which Company`

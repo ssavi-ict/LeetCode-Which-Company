@@ -1,52 +1,14 @@
-// // Example event listener for when a new tab is opened or when the user visits leetcode.com
-// chrome.tabs.onCreated.addListener(checkNotification);
-// chrome.tabs.onUpdated.addListener(function(tabId, changeInfo, tab) {
-//   if (changeInfo.status === 'complete' && tab.url.includes('leetcode.com')) {
-//     checkNotification(tab);
-//   }
-// });
-
-// function checkNotification(tab) {
-//   // Check if the last notification was sent more than 24 hours ago
-//   chrome.storage.local.get('lastNotificationSent', result => {
-//     let lastNotificationSent = result.lastNotificationSent;
-//     lastNotificationSent = false;
-//     console.log(lastNotificationSent);
-
-//     // Check if the last notification exists and if it is older than 24 hours
-//     // if (!lastNotificationSent || (Date.now() - lastNotificationSent) >= 24 * 60 * 60 * 1000) {
-//     // if (!lastNotificationSent) {
-//       // Check if the user is on leetcode.com
-//       // if (tab.url.includes('leetcode.com')) {
-//         // Fetch the JSON data and send the notification
-//         fetch('https://raw.githubusercontent.com/ssavi-ict/LeetCode-Which-Company/main/data/contests.json')
-//           .then(response => response.json())
-//           .then(data => {
-//             const jsonData = JSON.stringify(data);
-//             chrome.notifications.create('notificationId', {
-//               type: 'basic',
-//               title: 'Notification Title',
-//               message: jsonData,
-//               iconUrl: 'res/notify_icon.png'
-//             });
-//             chrome.storage.local.set({ lastNotificationSent: Date.now() });
-//           })
-//           .catch(error => {
-//             // Handle any errors that occurred during the fetch request
-//             console.log('Error Occured');
-//           });
-//       // }
-//     // }
-//   });
-// }
-
 // Function to show the notification
 function showNotification(title, message) {
   const options = {
     type: "basic",
     iconUrl: "res/notify_icon.png",
     title: title,
-    message: message || "No Contest Available"
+    message: message || "No Contest Available",
+    buttons: [
+      { title: "Turn Off Notification" },
+      { title: "Visit Leetcode" }
+    ]
   };
 
   // chrome.notifications.create("", options);
@@ -86,25 +48,29 @@ function fetchNotificationContent() {
       // const message = JSON.stringify(data);
       // console.log(message);
       // showNotification(message);
+      const title = `CrackTech Contest Notification`;
+      let contestCount = Object.keys(data).length; // Count the number of key-value pairs
+      const currentTime = Date.now() / 1000; // Current time in seconds
 
-      const contestCount = Object.keys(data).length; // Count the number of key-value pairs
+      Object.entries(data).forEach(([key, value]) => {
+        const start_time = value.start_time;
 
-      let notificationMessage = '';
-      let title = `Upcoming Leetcode Contest - ${contestCount}\n`;
-
-      Object.entries(data).forEach(([key, value], index) => {
-        const { title, start_time, contest_duration } = value;
-        const startTimeString = convertEpochToDateString(start_time);
-        const durationString = convertDurationToString(contest_duration);
-
-        notificationMessage += `${index + 1}. ${title} - ${startTimeString} for ${durationString} hr.\n`;
+        if (start_time < currentTime) {
+          contestCount--;
+        }
       });
-
-      showNotification(title, notificationMessage);
+      if (contestCount > 0){
+        const notificationMessage = `You have ${contestCount} contest(s) coming up soon. Get ready!!`;
+        showNotification(title, notificationMessage);
+      }
+      else{
+        const notificationMessage = `No Upcoming Contest(s).`;
+        showNotification(title, notificationMessage);
+      }
     })
     .catch(error => {
-      console.error("Error fetching notification content:", error);
-      showNotification(); // Show the notification with default values in case of an error
+      console.log("Error fetching notification content:", error);
+      // showNotification(); // Show the notification with default values in case of an error
     });
 }
 
@@ -123,10 +89,15 @@ chrome.runtime.onInstalled.addListener(function () {
 
 // Function to schedule the first notification
 function scheduleFirstNotification() {
-  if (!firstNotificationScheduled) {
-    chrome.alarms.create("firstNotificationAlarm", { delayInMinutes: 2 });
-    firstNotificationScheduled = true;
-  }
+  chrome.storage.local.get("switchState", function (result) {
+    const switchState = result.switchState;
+    console.log('Hello'); console.log(switchState);
+    if (switchState) {
+      // fetchNotificationContent();
+      chrome.alarms.create("firstNotificationAlarm", { delayInMinutes: 1 }); // Trigger every day
+      firstNotificationScheduled = true;
+    }
+  });
 }
 
 // chrome.tabs.onCreated.addListener(function(tab) {
@@ -138,6 +109,7 @@ chrome.alarms.onAlarm.addListener(function (alarm) {
   if (alarm.name === "firstNotificationAlarm") {
     fetchNotificationContent();
     scheduleSecondNotification();
+    // firstNotificationScheduled = false; // Set the flag to false after the first notification
   } else if (alarm.name === "secondNotificationAlarm") {
     fetchNotificationContent();
   }
@@ -145,24 +117,23 @@ chrome.alarms.onAlarm.addListener(function (alarm) {
 
 // Function to schedule the second notification
 function scheduleSecondNotification() {
-  chrome.alarms.create("secondNotificationAlarm", { delayInMinutes: 18 });
+  chrome.alarms.create("secondNotificationAlarm", { delayInMinutes: 15 });
 }
 
-// Function to show the popup with notification ID
-function showPopup(notificationId) {
-  const popupUrl = chrome.runtime.getURL(`content.html?id=${notificationId}`);
-  chrome.windows.create({ url: popupUrl, type: "popup", width: 400, height: 200 });
-}
+// // Event listener for notification click
+// chrome.notifications.onClicked.addListener(function (notificationId) {
+//   if (notificationId.startsWith("cracktech_notification_")) {
+//     chrome.tabs.create({ url: "https://leetcode.com/contest/" });
+//   }
+// });
 
-// Event listener for notification click
-chrome.notifications.onClicked.addListener(function (notificationId) {
-  // Perform actions based on the clicked notification
+// Event listener for notification button clicks
+chrome.notifications.onButtonClicked.addListener(function (notificationId, buttonIndex) {
   if (notificationId.startsWith("cracktech_notification_")) {
-    // Extract the associated notification ID
-    const notificationIdNumber = Number(notificationId.split("_")[2]);
-
-    // Perform actions based on the notification ID
-    // For example, show a popup with the notification details
-    showPopup(notificationIdNumber);
+    if (buttonIndex === 0) {
+      chrome.storage.local.set({ switchState: false });
+    } else if (buttonIndex === 1) {
+      chrome.tabs.create({ url: "https://leetcode.com/contest/" });
+    }
   }
 });
