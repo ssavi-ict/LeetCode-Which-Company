@@ -3467,7 +3467,7 @@
   ],
   "https://leetcode.com/problems/knight-probability-in-chessboard/": [
     "Knight Probability in Chessboard",
-    "Amazon"
+    "Amazon", "Directi", "Expedia Group", "PhonePe", "Goldman Sachs", "Microsoft"
   ],
   "https://leetcode.com/problems/longest-univalue-path/": [
     "Longest Univalue Path",
@@ -3539,8 +3539,7 @@
   ],
   "https://leetcode.com/problems/number-of-longest-increasing-subsequence/": [
     "Number of Longest Increasing Subsequence",
-    "Amazon", "Zoho", "Samsung", "TCS", "Apollo 247",
-    "Google"
+    "Amazon", "Zoho", "Samsung", "TCS", "Apollo 247", "Google", "Bloomberg"
   ],
   "https://leetcode.com/problems/bulb-switcher-ii/": [
     "Bulb Switcher II",
