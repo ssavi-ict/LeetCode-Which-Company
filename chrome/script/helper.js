@@ -46,19 +46,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
 				contestTable.appendChild(row);
 			});
-			
-			// Load switch status from localStorage
-			// const notificationCheckbox = document.getElementById('notificationCheckbox');
-			// const switchStatus = document.getElementById('switchStatus');
-
-			// const switchState = localStorage.getItem('switchState');
-			// if (switchState === 'on') {
-			// 	notificationCheckbox.checked = true;
-			// 	switchStatus.textContent = 'Turned On';
-			// } else {
-			// 	notificationCheckbox.checked = false;
-			// 	switchStatus.textContent = 'Turned Off';
-			// }
 
 			chrome.storage.local.get('switchState', function(result) {
 				const switchState = result.switchState;
@@ -80,16 +67,6 @@ document.addEventListener('DOMContentLoaded', function () {
 		
 	const notificationCheckbox = document.getElementById('notificationCheckbox');
 	const switchStatus = document.getElementById('switchStatus');
-
-	// notificationCheckbox.addEventListener('change', () => {
-	// 	if (notificationCheckbox.checked) {
-	// 		switchStatus.textContent = 'Turned On';
-	// 		localStorage.setItem('switchState', 'on');
-	// 	} else {
-	// 		switchStatus.textContent = 'Turned Off';
-	// 		localStorage.setItem('switchState', 'off');
-	// 	}
-	// });
 
 	notificationCheckbox.addEventListener('change', () => {
 		const isChecked = notificationCheckbox.checked;
