@@ -7,7 +7,10 @@
 - **Leetcoder.html** page to show contest details as per user's GMT.
 - **Upcoming Contest** desktop notification.
 - **Enabling** or **Disabling** notification as per user's choice.
-- Implementation Status: Chrome (*Done*), Firefox (*Ongoing*)
+- Implementation Status: Chrome (*Done*), Edge (*Done*)
+- Firefox Notification handling in a different way due to mdn API limitation.
+- Contest details scrapping script added.
+- Workflow added to run the contest script.
 
 **[03/06/2023]**
 - Improved User Interface.
