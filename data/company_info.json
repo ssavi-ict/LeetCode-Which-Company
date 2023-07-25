@@ -2945,9 +2945,9 @@
   ],
   "https://leetcode.com/problems/peak-index-in-a-mountain-array/": [
     "Peak Index in a Mountain Array",
-    "Amazon",
-    "Bloomberg",
-    "Apple",
+    "Amazon", "Microsoft", "Walmart", "Facebook", "Wipro", "Byjus", "Uber", "Dunzo", "TCS", "Hike", "OLA", "Goldman Sachs",
+    "Bloomberg", "APT Portfolio", "De Shaw India", "Groupon", "Wipro", "Josh Technologies", "Zeta", "Accolite",
+    "Apple", "Proschant India", "Adobe",
     "Google"
   ],
   "https://leetcode.com/problems/maximize-distance-to-closest-person/": [
