@@ -1,6 +1,9 @@
 # Find all the change history listed below 
 
 **[__/__/2023]**
+- ...
+
+**[27/07/2023]**
 - v1.0.6 [Features](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/81) implementation.
 - **Contribute** button changed to `Upcoming Contest` button.
 - **Contribute** option modified and showed as a link. 
@@ -11,6 +14,7 @@
 - Firefox Notification handling in a different way due to mdn API limitation.
 - Contest details scrapping script added.
 - Workflow added to run the contest script.
+- v1.0.6 published.
 
 **[03/06/2023]**
 - Improved User Interface.
