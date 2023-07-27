@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CrackTech - Find LeetCode Company Tags</title>
+    <style>
+        body {
+            font-family: Verdana;
+            margin: 0;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+
+        .switch {
+            display: flex;
+            align-items: center;
+            font-size: 16px;
+        }
+
+        .switch-text {
+            margin-right: 10px;
+        }
+
+        .checkbox {
+            width: 16px;
+            height: 16px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            display: inline-block;
+            margin-right: 5px;
+            position: relative;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .checkbox::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(0);
+            width: 8px;
+            height: 8px;
+            background-color: #2196F3;
+            border-radius: 2px;
+            transition: all 0.2s;
+        }
+
+        .checkbox input[type="checkbox"] {
+            display: none;
+        }
+
+        .checkbox input[type="checkbox"]:checked + .checkbox::before {
+            transform: translate(-50%, -50%) scale(1);
+        }
+
+        .content-container {
+            border: 1px dotted purple;
+			padding: 10px;
+			border-radius: 5px;
+			max-width: 1200px;
+        }
+
+        table {
+            margin-top: 20px;
+            width:80%;
+        }
+
+        th, td {
+            text-align: left;
+            padding: 10px;
+            font-size: 14px;
+            border: 1px solid purple;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .gmt-offset {
+            font-size: 10px;
+            vertical-align: super;
+        }
+		.content-header {
+		  width:80%;
+		  display: flex;
+		  margin-left: 120px;
+		  font-family: Tahoma;
+          font-size: 15px;
+		}
+    </style>
+</head>
+<body>
+    <div class="content-container" style="margin: 0 auto;">
+		
+		<div class="intro-content-1" style="font-family: 'Segoe UI'; font-size: medium; text-align: center;">
+            <h1>APPRECIATE</h1>
+			<p>Thank you for using <i>CrackTech - Find LeetCode Company Tags</i> extension.<br>
+                This is a small effort to help you in your dream company specific preparation. I wish your prepartion is going well. <br>
+                And this extension is helping you in every possible way. Read the 
+                <a href = "https://sites.google.com/view/iamavik/leetcode-which-company-a-company-names-retrieval-extension" target="_blank">background</a>
+                of working on this extension. Visit my writings on <a href="https://sites.google.com/view/iamavik/" target="_blank">Avik Sarkar | <i>Let Avik Connect You!</i></a>
+                <br>
+                Do consider sharing this free extension among your fellow LeetCoders. I feel it will be helpful for them as well.
+			</p>
+            <hr>
+		</div>
+        <div class="header">
+            <h3 style="margin-left:120px;">Upcoming LeetCode Contest(s)</h3>
+            <div class="switch" style="margin-right:120px;">
+                <span class="switch-text">Contest Notification: </span>
+                <label class="checkbox">
+                    <input type="checkbox" id="notificationCheckbox" checked>
+                    <span class="checkbox"></span>
+                </label>
+				<p>[&nbsp;</p><i><span id="switchStatus">Turned On</span></i><p> &nbsp;]</p>
+            </div>
+        </div>
+        <table id="contestTable" style="margin: 0 auto;">
+            <tr>
+                <th>Name</th>
+                <th>Start Date</th>
+                <th>Start Time</th>
+                <th>Duration</th>
+            </tr>
+        </table>
+        <table id="nbtable" style="margin: 0 auto;">
+            <tr>
+                <td style="border: none;"><i>** Note: Contest information will update around 8AM everyday.</i></td>
+            </tr>
+        </table>
+		<br><br>
+        <hr>
+		<div class="preparation-container">
+			<!-- <h3><center>User Profile Analytics</center></h3> -->
+		</div>
+		<br><br>
+        <div class = "intro-content-2" style="font-family: 'Segoe UI'; font-size: medium; text-align: center;">
+            <h1>CONTRIBUTIONS</h1>
+            I appreciate your intention towards contributing in this repository.<br>
+            Currently I am accepting only the <b>Company Contributions</b> to enrich the company database.<br>
+            To contribute please follow the instructions of this issue 
+            <a href='https://github.com/ssavi-ict/LC-Which-Company/issues/4' target="_blank">[CONTRIBUTE] Dear Contributors, Requesting Your Attention Regarding Company Contribution</a>.<br>
+        </div>
+        <br><br><hr><br><br>
+		<footer style="text-align: center; font-size: 13px;  width:80%; margin-left: 120px;">Made With &#10084; by <a href="https://www.linkedin.com/in/ssavi-ict/">Avik Sarkar</a></footer>
+        <br>
+    </div>
+</body>
+<script type="text/javascript" src="script/helper.js"></script>
+</html>

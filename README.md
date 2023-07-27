@@ -1,5 +1,7 @@
 # CrackTech - Find LeetCode Company Tags 
 
+## Current Version: v1.0.6
+
 ## CrackTech (previously *LeetCode Which Company*) gives you the information of the companies who asked a certain question in the technical interview.
 ---
 Are you preparing for your technical interviews? Are you looking for the question asked by companies like Microsoft, Google, Meta, Apple, etc.? Then this extension gives you what you are looking for.
@@ -18,6 +20,7 @@ Install this extension/add-on and boost your prep. Wishing you all the very best
 - Company based problem list at a glance.
 - A pop-up window extension. No garbage, just the content you needed.
 - Flexible to LeetCode UI changes. So no downtime on your preparation.
+- Upcoming Contest Notification everyday. Your preparation is going to be even more harder now.
 - No data collection.
 
 ------ 
@@ -55,6 +58,12 @@ When solving a problem if you click on the ![icon](chrome/res/32.png) from the *
     
     - Once you click on the **[All Company]** button it will open up a page where you can see all the problems available in our storage with company names are listed as follows - ![all company](/static/webfile/complete_list.png)
 
+- **💥 NEW FEATURE 💥**
+    - Click on the **[Upcoming Contest]** button ![upcoming_contest](/static/webfile/upcoming-contest-button.PNG), it will open a page where you can see all upcoming Leetcode weekly and Biweekly contests listed with your local timing and with duration as below - 
+    ![details_contest_list](/static/webfile/leetcoder.PNG) Clickable link will redirect to actual contest page.
+    - The checkbox (*marked in red*) can be checked to receive contest notification everyday twice a day or unchecked if you wish not to receive contest notification. ![notification](/static/webfile/notification.PNG)
+
+<br>
 
 - If the extension is not able to find the `Company Names` for the leetcode problem on the current window or if the current window is not a leetcode problem then it will show a **Company information not found** message.
 
