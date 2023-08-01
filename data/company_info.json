@@ -7025,8 +7025,8 @@
   ],
   "https://leetcode.com/problems/combinations/": [
     "Combinations",
-    "Facebook",
-    "Google",
+    "Facebook", "Adobe", "Apple", "Yahoo",
+    "Google", "Bloomberg", 
     "Amazon",
     "Microsoft"
   ],
