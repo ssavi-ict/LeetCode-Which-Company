@@ -7366,9 +7366,9 @@
   ],
   "https://leetcode.com/problems/permutations/": [
     "Permutations",
-    "Amazon",
-    "Facebook",
-    "LinkedIn",
+    "Amazon", "Atlassian", "ByteDance", "eBay", "Garena", "GoDaddy", "Oracle", "Salesforce", "SAP", "Uber", "VMware", "Walmart Labs", "Yahoo",
+    "Facebook", "Flipkart", "PayTM", "Infosys", "TCS", "Publicis Sapient", "BirdEye", "Hyundai Mobis", "Accolite", "Cvent", "DTCC", "Coalition Tech", 
+    "LinkedIn", "Oyo", "Accenture", "Barclays", "Dunzo", "Indiamart", "Cognizant", "Gray Orange", "Thought Works",
     "Google",
     "Microsoft",
     "Apple",
