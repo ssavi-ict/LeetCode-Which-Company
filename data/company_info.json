@@ -7717,9 +7717,9 @@
   ],
   "https://leetcode.com/problems/letter-combinations-of-a-phone-number/": [
     "Letter Combinations of a Phone Number",
-    "Amazon",
-    "Microsoft",
-    "Facebook",
+    "Amazon", "Flipkart", "Atlassian", "Capital One", "Databricks", "eBay", "Morgan Stanley", "Oracle", "Qualtrics", "Twilio", "VMware", "Walmart Labs",
+    "Microsoft", "Dunzo", "OYO", "Ola", "Hexaware Tech", "Goldman Sachs", "Cisco", "Zepto", "Bloomreach", "Spinny", "Nagarro", "Blue Yonder", 
+    "Facebook", "EPAM SYstems", "Zoho Corporation", "VFISLK Global Services", "Airtel",
     "Uber",
     "Apple",
     "Google",
