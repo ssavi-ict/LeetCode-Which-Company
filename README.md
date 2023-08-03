@@ -1,5 +1,5 @@
 # Available In -
-<a href = "https://chrome.google.com/webstore/detail/cracktech-find-leetcode-c/fmbicfmfmangckllfaomfkhdankgapfk" target="_blank"><img src="/static/chrome-webstore.png" width="200"></a> | <a href = "https://addons.mozilla.org/en-US/firefox/addon/cracktech-leetcode-company-tag/" target="_blank"><img src="/static/firefox-add-on-store.PNG" width="200"></a> | <a href = "https://microsoftedge.microsoft.com/addons/detail/leetcode-which-company/aknogcjbpnfdmmnlphmkpcldbepblapf" target="_blank"><img src="/static/ms-edge-store.PNG" width="200"></a>
+<center><a href = "https://chrome.google.com/webstore/detail/cracktech-find-leetcode-c/fmbicfmfmangckllfaomfkhdankgapfk" target="_blank"><img src="/static/chrome-webstore.png" width="250"></a> &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp;<a href = "https://addons.mozilla.org/en-US/firefox/addon/cracktech-leetcode-company-tag/" target="_blank"><img src="/static/firefox-add-on-store.PNG" width="250"></a> &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; <a href = "https://microsoftedge.microsoft.com/addons/detail/leetcode-which-company/aknogcjbpnfdmmnlphmkpcldbepblapf" target="_blank"><img src="/static/ms-edge-store.PNG" width="250"></a></center>
 
 # CrackTech - Find LeetCode Company Tags 
 
