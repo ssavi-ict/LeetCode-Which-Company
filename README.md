@@ -1,9 +1,12 @@
+# Available In -
+<center><a href = "https://chrome.google.com/webstore/detail/cracktech-find-leetcode-c/fmbicfmfmangckllfaomfkhdankgapfk" target="_blank"><img src="/static/chrome-webstore.png" width="200"></a> &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp;<a href = "https://addons.mozilla.org/en-US/firefox/addon/cracktech-leetcode-company-tag/" target="_blank"><img src="/static/firefox-add-on-store.PNG" width="200"></a> &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; <a href = "https://microsoftedge.microsoft.com/addons/detail/leetcode-which-company/aknogcjbpnfdmmnlphmkpcldbepblapf" target="_blank"><img src="/static/ms-edge-store.PNG" width="200"></a></center>
+
 # CrackTech - Find LeetCode Company Tags 
 
 ## Current Version: v1.0.6
 
 ## CrackTech (previously *LeetCode Which Company*) gives you the information of the companies who asked a certain question in the technical interview.
----
+
 Are you preparing for your technical interviews? Are you looking for the question asked by companies like Microsoft, Google, Meta, Apple, etc.? Then this extension gives you what you are looking for.
 
 This extension is my effort to make your preparation one step better. If you are solving problems on Leetcode and you do not have a premium account to see company information then I am definite that this extension will give you the same experience to some extent. You can prepare for your dream companies and sharpen your DSA skill accordingly.
@@ -31,24 +34,7 @@ Install this extension/add-on and boost your prep. Wishing you all the very best
 </a></center>
 <br><br>
 
-### **1. Chrome WebStore**
-
-- ## Available in Chrome Web Store - <a href = "https://chrome.google.com/webstore/detail/cracktech-find-leetcode-c/fmbicfmfmangckllfaomfkhdankgapfk" target="_blank">![chrome webstore](/static/chrome-webstore.png)</a>
-----
-<br><br>
-
-### **2. Firefox AddOn Store**
-
-- ## Available in firefox add-on store - <a href = "https://addons.mozilla.org/en-US/firefox/addon/cracktech-leetcode-company-tag/" target="_blank">![firefox add on store](/static/firefox-add-on-store.PNG)</a>
----
-<br><br>
-
-### **3. MS Edge Add On Store**
-
-- ## Available in MS Edge Add On Store - <a href = "https://microsoftedge.microsoft.com/addons/detail/leetcode-which-company/aknogcjbpnfdmmnlphmkpcldbepblapf" target="_blank">![Edge Add On Store](/static/ms-edge-store.PNG)</a>
-
----
-### **4. How to check which company asked a Problem ?**
+### **How to check which company asked a Problem ?**
 When solving a problem if you click on the ![icon](chrome/res/32.png) from the *extensions* / *add ons* list -
 
 - If the extension is able find the `Company Names` for the leetcode problem on the current window then it will show as follows - 
