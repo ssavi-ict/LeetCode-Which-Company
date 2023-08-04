@@ -6502,9 +6502,9 @@
   ],
   "https://leetcode.com/problems/word-break/": [
     "Word Break",
-    "Amazon",
-    "Facebook",
-    "Apple",
+    "Amazon", "Zoho", "Flipkart", "Hike", "Walmart", "MAQ Software", "IBM", "ByteDance", "eBay", "Uber", "VMware", "Yahoo", "Morgan Stanley", "OLX Group",
+    "Facebook", "MakeMyTrip", "Accenture", "American Express", "ShareChat", "Salesforce", "Dunzo", "Expedia Group", "Intuit", "Carefit", "Infosys", 
+    "Apple", "Capgemini India", "Nagarro", "CaaStle", "DTCC", "Mahindra Comviva", "Netmeds", "Park+", 
     "Qualtrics",
     "Microsoft",
     "Bloomberg",
