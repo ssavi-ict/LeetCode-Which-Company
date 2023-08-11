@@ -1,4 +1,13 @@
 {
+  "https://leetcode.com/problems/coin-change-ii/":[
+	"Coin Change II", "Adobe", "Amazon", "Apple", "Bloomberg", "ByteDance", "Cisco", "Citadel", "Facebook", "Google", "Microsoft", "TCS", "Uber",
+	"Goldman Sachs", "Cognizant", "Morgan Stanely", "Gartner", "Walmart", "Flipkart", "LinkedIn", "OYO", "Thought Works", "Delhivery", "Oracle", "Infosys",
+	"Groww", "Samsung", "Publicis Sapient", "HSBC", "Capgemini", "Continental", "Barclays", "PayTM", "Intuit", "Accenture", "Citi Bank", "Dunzo", "ZS Associates",
+	"IBM", "Rippling", "Triology Innovations", "Future First", "Deutsche Bank", "SAP Labs", "Nagarro", "Practo", "Fortinet", "MindTree", "Credit Suisse", 
+	"Hashedin By Deloitte", "GE Healthcare", "Standard Chartered Bank", "PwC India", "Park+", "Fidelity International", "Amdocs", "Infoedge", "Fairportal",
+	"Tech Vedika", "Airtel", "Rupeek", "De Shaw India", "Mahindra Comviva", "NoBroker", "Navis", "Josh Technologies", "Traveloka", "Cloud Analogy", "Accolite",
+	"Algogenix"
+  ],
   "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/":[
 	"Minimize the Maximum Difference of Pairs", "Amazon", "Sprinklr", "Urban Company", "Policybazar.com", "Navi"
   ],
