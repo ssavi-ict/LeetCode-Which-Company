@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/":[
+	"Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree", "Facebook", "MakeMyTrip", "Flipkart", "Amazon", "Adobe"
+  ],
   "https://leetcode.com/problems/maximal-network-rank/":[
 	"Maximal Network Rank", "Microsoft", "Tesla"
   ],
