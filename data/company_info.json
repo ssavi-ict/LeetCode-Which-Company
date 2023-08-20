@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/":[
+	"Sort Items by Groups Respecting Dependencies", "Amazon"
+  ],
   "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/":[
 	"Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree", "Facebook", "MakeMyTrip", "Flipkart", "Amazon", "Adobe"
   ],
