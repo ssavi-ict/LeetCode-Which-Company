@@ -3,7 +3,7 @@
 
 # CrackTech - Find LeetCode Company Tags 
 
-## Current Version: v1.0.6
+## Current Version: v1.0.7
 
 ## CrackTech (previously *LeetCode Which Company*) gives you the information of the companies who asked a certain question in the technical interview.
 
@@ -23,7 +23,8 @@ Install this extension/add-on and boost your prep. Wishing you all the very best
 - Company based problem list at a glance.
 - A pop-up window extension. No garbage, just the content you needed.
 - Flexible to LeetCode UI changes. So no downtime on your preparation.
-- Upcoming Contest Notification everyday. Your preparation is going to be even more harder now.
+- Upcoming Contest Notification everyday. Never miss a LeetCode contest now.
+- Next to solve suggestion for Easy, Medium, and Hard category.
 - No data collection.
 
 ------ 
@@ -45,9 +46,13 @@ When solving a problem if you click on the ![icon](chrome/res/32.png) from the *
     - Once you click on the **[All Company]** button it will open up a page where you can see all the problems available in our storage with company names are listed as follows - ![all company](/static/webfile/complete_list.png)
 
 - **💥 NEW FEATURE 💥**
-    - Click on the **[Upcoming Contest]** button ![upcoming_contest](/static/webfile/upcoming-contest-button.PNG), it will open a page where you can see all upcoming Leetcode weekly and Biweekly contests listed with your local timing and with duration as below - 
+    - Click on the **[Be A Pro]** button ![upcoming_contest](/static/webfile/upcoming-contest-button.PNG), it will open a page where you can see all upcoming Leetcode weekly and Biweekly contests listed with your local timing and with duration as below - 
     ![details_contest_list](/static/webfile/leetcoder.PNG) Clickable link will redirect to actual contest page.
     - The checkbox (*marked in red*) can be checked to receive contest notification everyday twice a day or unchecked if you wish not to receive contest notification. ![notification](/static/webfile/notification.PNG)
+
+- **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
+    - Click on the **[Be A Pro]** button ![upcoming_contest](/static/webfile/upcoming-contest-button.PNG), it redirect to your preparation zone.
+    It shows your solving summary from where you can get picture of your solving history. Moreover, your going to get suggestions to solve the next Easy/Medium/Hard problem. Now your preparation is going even more fine-tuned. ![solve the next](/static/webfile/problem-suggestion.PNG)
 
 <br>
 
