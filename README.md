@@ -50,7 +50,7 @@ When solving a problem if you click on the ![icon](chrome/res/32.png) from the *
     ![details_contest_list](/static/webfile/leetcoder.PNG) Clickable link will redirect to actual contest page.
     - The checkbox (*marked in red*) can be checked to receive contest notification everyday twice a day or unchecked if you wish not to receive contest notification. ![notification](/static/webfile/notification.PNG)
 
-- **💥 NEW FEATURE 💥** 
+- **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
     - Click on the **[Be A Pro]** button ![upcoming_contest](/static/webfile/upcoming-contest-button.PNG), it redirect to your preparation zone.
     It shows your solving summary from where you can get picture of your solving history. Moreover, your going to get suggestions to solve the next Easy/Medium/Hard problem. Now your preparation is going even more fine-tuned. ![solve the next](/static/webfile/problem-suggestion.PNG)
 
