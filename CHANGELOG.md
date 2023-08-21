@@ -1,7 +1,16 @@
 # Find all the change history listed below 
 
-**[__/__/2023]**
-- ...
+**[22/08/2023]**
+- v1.0.7 [Features](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/85)
+- Next to solve [*Easy*] implemented.
+- Next to solve [*Medium*] implemented.
+- Next to solve [*Hard*] implemented.
+- Solving summary of a user at a glance implemented.
+- Solving history PIE CHART implemented.
+- Quick access panel implemented.
+- Popup window [*Upcoming Contest*] button text updated to [*Be A Pro*].
+- v1.0.7 published for chrome only.
+- README Updated.
 
 **[27/07/2023]**
 - v1.0.6 [Features](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/81) implementation.

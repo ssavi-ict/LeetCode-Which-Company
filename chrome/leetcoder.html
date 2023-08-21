@@ -63,9 +63,9 @@
 
         .content-container {
             border: 1px dotted purple;
-			padding: 10px;
-			border-radius: 5px;
-			max-width: 1200px;
+            padding: 10px;
+            border-radius: 5px;
+            max-width: 1200px;
         }
 
         table {
@@ -76,7 +76,7 @@
         th, td {
             text-align: left;
             padding: 10px;
-            font-size: 14px;
+            font-size: 13px;
             border: 1px solid purple;
         }
 
@@ -88,18 +88,29 @@
             font-size: 10px;
             vertical-align: super;
         }
-		.content-header {
-		  width:80%;
-		  display: flex;
-		  margin-left: 120px;
-		  font-family: Tahoma;
-          font-size: 15px;
-		}
+
+        a {
+            text-decoration: none !important;
+        }
+
+        .child-div {
+            width: 50%;
+            background-color: white;
+            margin: 0 auto;
+        }
+
+        .content-item a img{
+            height: auto;
+            width: 60%;
+            padding: 10px;
+            flex: 1;
+        }
     </style>
+    <script type="text/javascript" src="script/Chart.min.js"></script>
+    <link rel="stylesheet" href="script/all.min.css">
 </head>
 <body>
     <div class="content-container" style="margin: 0 auto;">
-		
 		<div class="intro-content-1" style="font-family: 'Segoe UI'; font-size: medium; text-align: center;">
             <h1>APPRECIATE</h1>
 			<p>Thank you for using <i>CrackTech - Find LeetCode Company Tags</i> extension.<br>
@@ -112,6 +123,86 @@
 			</p>
             <hr>
 		</div>
+        <div class="useful-content-item" style="display: flex; align-items: center; justify-content: center;">
+            <div class="content-item">
+                <a href="index.html" target="_blank">
+                    <center><img src="res/access-info.png" alt="Access Company Information"></center>
+                </a>
+            </div>
+            <div class="content-item">
+                <a href="https://forms.gle/cAW1jxYxUTwgUmMd9" target="_blank">
+                    <center><img src="res/share-feedback.png" alt="Share Your Feedback"></center>
+                </a>
+            </div>
+            <div class="content-item">
+                <a href="https://www.buymeacoffee.com/ssavi" target="_blank">
+                    <center><img src="res/buy-me-a-coffee.png" alt="Buy Me A Coffee"></center>
+                </a>
+            </div>
+            <div class="content-item">
+                <a href="https://github.com/ssavi-ict/LeetCode-Which-Company/" target="_blank">
+                    <center><img src="res/project-source.png" alt="Go To Project Source"></center>
+                </a>
+            </div>
+        </div>
+        <hr>
+		<div class="preparation-container">
+            <div class = "preparation-header-content" style="border-radius: 1px; margin: 30px 0px 30px; border: 3px solid; border-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);border-image-slice: 1;">
+                <h3 id = "heading-line"></h3> 
+            </div>
+            <div class = "preparation-main-content" style="display: flex; flex-wrap: wrap;" >
+                <div class = "left-side-div"  style="width: 20%; display:inline-block;">
+                    <table id = "user-summary-table" style="width:100%; border: 1px solid black; border-radius: 3px;">
+                        <tr>
+                            <th colspan="2" style="background-color: #2196F3;"><center>User Summary</center></th>
+                        </tr>
+                    </table>
+                    <br>
+                    <div style="width: 60%; height: 135px; text-align: center; margin-left: 5%; display: block; margin: 0 auto;">
+                        <b id="pTitle"></b>
+                        <br>
+                        <canvas id="pieChart"></canvas>
+                    </div>
+                </div>
+
+                <fieldset style="width: 74%; float: right; margin-top: 9px; margin-left: 15px; display: flex; flex-wrap: wrap;">
+                    <legend id ="legend-text" style="font-size:20px; text-align: center;"> &#128187; <i>Next <a href="https://leetcode.com/" target="_blank"><b>LeetCode</b></a> Problem(s) To Solve</i> &#128187; </legend>
+
+                    <div class="child-div">
+                        <table id="easy-table" style="width:95%; border: 1px solid black; border-radius: 5px;">
+                            <tr>
+                                <th id = "easy_title_header_text" style="text-align: center; background-color: #00AF9B; width: 96%;"></th>
+                                <th style="text-align: center; background-color: #00AF9B;">
+                                    <button title="Reload Different Problems" id="easy_button" style="cursor: pointer;">&#x27f3;</button>
+                                </th>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="child-div" style="float: right;">
+                        <table id="mid-table" style="width:95%; border: 1px solid black; border-radius: 5px;">
+                            <tr>
+                                <th id = "mid_title_header_text" style="text-align: center; background-color: orange; width: 96%;"></th>
+                                <th style="text-align: center; background-color: orange;">
+                                    <button title="Reload Different Problems" id="mid_button" style="cursor: pointer;">&#x27f3;</button>
+                                </th>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="child-div">
+                        <table id="hard-table" style="width:95%; border: 1px solid black; border-radius: 5px;">
+                            <tr>
+                                <th id = "hard_title_header_text" style="text-align: center; background-color: red; width: 96%;"></th>
+                                <th style="text-align: center; background-color: red;">
+                                    <button title="Reload Different Problems" id="hard_button" style="cursor: pointer;">&#x27f3;</button>
+                                </th>
+                            </tr>
+                        </table>
+                    </div>
+                </fieldset>
+            </div>
+		</div>
+        <br><br>
+        <hr>
         <div class="header">
             <h3 style="margin-left:120px;">Upcoming LeetCode Contest(s)</h3>
             <div class="switch" style="margin-right:120px;">
@@ -138,11 +229,8 @@
         </table>
 		<br><br>
         <hr>
-		<div class="preparation-container">
-			<!-- <h3><center>User Profile Analytics</center></h3> -->
-		</div>
-		<br><br>
-        <div class = "intro-content-2" style="font-family: 'Segoe UI'; font-size: medium; text-align: center;">
+        
+        <div class = "intro-content-2" style="font-family: 'Segoe UI'; font-size: medium; text-align: center; clear: both;">
             <h1>CONTRIBUTIONS</h1>
             I appreciate your intention towards contributing in this repository.<br>
             Currently I am accepting only the <b>Company Contributions</b> to enrich the company database.<br>
@@ -155,4 +243,5 @@
     </div>
 </body>
 <script type="text/javascript" src="script/helper.js"></script>
+<script type="text/javascript" src="script/analyze_profile.js"></script>
 </html>

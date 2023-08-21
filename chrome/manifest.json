@@ -1,6 +1,6 @@
 {
     "name": "CrackTech - Find LeetCode Company Tags",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "homepage_url":"https://github.com/ssavi-ict/LC-Which-Company",
     "description": "An extension that can help candidate to prepare for a Company specific DSA interview.",
     "manifest_version": 3,
@@ -18,5 +18,14 @@
     "background": {
         "service_worker": "background.js"
     },
-    "permissions": ["tabs", "notifications", "alarms", "storage"]
+    "permissions": ["tabs", "notifications", "alarms", "storage", "activeTab"],
+    "host_permissions": [
+        "<all_urls>", "https://leetcode.com/*"
+    ],
+    "content_scripts": [
+        {
+          "matches": ["<all_urls>"],
+          "js": ["script/analyze_profile.js"]
+        }
+    ] 
 }
