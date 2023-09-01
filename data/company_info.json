@@ -5194,10 +5194,9 @@
   ],
   "https://leetcode.com/problems/counting-bits/": [
     "Counting Bits",
-    "Amazon",
-    "Google",
-    "Bloomberg",
-    "JPMorgan"
+    "Amazon", "Microsoft", "Samsung", "Adobe", "Wipro", "Brocade", "Juniper Networks", "Cisco", "Qualcomm", "Apple", "Snapdeal", "HP Enterprise", 
+    "Google", "Ola", "Infosys", "HSBC", "PeopleStrong", "Micron Technology", "Congnizant", "Clarivate", "Cogoport", "Texas Instruments", "DTCC", "MTX", 
+	"Hashedin", "MindInventory", "MediaTek", "Cadence Design", "Veridic Private Limited", "One Convergence", "Bloomberg", "JPMorgan and Chase", "Novartis", "Net App India"
   ],
   "https://leetcode.com/problems/house-robber-iii/": [
     "House Robber III",
