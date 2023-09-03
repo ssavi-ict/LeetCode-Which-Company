@@ -7212,13 +7212,7 @@
   ],
   "https://leetcode.com/problems/unique-paths/": [
     "Unique Paths",
-    "Google",
-    "Facebook",
-    "Microsoft",
-    "Amazon",
-    "Apple",
-    "Bloomberg",
-    "Adobe"
+    "Google", "Walmart", "Paytm", "Ola", "Linkedin", "Cisco", "Zoho", "ByteDance", "Goldman Sachs", "Mathworks", "Oracle", "Qualtrics", "Salesforce", "Snapchat", "Uber", "VMware", "Facebook", "Microsoft", "Amazon", "Apple", "Bloomberg", "Adobe", "Atlassian", "SAP Labs", "Thought works", "CoinDCX", "BNY Mellon",  "Zomato", "Rudder Analytics", "Impetus", "DTCC", "Twilio", "MONEY view", "BYJUS", "Jio Platform Limited", "Directi", "Cashfree Payments", "SS SUPPLY CHAIN SOLUTIONS PVT LTD", "Physicswallah company", "Accoloite", "CashKaro.com", "Wheelseye Technology"
   ],
   "https://leetcode.com/problems/rotate-list/": [
     "Rotate List",
