@@ -6741,13 +6741,8 @@
   ],
   "https://leetcode.com/problems/pascals-triangle/": [
     "Pascal's Triangle",
-    "Amazon",
-    "Apple",
-    "Microsoft",
-    "Goldman Sachs",
-    "Snapchat",
-    "Uber",
-    "Yahoo"
+    "Amazon", "Adobe", "Google", "Samsung", "Capgemini", "JPMorgan and Chase", "Inca Infotech", "ServiceNow", "Mindtree", "IBM (Phemesoft)",
+    "Apple", "Grab", "TCS", "Microsoft", "Goldman Sachs", "Snapchat", "Uber", "Yahoo"
   ],
   "https://leetcode.com/problems/distinct-subsequences/": [
     "Distinct Subsequences",
