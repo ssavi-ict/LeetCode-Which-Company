@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/":[
+    "Count All Valid Pickup and Delivery Options", "Meta", "DoorDash", "Google", "Apple"
+  ],
   "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/":[
 	"Minimum Number of Taps to Open to Water a Garden", "Flipkart", "Meesho", "Ola", "BNY Mellon", "Atlassian", "Salesforce", "Apple", "Spinny", "VFISLK Global Services", "Davis Software", "DE Shaw India", "Hackett Group", "Avalara", "Aditya Birla group", "Desi QnA", "Adobe", "Amazon", "DocuSign", "Facebook", "Goldman Sachs", "Google", "Lyft", "Mathworks", "Morgan Stanley", "Oracle", "Twitter", "VMware"
   ],
