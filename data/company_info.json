@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/":[
+    "Minimum Deletions to Make Character Frequencies Unique", "Ola", "Microsoft", "SAP", "Google", "Paypal", "Amazon", "Meesho", "American Express", "HashedIn", "Deutsche Bank"
+  ],
   "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/":[
     "Count All Valid Pickup and Delivery Options", "Meta", "DoorDash", "Google", "Apple"
   ],
