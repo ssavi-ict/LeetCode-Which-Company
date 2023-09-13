@@ -6574,7 +6574,9 @@
   ],
   "https://leetcode.com/problems/candy/": [
     "Candy",
-    "Amazon"
+    "Amazon", "Adobe", "Apple", "Bloomberg", "Flipkart", "Goldman Sachs", "Google", "IBM", "Infosys", "Microsoft", "Uber", "Walmart",
+    "Cognizant", "TCS", "Arcesium", "Morgan Stanley", "Larsen & Toubro Infotech (LTI)", "OYO", "Think Future Technologies", 
+    "codezero2pi", "DE Shaw India", "Cerner Corporation"
   ],
   "https://leetcode.com/problems/gas-station/": [
     "Gas Station",
