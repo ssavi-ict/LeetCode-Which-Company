@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/min-cost-to-connect-all-points/":[
+    "Min Cost to Connect All Points", "Amazon", "TCS", "Oracle", "Microsoft", "Chegg"
+  ],
   "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/":[
     "Minimum Deletions to Make Character Frequencies Unique", "Ola", "Microsoft", "SAP", "Google", "Paypal", "Amazon", "Meesho", "American Express", "HashedIn", "Deutsche Bank", "Yahoo"
   ],
