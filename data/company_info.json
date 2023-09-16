@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/path-with-minimum-effort/":[
+    "Path With Minimum Effort", "TCS", "Visa", "Amazon", "Microsoft", "Samsung", "MakeMyTrip", "Goldman Sachs", "Google"
+  ],
   "https://leetcode.com/problems/min-cost-to-connect-all-points/":[
     "Min Cost to Connect All Points", "Amazon", "TCS", "Oracle", "Microsoft", "Chegg"
   ],
