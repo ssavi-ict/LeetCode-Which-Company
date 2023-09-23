@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/longest-string-chain/":[
+    "Longest String Chain", "Mathworks", "Facebook", "Groupon", "Google", "Maverick system"
+  ],
   "https://leetcode.com/problems/shortest-path-visiting-all-nodes/":[
     "Shortest Path Visiting All Nodes", "Google", "TCS", "UrbanClap", "Cognizant", "Apple", "HCL Inofsystem LTD.", "Amazon", "Bloomberg"
   ],
