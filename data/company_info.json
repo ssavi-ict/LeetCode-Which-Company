@@ -1,4 +1,8 @@
 {
+  "https://leetcode.com/problems/sort-array-by-parity/":[
+    "Sort Array By Parity", "Amazon", "PayTM", "SAP", "Wipro", "Apple", "Bloomberg", "Cisco", "Facebook", "Google", "Microsoft",
+     "Morgan Stanley", "VMware"
+  ],
   "https://leetcode.com/problems/longest-string-chain/":[
     "Longest String Chain", "Mathworks", "Facebook", "Groupon", "Google", "Maverick system"
   ],
