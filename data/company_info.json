@@ -4041,13 +4041,10 @@
   ],
   "https://leetcode.com/problems/reverse-words-in-a-string-iii/": [
     "Reverse Words in a String III",
-    "Microsoft",
-    "Amazon",
-    "Bolt",
-    "Yandex",
-    "Facebook",
-    "Apple",
-    "PayTM"
+    "Accolite", "Samsung", "MakeMyTrip", "Goldman Sachs", "Adobe", "SAP Labs", "Cisco",
+    "Zoho", "Flipkart", "Payu", "MAQ Software", "Farmeasy", "Uber", "Codenation", "HCL Software",
+    "Bloomberg", "eBay", "Google", "PayPal", "Snapchat", "Bolt", "Zappos",
+    "Microsoft", "Amazon", "Bolt", "Yandex", "Facebook", "Apple", "PayTM"
   ],
   "https://leetcode.com/problems/split-concatenated-strings/": [
     "Split Concatenated Strings",
