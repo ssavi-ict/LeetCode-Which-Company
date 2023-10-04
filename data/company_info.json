@@ -3427,14 +3427,10 @@
   ],
   "https://leetcode.com/problems/design-hashmap/": [
     "Design HashMap",
-    "Amazon",
-    "Microsoft",
-    "LinkedIn",
-    "Oracle",
-    "Salesforce",
-    "Apple",
-    "Goldman Sachs",
-    "Walmart Global Tech"
+    "Amazon", "Rakuten", "OYO", "Cognizant", "Samsung", 
+    "Paypal", "TCS", "American Express", "SAP Labs", "Adobe", "Sprinklr", "Infosys", "Innovaccer", "Flipkart", "Uber",
+    "D.E. Shaw", "Zomato", "Swiggy", "One Plus", "Reliance",
+    "Microsoft", "LinkedIn", "Oracle", "Salesforce", "Apple", "Goldman Sachs", "Walmart Global Tech"
   ],
   "https://leetcode.com/problems/design-hashset/": [
     "Design HashSet",
