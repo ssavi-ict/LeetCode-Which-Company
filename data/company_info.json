@@ -5901,8 +5901,8 @@
   ],
   "https://leetcode.com/problems/majority-element-ii/": [
     "Majority Element II",
-    "Amazon",
-    "Microsoft",
+    "Amazon", "Google", "Yahoo", "Flipkart", "Accolite", "D-E-Shaw", "Nagarro", "Atlassian", "Apple", "Bloomberg", "Facebook", "Coditas",
+    "Microsoft", "Zenefits", "Genpact", "Morgan Stanely", "Airtel", "Incedo Inc.", "Unthinkable Solutions", "Tiger Analytics", "Betsol",
     "Adobe"
   ],
   "https://leetcode.com/problems/summary-ranges/": [
