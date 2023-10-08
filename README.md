@@ -15,6 +15,8 @@ However, since I am continuously updating company information solely, you might 
 
 Install this extension/add-on and boost your prep. Wishing you all the very best in your journey.
 
+------
+Access company information for all available problems from : <a href="https://ssavi-ict.github.io/LeetCode-Which-Company/" target="_blank">All Company Information</a>
 ------ 
 ## How this extension is different from existing others - 
 
