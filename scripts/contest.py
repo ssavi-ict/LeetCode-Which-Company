@@ -51,6 +51,7 @@ class CONTEST(object):
                 "title": contest_title, "start_time": contest_start_time, "contest_duration": contest_duration
             }
             valid_contests[slug] = contest_info
+        print('Valid Contests Are - ', valid_contests)
         return valid_contests
 
     # noinspection PyMethodMayBeStatic
