@@ -46,7 +46,7 @@ class CONTEST(object):
                 print("[ " + str(is_private) + " ]", contest_title, ' is private ... ')
                 continue
             contest_duration = response_json["contest"]["duration"]
-            # print(contest_title, contest_start_time, contest_duration, is_virtual, is_private)
+            print(contest_title, contest_start_time, contest_duration, is_virtual, is_private)
             contest_info = {
                 "title": contest_title, "start_time": contest_start_time, "contest_duration": contest_duration
             }
