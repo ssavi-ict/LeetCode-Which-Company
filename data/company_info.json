@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/":[
+    "Minimum Number of Operations to Make Array Continuous", "Amazon", "Apple", "Uber", "Google"
+  ],
   "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/":[
     "Find First and Last Position of Element in Sorted Array", 
     "Amazon", "Bloomberg", "ByteDance", "Facebook", "Google", "Microsoft", "Oracle", "Uber", "LinkedIn", "Goldman Sachs", "Adobe",
