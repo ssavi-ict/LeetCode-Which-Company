@@ -1,5 +1,14 @@
 # Find all the change history listed below 
 
+**[12/11/2023]**
+- v1.0.8 [Features](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/263)
+- ✯ Notation for recently asked questions reflected in the following page
+    - Extension pop up window
+    - All Company page
+- Extension housing bug fixes.
+- Chrome only update.
+- README Updated.
+
 **[22/08/2023]**
 - v1.0.7 [Features](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/85)
 - Next to solve [*Easy*] implemented.
