@@ -2,9 +2,11 @@
 
 **[12/11/2023]**
 - v1.0.8 [Features](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/263)
-- ✯ Notation for recently asked questions reflected in the following page
+- (✯) Notation for recently asked questions reflected in the following page
     - Extension pop up window
     - All Company page
+- A public All Company information page has been published at [Here](https://ssavi-ict.github.io/LeetCode-Which-Company/)
+- A workaround All Company web link is added to the extension PopUP for those who are not able to see the company information for some reason.
 - Extension housing bug fixes.
 - Chrome only update.
 - README Updated.
