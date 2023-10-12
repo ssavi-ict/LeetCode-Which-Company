@@ -350,23 +350,28 @@ async function fetchLeetCodeData(locator_param) {
       });
   }
   
-  // Example usage: Fetch data and use it
-  fetchLeetCodeData(0);
-  
-  const easy_button = document.getElementById("easy_button");
-  const mid_button = document.getElementById("mid_button");
-  const hard_button = document.getElementById("hard_button");
+  document.addEventListener('DOMContentLoaded', function () {
+    if (window.location.href.includes('leetcoder.html')) {
+        // Example usage: Fetch data and use it
+        fetchLeetCodeData(0);
+        
+        const easy_button = document.getElementById("easy_button");
+        const mid_button = document.getElementById("mid_button");
+        const hard_button = document.getElementById("hard_button");
 
-  // Add onclick event handlers for each button
-  easy_button.onclick = function() {
-    fetchLeetCodeData(1);
-  };
+        // Add onclick event handlers for each button
+        if(!easy_button && !mid_button && !hard_button) return;
+        easy_button.onclick = function() {
+            fetchLeetCodeData(1);
+        };
 
-  mid_button.onclick = function() {
-    fetchLeetCodeData(2);
-  };
+        mid_button.onclick = function() {
+            fetchLeetCodeData(2);
+        };
 
-  hard_button.onclick = function() {
-    fetchLeetCodeData(3);
-  };
+        hard_button.onclick = function() {
+            fetchLeetCodeData(3);
+        };
+    }
+});
 

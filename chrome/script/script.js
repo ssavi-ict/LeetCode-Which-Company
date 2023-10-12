@@ -13,12 +13,13 @@ fetch('https://raw.githubusercontent.com/ssavi-ict/LC-Which-Company/main/data/co
                             let plink = key, pname = data[key][0];
                             tableContent += "<tr>";
                             tableContent += "<td><a href = '" + plink + "' target='_blank'>" + pname +"</a></td>";
-                            tableContent += "<td style='background-image: linear-gradient(45deg, red, orange, green, blue, indigo, violet); -webkit-background-clip: text; -webkit-text-fill-color: transparent;'>";
+                            tableContent += "<td style='background-image: linear-gradient(45deg, red, orange, green, blue, indigo, violet); -webkit-background-clip: text; -webkit-text-fill-color: inherit;'>";
                             for(let i=1; i<data[key].length; i++){
                                 if(i > 1){
                                     tableContent += ', ';
                                 }
                                 tableContent += data[key][i];
+                                if(i <= 5) tableContent += "<sup>&#10031;</sup>";
                             }
                             tableContent += "</td>";
                             tableContent += "<td></td>";

@@ -42,6 +42,7 @@ When solving a problem if you click on the ![icon](chrome/res/32.png) from the *
 
 - If the extension is able find the `Company Names` for the leetcode problem on the current window then it will show as follows - 
 ![found](/static/webfile/info_shows.PNG)
+- Updation of company information scheduled to be done on a regular basis. You can check the commits tagged `company-info`.
 
 - **💥 NEW FEATURE 💥**
     
@@ -53,8 +54,12 @@ When solving a problem if you click on the ![icon](chrome/res/32.png) from the *
     - The checkbox (*marked in red*) can be checked to receive contest notification everyday twice a day or unchecked if you wish not to receive contest notification. ![notification](/static/webfile/notification.PNG)
 
 - **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
-    - Click on the **[Be A Pro]** button ![upcoming_contest](/static/webfile/upcoming-contest-button.PNG), it redirect to your preparation zone.
+    - [v1.0.7] Click on the **[Be A Pro]** button ![upcoming_contest](/static/webfile/upcoming-contest-button.PNG), it redirect to your preparation zone.
     It shows your solving summary from where you can get picture of your solving history. Moreover, your going to get suggestions to solve the next Easy/Medium/Hard problem. Now your preparation is going even more fine-tuned. ![solve the next](/static/webfile/problem-suggestion.PNG)
+
+- **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
+    - [v1.0.8] From now on you will be able to see the companies who asked a question recently for a certain problem. From the available company information for a problem, there will be a (✯) sign located on the right side of the top **5** company. This feature has been added on **Pop Up Window, All Company** page. 
+        - *This information has been collected from the different sources of the internet. It will be hard to verify the exact timeline.*
 
 <br>
 
