@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/find-in-mountain-array/":[
+    "Find in Mountain Array", "Bloomberg", "Apple", "Uber", "Amazon", "Grab", "Hike", "Adobe", "Wipro", "TCS"
+  ],
   "https://leetcode.com/problems/number-of-flowers-in-full-bloom/":[
     "Number of Flowers in Full Bloom", "Google"
   ],
