@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/painting-the-walls/":[
+    "Painting the Walls", "Amazon", "Adobe"
+  ],
   "https://leetcode.com/problems/find-in-mountain-array/":[
     "Find in Mountain Array", "Bloomberg", "Apple", "Uber", "Amazon", "Grab", "Hike", "Adobe", "Wipro", "TCS"
   ],
