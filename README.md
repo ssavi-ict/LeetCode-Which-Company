@@ -27,6 +27,8 @@ Access company information for all available problems from : <a href="https://ss
 - Flexible to LeetCode UI changes. So no downtime on your preparation.
 - Upcoming Contest Notification everyday. Never miss a LeetCode contest now.
 - Next to solve suggestion for Easy, Medium, and Hard category.
+- ✯ Notation to denote the recent companies who asked a question.
+- Backup URL if extension pop up fails to load company information. <a href="https://ssavi-ict.github.io/LeetCode-Which-Company/" target="_blank">Visit Here</a>
 - No data collection.
 
 ------ 
