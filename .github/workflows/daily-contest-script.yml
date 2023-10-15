@@ -41,14 +41,16 @@ jobs:
           changes=$(git diff --name-only main -- data/contests.json)
           echo "::set-output name=changes::$changes"
 
-      - name: Commit and push changes
-        if: steps.git-diff.outputs.changes != ''
+      - name: Install hub
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add data/contests.json
-          git commit -m "Update JSON file"
-          git push origin automate-c-json-update
+          # Install hub from GitHub releases
+          HUB_VERSION=2.14.2  # Replace with the desired version
+          HUB_OS=amd64  # Replace with the appropriate OS version
+
+          wget https://github.com/github/hub/releases/download/v${HUB_VERSION}/hub-linux-${HUB_OS}-${HUB_VERSION}.tgz
+          tar -xvzf hub-linux-${HUB_OS}-${HUB_VERSION}.tgz
+          sudo mv hub-linux-${HUB_OS}-${HUB_VERSION}/bin/hub /usr/local/bin/hub
+        shell: bash
 
       - name: Create Pull Request
         if: steps.git-diff.outputs.changes != ''
