@@ -3,9 +3,14 @@
     <head>   
         <meta charset="utf-8">   
         <title>CrackTech - Find LeetCode Company Tags</title>
-        <!-- <meta http-equiv="Content-Security-Policy"
-            content="script-src 'self' 'unsafe-inline';"
-        > -->
+        <style>
+            .content-item a img{
+                height: auto;
+                width: 70%;
+                padding: 10px;
+                flex: 1;
+            }
+        </style>
         <meta name="description" content="Bootstrap.">  
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <!-- <link href="css/styles.css" rel="stylesheet"> -->
@@ -32,6 +37,32 @@
 
         </div>
         <hr>
+        <div class="quick-access-panel">
+            <h3 style="text-align: center; font-family: Segoe UI;">Quick Access Panel</h3>
+            <div class="useful-content-item" style="display: flex; align-items: center; justify-content: center;">
+                <div class="content-item">
+                    <a href="leetcoder.html" target="_blank">
+                        <center><img src="res/be-a-pro.png" alt="Be A Pro. Solve The Next."></center>
+                    </a>
+                </div>
+                <div class="content-item">
+                    <a href="https://forms.gle/cAW1jxYxUTwgUmMd9" target="_blank">
+                        <center><img src="res/share-feedback.png" alt="Share Your Feedback"></center>
+                    </a>
+                </div>
+                <div class="content-item">
+                    <a href="https://www.buymeacoffee.com/ssavi" target="_blank">
+                        <center><img src="res/buy-me-a-coffee.png" alt="Buy Me A Coffee"></center>
+                    </a>
+                </div>
+                <div class="content-item">
+                    <a href="https://github.com/ssavi-ict/LeetCode-Which-Company/" target="_blank">
+                        <center><img src="res/project-source.png" alt="Go To Project Source"></center>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <hr>
         <br>
         <div class="row header" style="margin: auto; text-align:center;color:green;padding-bottom: 12px;width: fit-content;">
             <h2 style="font-family: 'Playfair'; font-style: italic; font-weight: bold; border-bottom: 2px solid indigo; padding-bottom: 2px;">
@@ -40,6 +71,7 @@
         </div>
         <br><br>
         <div id = "company_table">
+            <h4 style="font-family: 'Playfair'; font-style: italic;"><sup>&#10031;</sup> - <i> Asked in recent interviews</i></h4>
             <table id="dtBasicExample" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%" style="font-family: Segoe UI;">
             </table>
         </div>

@@ -1,5 +1,41 @@
 # Find all the change history listed below 
 
+**[12/11/2023]**
+- v1.0.8 [Features](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/263)
+- (✯) Notation for recently asked questions reflected in the following page
+    - Extension pop up window
+    - All Company page
+- A public All Company information page has been published at [Here](https://ssavi-ict.github.io/LeetCode-Which-Company/)
+- A workaround All Company web link is added to the extension PopUP for those who are not able to see the company information for some reason.
+- Extension housing bug fixes.
+- Chrome only update.
+- README Updated.
+
+**[22/08/2023]**
+- v1.0.7 [Features](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/85)
+- Next to solve [*Easy*] implemented.
+- Next to solve [*Medium*] implemented.
+- Next to solve [*Hard*] implemented.
+- Solving summary of a user at a glance implemented.
+- Solving history PIE CHART implemented.
+- Quick access panel implemented.
+- Popup window [*Upcoming Contest*] button text updated to [*Be A Pro*].
+- v1.0.7 published for chrome only.
+- README Updated.
+
+**[27/07/2023]**
+- v1.0.6 [Features](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/81) implementation.
+- **Contribute** button changed to `Upcoming Contest` button.
+- **Contribute** option modified and showed as a link. 
+- **Leetcoder.html** page to show contest details as per user's GMT.
+- **Upcoming Contest** desktop notification.
+- **Enabling** or **Disabling** notification as per user's choice.
+- Implementation Status: Chrome (*Done*), Edge (*Done*)
+- Firefox Notification handling in a different way due to mdn API limitation.
+- Contest details scrapping script added.
+- Workflow added to run the contest script.
+- v1.0.6 published.
+
 **[03/06/2023]**
 - Improved User Interface.
 - Extension name updated to `CrackTech - Find LeetCode Company Tags` from `LeetCode Which Company`

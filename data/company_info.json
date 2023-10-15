@@ -1,4 +1,133 @@
 {
+  "https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/":[
+    "Number of Ways to Stay in the Same Place After Some Steps", "Google"
+  ],
+  "https://leetcode.com/problems/painting-the-walls/":[
+    "Painting the Walls", "Amazon", "Adobe"
+  ],
+  "https://leetcode.com/problems/find-in-mountain-array/":[
+    "Find in Mountain Array", "Bloomberg", "Apple", "Uber", "Amazon", "Grab", "Hike", "Adobe", "Wipro", "TCS"
+  ],
+  "https://leetcode.com/problems/number-of-flowers-in-full-bloom/":[
+    "Number of Flowers in Full Bloom", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/":[
+    "Minimum Number of Operations to Make Array Continuous", "Amazon", "Apple", "Uber", "Google"
+  ],
+  "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/":[
+    "Find First and Last Position of Element in Sorted Array", 
+    "Amazon", "Bloomberg", "ByteDance", "Facebook", "Google", "Microsoft", "Oracle", "Uber", "LinkedIn", "Goldman Sachs", "Adobe",
+    "Wipro", "Amadeus Software", "Ion Trading", "Verifone", "VMWare", "Airtel", "Qualys", "Apptad Inc."
+  ],
+  "https://leetcode.com/problems/max-dot-product-of-two-subsequences/":[
+    "Max Dot Product of Two Subsequences", "Microsoft"
+  ],
+  "https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/":[
+    "Build Array Where You Can Find The Maximum Exactly K Comparisons", "Dunzo"
+  ],
+  "https://leetcode.com/problems/sort-array-by-parity/":[
+    "Sort Array By Parity", "Amazon", "PayTM", "SAP", "Wipro", "Apple", "Bloomberg", "Cisco", "Facebook", "Google", "Microsoft",
+     "Morgan Stanley", "VMware"
+  ],
+  "https://leetcode.com/problems/longest-string-chain/":[
+    "Longest String Chain", "Mathworks", "Facebook", "Groupon", "Google", "Maverick system"
+  ],
+  "https://leetcode.com/problems/shortest-path-visiting-all-nodes/":[
+    "Shortest Path Visiting All Nodes", "Google", "TCS", "UrbanClap", "Cognizant", "Apple", "HCL Inofsystem LTD.", "Amazon", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/path-with-minimum-effort/":[
+    "Path With Minimum Effort", "TCS", "Visa", "Amazon", "Microsoft", "Samsung", "MakeMyTrip", "Goldman Sachs", "Google"
+  ],
+  "https://leetcode.com/problems/min-cost-to-connect-all-points/":[
+    "Min Cost to Connect All Points", "Amazon", "TCS", "Oracle", "Microsoft", "Chegg"
+  ],
+  "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/":[
+    "Minimum Deletions to Make Character Frequencies Unique", "Ola", "Microsoft", "SAP", "Google", "Paypal", "Amazon", "Meesho", "American Express", "HashedIn", "Deutsche Bank", "Yahoo"
+  ],
+  "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/":[
+    "Count All Valid Pickup and Delivery Options", "Meta", "DoorDash", "Google", "Apple"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/":[
+	"Minimum Number of Taps to Open to Water a Garden", "Flipkart", "Meesho", "Ola", "BNY Mellon", "Atlassian", "Salesforce", "Apple", "Spinny", "VFISLK Global Services", "Davis Software", "DE Shaw India", "Hackett Group", "Avalara", "Aditya Birla group", "Desi QnA", "Adobe", "Amazon", "DocuSign", "Facebook", "Goldman Sachs", "Google", "Lyft", "Mathworks", "Morgan Stanley", "Oracle", "Twitter", "VMware"
+  ],
+  "https://leetcode.com/problems/minimum-replacements-to-sort-the-array/":[
+	"Minimum Replacements to Sort the Array", "Google", "Expedia"
+  ],
+  "https://leetcode.com/problems/minimum-penalty-for-a-shop/":[
+	"Minimum Penalty for a Shop", "Stripe"
+  ],
+  "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/":[
+	"Sort Items by Groups Respecting Dependencies", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/":[
+	"Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree", "Facebook", "MakeMyTrip", "Flipkart", "Amazon", "Adobe"
+  ],
+  "https://leetcode.com/problems/maximal-network-rank/":[
+	"Maximal Network Rank", "Microsoft", "Tesla"
+  ],
+  "https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/":[
+	"Check if There is a Valid Partition For The Array", "Google"
+  ],
+  "https://leetcode.com/problems/coin-change-ii/":[
+	"Coin Change II", "Adobe", "Amazon", "Apple", "Bloomberg", "ByteDance", "Cisco", "Citadel", "Facebook", "Google", "Microsoft", "TCS", "Uber",
+	"Goldman Sachs", "Cognizant", "Morgan Stanely", "Gartner", "Walmart", "Flipkart", "LinkedIn", "OYO", "Thought Works", "Delhivery", "Oracle", "Infosys",
+	"Groww", "Samsung", "Publicis Sapient", "HSBC", "Capgemini", "Continental", "Barclays", "PayTM", "Intuit", "Accenture", "Citi Bank", "Dunzo", "ZS Associates",
+	"IBM", "Rippling", "Triology Innovations", "Future First", "Deutsche Bank", "SAP Labs", "Nagarro", "Practo", "Fortinet", "MindTree", "Credit Suisse", 
+	"Hashedin By Deloitte", "GE Healthcare", "Standard Chartered Bank", "PwC India", "Park+", "Fidelity International", "Amdocs", "Infoedge", "Fairportal",
+	"Tech Vedika", "Airtel", "Rupeek", "De Shaw India", "Mahindra Comviva", "NoBroker", "Navis", "Josh Technologies", "Traveloka", "Cloud Analogy", "Accolite",
+	"Algogenix"
+  ],
+  "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/":[
+	"Minimize the Maximum Difference of Pairs", "Amazon", "Sprinklr", "Urban Company", "Policybazar.com", "Navi"
+  ],
+  "https://leetcode.com/problems/number-of-music-playlists/":[
+	"Number of Music Playlists", "Google", "Amazon", "Coursera", "Facebook"
+  ],
+  "https://leetcode.com/problems/soup-servings/":[
+	"Soup Servings", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-running-time-of-n-computers/":[
+	"Maximum Running Time of N Computers", "Deutsche Bank"
+  ],
+  "https://leetcode.com/problems/minimum-speed-to-arrive-on-time/":[
+	"Minimum Speed to Arrive on Time", "Google", "PhonePe"
+  ],
+  "https://leetcode.com/problems/all-possible-full-binary-trees/":[
+	"All Possible Full Binary Trees", "Adobe", "Amazon", "Google", "Apple", "Bloomberg", "Nvidia", "Flipkart"
+  ],
+  "https://leetcode.com/problems/smallest-sufficient-team/":[
+	"Smallest Sufficient Team", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/":[
+	"Maximum Number of Events That Can Be Attended II", "Adobe", "Amazon", "Twitter", "General Electric"
+  ],
+  "https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/":[
+	"Longest Arithmetic Subsequence of Given Difference", "Google", "Facebook", "Microsoft"
+  ],
+  "https://leetcode.com/problems/find-eventual-safe-states/":[
+	"Find Eventual Safe States", "Amazon", "Bloomberg", "MindTickle", "ShareChat", "DeeHat"
+  ],
+  "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/":[
+	"All Nodes Distance K in Binary Tree", "Amazon", "Google", "Facebook", "Microsoft", "Flipkart", "Samsung", "PayTM", "Uber", "Apple", "Goldman Sachs", "Naukri", "Tower Research Capital", "Morgan Stanley", "Twilio", "Drawinbox", "Nutanix", "Byjus", "Flash Tech", "Josh Technologies"
+  ],
+  "https://leetcode.com/problems/fair-distribution-of-cookies/":[
+	"Fair Distribution of Cookies", "Amazon"
+  ],
+  "https://leetcode.com/problems/shortest-path-to-get-all-keys/":[
+	"Shortest Path to Get All Keys", "Airbnb", "Palantir Technologies", "ByteDance", "Wells Fargo", "PayPal", "PhonePe"
+  ],
+  "https://leetcode.com/problems/total-cost-to-hire-k-workers/":[
+	"Total Cost to Hire K Workers", "Mathworks"
+  ],
+  "https://leetcode.com/problems/count-all-possible-routes/":[
+	"Count All Possible Routes", "Amazon"
+  ],
+  "https://leetcode.com/problems/longest-arithmetic-subsequence/":[
+	"Longest Arithmetic Subsequence", "Google", "Microsoft", "Snapdeal"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-make-array-equal/":[
+	"Minimum Cost to Make Array Equal", "MakeMyTrip", "Publicis Sapient", "JPMorgan and Chase", "Amazon", "Oracle"
+  ],
   "https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/":[
 	"Number of Increasing Paths in a Grid", "Google", "Adobe"
   ],
@@ -456,7 +585,7 @@
   ],
   "https://leetcode.com/problems/k-radius-subarray-averages/": [
     "K Radius Subarray Averages",
-    "Facebook"
+    "Facebook", "Duolingo", "Google", "Amazon"
   ],
   "https://leetcode.com/problems/find-target-indices-after-sorting-array/": [
     "Find Target Indices After Sorting Array",
@@ -558,7 +687,7 @@
   ],
   "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/": [
     "Remove Colored Pieces if Both Neighbors are the Same Color",
-    "Walmart Global Tech"
+    "Walmart Global Tech", "Mathworks", "JPMorgan"
   ],
   "https://leetcode.com/problems/stock-price-fluctuation/": [
     "Stock Price Fluctuation",
@@ -582,7 +711,7 @@
   ],
   "https://leetcode.com/problems/maximize-the-confusion-of-an-exam/": [
     "Maximize the Confusion of an Exam",
-    "Amazon"
+    "Amazon", "Facebook", "Arcesium"
   ],
   "https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/": [
     "Number of Pairs of Strings With Concatenation Equal to Target",
@@ -602,7 +731,7 @@
   ],
   "https://leetcode.com/problems/maximum-difference-between-increasing-elements/": [
     "Maximum Difference Between Increasing Elements",
-    "Cisco",
+    "Cisco", "Apple", "Incedo Inc.", "DE Shaw India",
     "Expedia"
   ],
   "https://leetcode.com/problems/sum-of-beauty-in-the-array/": [
@@ -1029,7 +1158,7 @@
   ],
   "https://leetcode.com/problems/find-the-highest-altitude/": [
     "Find the Highest Altitude",
-    "Apple"
+    "Apple", "Incedo Inc.", "DE Shaw India", "Cisco", "Expedia"
   ],
   "https://leetcode.com/problems/largest-submatrix-with-rearrangements/": [
     "Largest Submatrix With Rearrangements",
@@ -1159,7 +1288,7 @@
   ],
   "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/": [
     "Minimum Operations to Reduce X to Zero",
-    "Google",
+    "Google", "Apple", "Adobe",
     "Amazon"
   ],
   "https://leetcode.com/problems/determine-if-two-strings-are-close/": [
@@ -2032,7 +2161,7 @@
   ],
   "https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/": [
     "Group the People Given the Group Size They Belong To",
-    "Apple",
+    "Apple", "C3 Iot", "Roblox",
     "Bloomberg"
   ],
   "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/": [
@@ -2796,8 +2925,7 @@
   ],
   "https://leetcode.com/problems/monotonic-array/": [
     "Monotonic Array",
-    "Facebook",
-    "Amazon"
+    "Facebook", "Microsoft", "TikTok", "Amazon"
   ],
   "https://leetcode.com/problems/maximum-frequency-stack/": [
     "Maximum Frequency Stack",
@@ -2848,7 +2976,7 @@
   ],
   "https://leetcode.com/problems/decoded-string-at-index/": [
     "Decoded String at Index",
-    "Amazon"
+    "Adobe", "National Instruments", "Amazon", "PhonePe", "EPAM Systems"
   ],
   "https://leetcode.com/problems/stone-game/": [
     "Stone Game",
@@ -2896,7 +3024,7 @@
   ],
   "https://leetcode.com/problems/buddy-strings/": [
     "Buddy Strings",
-    "DoorDash",
+    "DoorDash", "Square", "Google", "Microsoft", 
     "Facebook"
   ],
   "https://leetcode.com/problems/score-of-parentheses/": [
@@ -2909,9 +3037,9 @@
   ],
   "https://leetcode.com/problems/peak-index-in-a-mountain-array/": [
     "Peak Index in a Mountain Array",
-    "Amazon",
-    "Bloomberg",
-    "Apple",
+    "Amazon", "Microsoft", "Walmart", "Facebook", "Wipro", "Byjus", "Uber", "Dunzo", "TCS", "Hike", "OLA", "Goldman Sachs",
+    "Bloomberg", "APT Portfolio", "De Shaw India", "Groupon", "Wipro", "Josh Technologies", "Zeta", "Accolite",
+    "Apple", "Proschant India", "Adobe",
     "Google"
   ],
   "https://leetcode.com/problems/maximize-distance-to-closest-person/": [
@@ -3026,7 +3154,7 @@
   ],
   "https://leetcode.com/problems/champagne-tower/": [
     "Champagne Tower",
-    "Uber",
+    "Uber", "DE Shaw", "Google", "Samsung", "TikTok",
     "Amazon",
     "Adobe"
   ],
@@ -3096,8 +3224,8 @@
   ],
   "https://leetcode.com/problems/reorganize-string/": [
     "Reorganize String",
-    "Amazon",
-    "Facebook",
+    "Amazon", "Microsoft", "Expedia Group", "Capgemini", "Dunzo", "Paypal", "Adobe", "eBay", "Nagarro", "Ingenuity Gaming", "Directi",
+    "Facebook", "Thought Works", "American Express", "Qualtrics",
     "Google",
     "eBay",
     "Uber",
@@ -3162,6 +3290,7 @@
   ],
   "https://leetcode.com/problems/min-cost-climbing-stairs/": [
     "Min Cost Climbing Stairs",
+    "Facebook", "Apple", "Goldman Sachs", "Google", "Microsoft", "Uber", "VMware",
     "Amazon",
     "Adobe",
     "Bloomberg"
@@ -3208,8 +3337,8 @@
   ],
   "https://leetcode.com/problems/asteroid-collision/": [
     "Asteroid Collision",
-    "Amazon",
-    "Facebook",
+    "Amazon", "Dunzo", "Flipkart", "Chegg", "Quizizz Inc.",
+    "Facebook", "De Shaw India", "Cerner Corporation", "Josh Technology Group", 
     "DoorDash",
     "tiktok",
     "Lyft",
@@ -3242,7 +3371,7 @@
   ],
   "https://leetcode.com/problems/split-linked-list-in-parts/": [
     "Split Linked List in Parts",
-    "Amazon",
+    "Amazon", "Uber",
     "Oracle",
     "Apple"
   ],
@@ -3305,7 +3434,7 @@
   ],
   "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/": [
     "Best Time to Buy and Sell Stock with Transaction Fee",
-    "Amazon",
+    "Amazon", "IBM", "Adobe", "Apple",
     "Facebook"
   ],
   "https://leetcode.com/problems/subarray-product-less-than-k/": [
@@ -3316,7 +3445,7 @@
   ],
   "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/": [
     "Minimum ASCII Delete Sum for Two Strings",
-    "TripleByte",
+    "TripleByte", "tcs",
     "Activision"
   ],
   "https://leetcode.com/problems/to-lower-case/": [
@@ -3325,14 +3454,10 @@
   ],
   "https://leetcode.com/problems/design-hashmap/": [
     "Design HashMap",
-    "Amazon",
-    "Microsoft",
-    "LinkedIn",
-    "Oracle",
-    "Salesforce",
-    "Apple",
-    "Goldman Sachs",
-    "Walmart Global Tech"
+    "Amazon", "Rakuten", "OYO", "Cognizant", "Samsung", 
+    "Paypal", "TCS", "American Express", "SAP Labs", "Adobe", "Sprinklr", "Infosys", "Innovaccer", "Flipkart", "Uber",
+    "D.E. Shaw", "Zomato", "Swiggy", "One Plus", "Reliance",
+    "Microsoft", "LinkedIn", "Oracle", "Salesforce", "Apple", "Goldman Sachs", "Walmart Global Tech"
   ],
   "https://leetcode.com/problems/design-hashset/": [
     "Design HashSet",
@@ -3434,7 +3559,7 @@
   ],
   "https://leetcode.com/problems/knight-probability-in-chessboard/": [
     "Knight Probability in Chessboard",
-    "Amazon"
+    "Amazon", "Directi", "Expedia Group", "PhonePe", "Goldman Sachs", "Microsoft"
   ],
   "https://leetcode.com/problems/longest-univalue-path/": [
     "Longest Univalue Path",
@@ -3506,8 +3631,7 @@
   ],
   "https://leetcode.com/problems/number-of-longest-increasing-subsequence/": [
     "Number of Longest Increasing Subsequence",
-    "Amazon",
-    "Google"
+    "Amazon", "Zoho", "Samsung", "TCS", "Apollo 247", "Google", "Bloomberg"
   ],
   "https://leetcode.com/problems/bulb-switcher-ii/": [
     "Bulb Switcher II",
@@ -3550,7 +3674,7 @@
   ],
   "https://leetcode.com/problems/strange-printer/": [
     "Strange Printer",
-    "Walmart Global Tech",
+    "Walmart Global Tech", "NetEase", 
     "Google"
   ],
   "https://leetcode.com/problems/equal-tree-partition/": [
@@ -3637,8 +3761,8 @@
   ],
   "https://leetcode.com/problems/maximum-length-of-pair-chain/": [
     "Maximum Length of Pair Chain",
-    "Amazon",
-    "Flipkart"
+    "Amazon", "Google", "Microsoft", "Bloomberg", "Uber", "Walmart", "Siemens", "Capgemini", "Cadence Design Systems", "InMobi", "Josh Technologies",
+    "Flipkart", "Citrix"
   ],
   "https://leetcode.com/problems/set-mismatch/": [
     "Set Mismatch",
@@ -3940,13 +4064,10 @@
   ],
   "https://leetcode.com/problems/reverse-words-in-a-string-iii/": [
     "Reverse Words in a String III",
-    "Microsoft",
-    "Amazon",
-    "Bolt",
-    "Yandex",
-    "Facebook",
-    "Apple",
-    "PayTM"
+    "Accolite", "Samsung", "MakeMyTrip", "Goldman Sachs", "Adobe", "SAP Labs", "Cisco",
+    "Zoho", "Flipkart", "Payu", "MAQ Software", "Farmeasy", "Uber", "Codenation", "HCL Software",
+    "Bloomberg", "eBay", "Google", "PayPal", "Snapchat", "Bolt", "Zappos",
+    "Microsoft", "Amazon", "Bolt", "Yandex", "Facebook", "Apple", "PayTM"
   ],
   "https://leetcode.com/problems/split-concatenated-strings/": [
     "Split Concatenated Strings",
@@ -4005,8 +4126,8 @@
   ],
   "https://leetcode.com/problems/01-matrix/": [
     "01 Matrix",
-    "Google",
-    "Amazon",
+    "Google", "Apple", "Bloomberg", "ByteDance", "Microsoft", "Uber", "Mathworks", 
+    "Amazon", "Publicis Sapient", "Dunzo", "Flipkart", "Upstox", "MTX", "Fareye Technologies", "Wipro",
     "Facebook",
     "Adobe"
   ],
@@ -4273,7 +4394,7 @@
   ],
   "https://leetcode.com/problems/predict-the-winner/": [
     "Predict the Winner",
-    "Google",
+    "Google", "Cisco", "Amazon", "TikTok",
     "Snapchat"
   ],
   "https://leetcode.com/problems/max-consecutive-ones/": [
@@ -4404,8 +4525,7 @@
   ],
   "https://leetcode.com/problems/repeated-substring-pattern/": [
     "Repeated Substring Pattern",
-    "Google",
-    "Facebook"
+    "Google", "Amazon", "MakeMyTrip", "Salesforce", "Facebook"
   ],
   "https://leetcode.com/problems/circular-array-loop/": [
     "Circular Array Loop",
@@ -4413,7 +4533,7 @@
   ],
   "https://leetcode.com/problems/132-pattern/": [
     "132 Pattern",
-    "Amazon"
+    "Amazon", "Bridgewater Associates"
   ],
   "https://leetcode.com/problems/assign-cookies/": [
     "Assign Cookies",
@@ -4481,10 +4601,11 @@
   ],
   "https://leetcode.com/problems/add-two-numbers-ii/": [
     "Add Two Numbers II",
-    "Bloomberg",
-    "Microsoft",
-    "Amazon",
-    "Oracle"
+    "Bloomberg", "Samsung", "Uber", "Yahoo", "Accolite", "Adobe", "Amazon", "Apple", "ByteDance", "Capital One", "eBay", "Facebook", "Google",
+    "Microsoft", "Oracle", "Accenture", "Meesho", "Flipkart", "PayTM", "Intuit", "Myntra", "Publicis Sapient", "Cisco", "Expedia Group", "Josh Software",
+	"Infineon Technologies", "NewGen Software", "VMware", "Twilio", "Airtel", "TCS", "Informatica", "IBM", "Sprinklr", "Deutsche Bank", "BNY Mellon", 
+	"Proteum", "SAP Labs", "Travelopia", "Gigaforce", "PegaSystems", "Netcore", "Jupiter Money", "Housing.com", "Bristlecone", "Loconav", "Jio", "OKCredit",
+	"Nsquare", "Cadance Design"
   ],
   "https://leetcode.com/problems/sequence-reconstruction/": [
     "Sequence Reconstruction",
@@ -4546,8 +4667,8 @@
   ],
   "https://leetcode.com/problems/non-overlapping-intervals/": [
     "Non-overlapping Intervals",
-    "Facebook",
-    "Amazon",
+    "Facebook", "Expedia Group", "Oracle", "Samsung", "NCR Corporation",
+    "Amazon", "Google",
     "Microsoft"
   ],
   "https://leetcode.com/problems/number-of-segments-in-a-string/": [
@@ -4700,8 +4821,8 @@
   ],
   "https://leetcode.com/problems/frog-jump/": [
     "Frog Jump",
-    "Amazon",
-    "Microsoft",
+    "Amazon", "Paypal", "Adobe", "Apple", "Bloomberg", "Facebook", "Oracle", "Salesforce", "Snapchat", "Yahoo",
+    "Microsoft", "Infosys", "SAP Labs", "Arcesium", "Publicis Sapient", "CGI Inc.", "Dunzo", "Global Logic", "Ikarus 3D",
     "Google",
     "ByteDance",
     "tiktok"
@@ -4784,8 +4905,8 @@
   ],
   "https://leetcode.com/problems/is-subsequence/": [
     "Is Subsequence",
-    "Amazon",
-    "Google",
+    "Amazon", "Bloomberg", "Facebook", "Microsoft", "Pinterest", "Zoho", "Accolite", "Tesco", "PayTM", "Quadrical AI", 
+    "Google", "Rootstock Software", "Unthinkable Solutions", "Josh Technologies",
     "Yandex",
     "Adobe"
   ],
@@ -4802,7 +4923,7 @@
   ],
   "https://leetcode.com/problems/find-the-difference/": [
     "Find the Difference",
-    "Google",
+    "Google", "Adobe", "IBM",
     "Amazon",
     "Apple"
   ],
@@ -4876,7 +4997,7 @@
   ],
   "https://leetcode.com/problems/combination-sum-iv/": [
     "Combination Sum IV",
-    "Amazon",
+    "Amazon", "OYO", "Adobe", "Apple", "Bloomberg", "Snapchat", "Wish",
     "Google",
     "Facebook",
     "Microsoft"
@@ -5084,7 +5205,8 @@
   ],
   "https://leetcode.com/problems/integer-break/": [
     "Integer Break",
-    "Facebook"
+    "Facebook", "Infoedge India", "Microsoft", "Amazon", "Adobe", "Wipro", "Apple", "Bloomberg", "Citadel", "Google", "TCS",
+    "Flipkart", "Uber"
   ],
   "https://leetcode.com/problems/power-of-four/": [
     "Power of Four",
@@ -5114,10 +5236,9 @@
   ],
   "https://leetcode.com/problems/counting-bits/": [
     "Counting Bits",
-    "Amazon",
-    "Google",
-    "Bloomberg",
-    "JPMorgan"
+    "Amazon", "Microsoft", "Samsung", "Adobe", "Wipro", "Brocade", "Juniper Networks", "Cisco", "Qualcomm", "Apple", "Snapdeal", "HP Enterprise", 
+    "Google", "Ola", "Infosys", "HSBC", "PeopleStrong", "Micron Technology", "Congnizant", "Clarivate", "Cogoport", "Texas Instruments", "DTCC", "MTX", 
+	"Hashedin", "MindInventory", "MediaTek", "Cadence Design", "Veridic Private Limited", "One Convergence", "Bloomberg", "JPMorgan and Chase", "Novartis", "Net App India"
   ],
   "https://leetcode.com/problems/house-robber-iii/": [
     "House Robber III",
@@ -5152,7 +5273,7 @@
   ],
   "https://leetcode.com/problems/reconstruct-itinerary/": [
     "Reconstruct Itinerary",
-    "Uber",
+    "Uber", "Nutanix", "Practo", "Ula", "DealShare.in",
     "Facebook",
     "Google",
     "Amazon",
@@ -5235,7 +5356,7 @@
   ],
   "https://leetcode.com/problems/remove-duplicate-letters/": [
     "Remove Duplicate Letters",
-    "Apple",
+    "Apple", "Oracle", "TikTok", "DRW",
     "Facebook",
     "Amazon",
     "Salesforce"
@@ -5395,8 +5516,9 @@
   ],
   "https://leetcode.com/problems/find-the-duplicate-number/": [
     "Find the Duplicate Number",
-    "Amazon",
-    "Microsoft",
+    "Amazon", "Paytm", "Zoho", "Flipkart", "DE-Shaw", "Adobe", "Bloomberg", "Cisco", "eBay", "Expedia", "Goldman Sachs", "Nutanix", 
+    "PayPal", "Splunk", "Uber", "VMware", "Yahoo", "Capgemini", "TCS", "BNY Mellon", "OLA", "Housing.com", "PegaSystems", "Unthinkable Solution",
+    "Microsoft", "HashedIn", "Virtusa",
     "Facebook",
     "Uber",
     "Apple",
@@ -5706,10 +5828,10 @@
   ],
   "https://leetcode.com/problems/sliding-window-maximum/": [
     "Sliding Window Maximum",
-    "Amazon",
-    "Google",
-    "Microsoft",
-    "Salesforce",
+    "Amazon", "Akuna Capital", "Databricks", "Dropbox", "Expedia", "IBM", "American Express", "Intel", "LinkedIn", "Mathworks", "Oracle", "PayPal", "Splunk", "Tesla", "Twitter", "Two Sigma", "Yelp", "Cruise Automation", "Instacart", "Goldman Sachs", "Quikr", "Morgan Stanley",
+    "Google", "Cisco", "Innovaccer", "HSBC", "Razorpay", "Samsung", "Flipkart", "Walmart", "OYO", "Soroco", "Lifesight", "Hughes Systique Corporation (HSC)",
+    "Microsoft", "HCL Tech", "MSCI", "Mercer Mettl", "Incedo Inc.", "Virtusa", "MobiKwik", "Hashedin", "Cognizant", "Practo", "Nagarro", "Wadhwani AI",
+    "Salesforce", "PayTM", "EPAM Systems", "Cashfree Payments", "Accion Labs India", "Byte Bonding Tech", "Emerson electric co.",
     "Uber",
     "Facebook",
     "Adobe",
@@ -5807,8 +5929,8 @@
   ],
   "https://leetcode.com/problems/majority-element-ii/": [
     "Majority Element II",
-    "Amazon",
-    "Microsoft",
+    "Amazon", "Google", "Yahoo", "Flipkart", "Accolite", "D-E-Shaw", "Nagarro", "Atlassian", "Apple", "Bloomberg", "Facebook", "Coditas",
+    "Microsoft", "Zenefits", "Genpact", "Morgan Stanely", "Airtel", "Incedo Inc.", "Unthinkable Solutions", "Tiger Analytics", "Betsol",
     "Adobe"
   ],
   "https://leetcode.com/problems/summary-ranges/": [
@@ -5839,7 +5961,7 @@
   ],
   "https://leetcode.com/problems/implement-stack-using-queues/": [
     "Implement Stack using Queues",
-    "Amazon"
+    "Amazon", "Accolite", "Microsoft", "OYO", "Snapdeal", "DE Shaw", "Oracle", "Adobe", "Cisco", "Grofers", "CouponDunia", "Kritikal Solutions", "Paypal", "Accenture", "Big Basket", "LinkedIn", "Intuit", "Samsung", "American Express", "Qualcomm", "Dunzo", "MakeMyTrip", "Tata Consultancy Services (TCS)", "Red Hat", "JPMorgan Chase and Co.", "Publicis Sapient", "SAP Labs", "Twilio", "Kempston Global", "Nagarro", "IHS Markit", "Incedo Inc.", "Paytm", "HashedIn", "Nsquare", "Bharti Airtel", "Teradata", "Nutanix", "InMobi", "Mindfire Solutions", "Jio Platforms Limited", "Philips", "Docquity", "Airtel", "Blue Yonder", "Guardian Life", "Oportun", "Attentive AI Solutions Pvt Ltd.", "Windmill Smart Solution Pvt Limited", "Impact Analytics", "Cloudera", "Navis", "Indiamart", "Genpact Pvt Ltd", "Raja software"
   ],
   "https://leetcode.com/problems/basic-calculator/": [
     "Basic Calculator",
@@ -5916,11 +6038,11 @@
   ],
   "https://leetcode.com/problems/kth-largest-element-in-an-array/": [
     "Kth Largest Element in an Array",
-    "Facebook",
-    "Amazon",
-    "LinkedIn",
-    "Microsoft",
-    "Google",
+    "Facebook", "VMWare", "Accolite", "Snapdeal", "Hike", "ABCO", "Cisco",
+    "Amazon", "Apple", "ByteDance", "eBay", "Expedia", "Oracle", "Salesforce", "Spotify", "Walmart Labs",
+    "LinkedIn", "Samsung", "Infosys", "JP Morgan", "Paypal", "McKinsey & Company", "Intuit", "TCS", "Accenture", "Sprinklr", "OYO", "Optum",
+    "Microsoft", "Hexaware Technologies", "Uber", "Pristyn Care", "GreenCloud", "Sysvin", "Alibaba", "Times Internet", "Newgen Software", "Travclan", 
+    "Google", "DealShare.in", "Silicon Labs", 
     "Bloomberg",
     "Adobe",
     "tiktok",
@@ -6217,8 +6339,8 @@
   ],
   "https://leetcode.com/problems/excel-sheet-column-title/": [
     "Excel Sheet Column Title",
-    "Microsoft",
-    "Google",
+    "Microsoft", "Paytm", "Samsung", "Goldman Sachs", "Directi", "Adobe", "MAQ Software", "Zomato", "Expedia Group", "Oracle", "Apple", "OYO", "Optum",  
+    "Google", "JP Morgan and Chase", "UST Global", "Zoho", "Prop Tiger", "Hashedin", "MindTree", "Deloitte", "Josh Technologies", "Commvault", "Lowes",
     "Amazon"
   ],
   "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/": [
@@ -6382,9 +6504,9 @@
   ],
   "https://leetcode.com/problems/lru-cache/": [
     "LRU Cache",
-    "Amazon",
-    "Facebook",
-    "Microsoft",
+    "Amazon", "Lenskart", "Expedia Group", "Siemens", "Swiggy", "TCS", "Hike", "JPMorgan", "Sprinklr", "OYO", "Qualcomm", "Zomato", "Disney+ Hotstar",
+    "Facebook", "OLA", "Visa", "Dunzo", "Optum", "Wells Fargo", "PayTM", "Arcesium", "Cognizant", "Publicis Sapient", "Flipkart", "De Shaw India",
+    "Microsoft", "Amdocs", "Zoho", "Policbazar", "Aliibaba", "RBS", "Zeta", "Palantir", "Accolite",
     "Apple",
     "Bloomberg",
     "Oracle",
@@ -6436,13 +6558,7 @@
   ],
   "https://leetcode.com/problems/linked-list-cycle/": [
     "Linked List Cycle",
-    "Amazon",
-    "Spotify",
-    "Microsoft",
-    "Oracle",
-    "Visa",
-    "Google",
-    "Goldman Sachs"
+    "Amazon", "Paytm", "VMWare", "Accolite", "OYO", "Samsung", "Snapdeal", "DE Shaw", "Hike", "MakeMyTrip", "Walmart", "MAQ Software", "Adobe", "SAP Labs", "Qualcomm", "Veritas", "Mahindra Comviva", "Lybrate", "TCS", "Deutsche Bank", "Spotify", "Microsoft", "Oracle", "Visa", "Google", "Goldman Sachs", "Wells Fargo", "Sterlite Technologies Limited", "Grab", "Dunzo", "RIVIGO", "Siemens", "Cognizant", "Barclays", "Swiggy", "Capgemini", "BNY Mellon", "Paypal", "Informatica", "Ola", "Delhivery", "Protium", "Accenture", "Natwest Group", "Thales", "Morgan Stanley", "HSBC", "American Express", "Expedia Group", "Phone Pe", "Salesforce", "Quikr", "Publicis Sapient", "Groww", "Cisco", "Urban Company", "Freshworks", "Rakuten", "Infosys", "Indus Valley Partners", "Rudder Analytics", "Globant", "Pegasystems", "Hedonova", "MobiKwik", "Amdocs", "FICO", "Aricent Technologies Limited", "HashedIn", "KPMG", "Hexaview Technologies", "Antino Labs Pvt Ltd", "Ion Trading", "Bharti Airtel", "IEO MAKERS FABLAB (OPC) PRIVATE LIMITED", "Park+", "Providence Global Center LLP", "FourKites", "Nagarro", "WinZO", "MINDZITA (OPC) PRIVATE LIMITED", "Valuefy Solutions", "Truminds Software Systems", "Born group", "Tekion Corp", "Verifone", "Adidas", "RedBus", "Unthinkable Solutions", "MindTickle", "Spinny", "99acres", "Happiest Minds Technologies Limited", "NetApp India Pvt Ltd", "Cadence Design Systems", "Magicbricks", "Rapido", "Bristlecone", "Juniper Networks", "F5 Networks", "Symphony Talent, LLC", "Thoughts2Binary Consulting and Solutions", "Strategic IP Information Pte Ltd.", "Persistent Systems", "Tata Cliq", "CRED", "EPAM Systems", "BirdEye", "Jio Platforms Limited", "Shell india", "Osmosiss", "Accion Labs Private Limited", "Nagaaro", "42gearMobilitySystems", "Nippon Audiotronix limited", "Wheelseye Technology", "Velocity Software Pvt. Ltd.", "Athenahealth", "Chaayos", "John Deere India Pvt. Ltd. (JDTCI)", "SLK SOFTWARE", "Nike", "Bloomberg", "Oodles Technologies Pvt Ltd", "Synopsys", "Veridic Private Limited", "Cleartrail Technologies", "MX Player", "Coinbase", "Green apple", "Cloudera", "Blackrock"
   ],
   "https://leetcode.com/problems/word-break-ii/": [
     "Word Break II",
@@ -6457,9 +6573,9 @@
   ],
   "https://leetcode.com/problems/word-break/": [
     "Word Break",
-    "Amazon",
-    "Facebook",
-    "Apple",
+    "Amazon", "Zoho", "Flipkart", "Hike", "Walmart", "MAQ Software", "IBM", "ByteDance", "eBay", "Uber", "VMware", "Yahoo", "Morgan Stanley", "OLX Group",
+    "Facebook", "MakeMyTrip", "Accenture", "American Express", "ShareChat", "Salesforce", "Dunzo", "Expedia Group", "Intuit", "Carefit", "Infosys", 
+    "Apple", "Capgemini India", "Nagarro", "CaaStle", "DTCC", "Mahindra Comviva", "Netmeds", "Park+", 
     "Qualtrics",
     "Microsoft",
     "Bloomberg",
@@ -6469,8 +6585,9 @@
   ],
   "https://leetcode.com/problems/copy-list-with-random-pointer/": [
     "Copy List with Random Pointer",
-    "Facebook",
-    "Amazon",
+    "Facebook", "Flipkart","Morgan Stanley", "OYO", "Snapdeal", "DE Shaw", "MakeMyTrip", "Ola", "Walmart", "Adobe", "BankBazaar",
+    "Amazon", "Myntra", "Cars 24", "Paytm", "Meesho", "UrbanClap", "Goldman Sachs", "Sprinklr", "Pegasystems", "Western Digital", 
+	"Times Internet", "Credit Suisse", "Greatwits Services Pvt Ltd", "Citrix", "Cargo Flash pvt", "Aditya Birla group",
     "Microsoft",
     "Bloomberg",
     "Google",
@@ -6478,7 +6595,7 @@
   ],
   "https://leetcode.com/problems/single-number-ii/": [
     "Single Number II",
-    "Amazon"
+    "Amazon", "Google", "Apple", "Goldman Sachs", "ZS Associates", "Myntra", "TCS", "Tailnode", "MAQ Software", "ShareChat", "Testbook.com"
   ],
   "https://leetcode.com/problems/single-number/": [
     "Single Number",
@@ -6494,7 +6611,9 @@
   ],
   "https://leetcode.com/problems/candy/": [
     "Candy",
-    "Amazon"
+    "Amazon", "Adobe", "Apple", "Bloomberg", "Flipkart", "Goldman Sachs", "Google", "IBM", "Infosys", "Microsoft", "Uber", "Walmart",
+    "Cognizant", "TCS", "Arcesium", "Morgan Stanley", "Larsen & Toubro Infotech (LTI)", "OYO", "Think Future Technologies", 
+    "codezero2pi", "DE Shaw India", "Cerner Corporation"
   ],
   "https://leetcode.com/problems/gas-station/": [
     "Gas Station",
@@ -6667,13 +6786,8 @@
   ],
   "https://leetcode.com/problems/pascals-triangle/": [
     "Pascal's Triangle",
-    "Amazon",
-    "Apple",
-    "Microsoft",
-    "Goldman Sachs",
-    "Snapchat",
-    "Uber",
-    "Yahoo"
+    "Amazon", "Adobe", "Google", "Samsung", "Capgemini", "JPMorgan and Chase", "Inca Infotech", "ServiceNow", "Mindtree", "IBM (Phemesoft)",
+    "Apple", "Grab", "TCS", "Microsoft", "Goldman Sachs", "Snapchat", "Uber", "Yahoo"
   ],
   "https://leetcode.com/problems/distinct-subsequences/": [
     "Distinct Subsequences",
@@ -6706,8 +6820,8 @@
   ],
   "https://leetcode.com/problems/minimum-depth-of-binary-tree/": [
     "Minimum Depth of Binary Tree",
-    "Facebook",
-    "Bloomberg"
+    "Facebook", "Bloomberg", "Amazon", "PhonePe", "MakeMyTrip", "Acko", "Slice", "Goldman Sachs", "JP Morgan Chase", "Amdocs", "PayTM", "F5 Networks", "Triology Innovations", 
+	"Policybazar.com", "ClearSummit", "Veridic Solutions"
   ],
   "https://leetcode.com/problems/balanced-binary-tree/": [
     "Balanced Binary Tree",
@@ -6827,8 +6941,8 @@
   ],
   "https://leetcode.com/problems/interleaving-string/": [
     "Interleaving String",
-    "Amazon",
-    "Apple",
+    "Amazon", "Paytm", "Microsoft", "FactSet", "Zillious", "Yahoo", "Salesforce", "Capgemini", "Optum", "HSBC", "Sprinklr", "Media.Net", 
+    "Apple", "Facebook", "Cisco", "Barclays", "Byjus", "De Shaw India", "SLK SOFTWARE", "Globant", "Veridic Private Limited", 
     "Google",
     "Uber",
     "Bloomberg"
@@ -6839,7 +6953,8 @@
   ],
   "https://leetcode.com/problems/unique-binary-search-trees-ii/": [
     "Unique Binary Search Trees II",
-    "Microsoft"
+    "Microsoft", "Adobe", "Bloomberg", "Uber", "Amazon", "Deloitte", "Infosys", "Swiggy", "Myntra", "Morgan Stanley", "ShareChat", "eBay", "Nagarro", "MindTree",
+	"Google"
   ],
   "https://leetcode.com/problems/binary-tree-inorder-traversal/": [
     "Binary Tree Inorder Traversal",
@@ -6860,12 +6975,7 @@
   ],
   "https://leetcode.com/problems/reverse-linked-list-ii/": [
     "Reverse Linked List II",
-    "Facebook",
-    "Microsoft",
-    "Amazon",
-    "Google",
-    "Apple",
-    "Adobe"
+    "Ola", "Paypal", "Dunzo", "Samsung", "ZS Associates", "Cognizant", "Flipkart", "Qualcomm", "OLX Group", "Lenskart", "TCS", "Natwest Group", "Reliance Jio Infocomm Ltd", "Freshworks", "Capgemini", "Gojek", "Publicis Sapient", "Bank Of America", "Oracle", "Delhivery", "Infosys", "General Electric", "Intuit", "Hexaware Technologies", "Gartner", "Adobe", "Paytm", "Innovaccer", "Myntra", "Cisco", "SAP Labs", "Sterlite Technologies Limited", "Salesforce", "Mathworks", "Intel Labs", "HCL Technologies", "Indus Valley Partners", "HCODE Technologies", "BlackNgreen", "Lumiq", "NetApp India Pvt Ltd", "Quadrical AI", "Cashify", "BirdEye", "WatchGuard Technologies", "Rootstock Software", "Netcore cloud", "Spinny", "Larsen & Toubro", "yellow.ai", "Texas Instruments", "Adidas", "JUSPAY", "Schlumberger", "Coforge", "RedBus", "Airtel", "Accolite", "Virtusa", "Evalueserve", "Recrosoft", "Exotel Techcom", "Xperi", "Kulizaa", "UnitedHealth Group", "Conduent", "Amdocs", "Delloitte", "Rupeek", "MobiKwik", "Infoedge", "Hashedin", "DeltaX", "Nykaa", "Credit Suisse", "Fujitsu", "Park+", "Tekion Corp", "Incedo Inc.", "Josh Software", "TravClan", "Pristyn Care", "1218 Global", "Wipro",  "Unthinkable Solutions", "Forfit", "Nagarro", "Grappus", "Mindtree", "ION", "Tredence Analytics", "Auzmor", "Newgen Software", "Bloomreach", "DE Shaw India", "Netlink", "Digital 1×1", "Adverb Solutions", "TIBCO Software India", "Synopsys", "IBM", "Blackrock", "Royal Bank of Scotland", "Stigentech IT", "Milkbasket", "Liberin Technologies", "ThoughtSpot", "Global Logic", "Vocera", "Allscripts", "Shrine Software", "Microfocus", "Aditya Technologies", "Surya Software Systems", "Cloud Analogy", "Chaayos", "Facebook", "MakeMyTrip", "Dell", "Microsoft", "Amazon", "Google", "Apple"
   ],
   "https://leetcode.com/problems/decode-ways/": [
     "Decode Ways",
@@ -6909,7 +7019,7 @@
   ],
   "https://leetcode.com/problems/partition-list/": [
     "Partition List",
-    "Adobe"
+    "Adobe", "Microsoft", "Apple", "Samsung", "Byjus", "PayTM", "Amazon", "Bloomberg", "Facebook"
   ],
   "https://leetcode.com/problems/maximal-rectangle/": [
     "Maximal Rectangle",
@@ -6944,7 +7054,7 @@
   ],
   "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/": [
     "Search in Rotated Sorted Array II",
-    "Amazon",
+    "Amazon", "Apple",
     "LinkedIn",
     "Adobe",
     "Facebook"
@@ -6980,8 +7090,8 @@
   ],
   "https://leetcode.com/problems/combinations/": [
     "Combinations",
-    "Facebook",
-    "Google",
+    "Facebook", "Adobe", "Apple", "Yahoo",
+    "Google", "Bloomberg", 
     "Amazon",
     "Microsoft"
   ],
@@ -7013,8 +7123,8 @@
   ],
   "https://leetcode.com/problems/search-a-2d-matrix/": [
     "Search a 2D Matrix",
-    "Facebook",
-    "Amazon",
+    "Facebook", "Uber", "Accenture", "Cisco", "Publicis Sapient", "HSBC", "Novus Platform", "Gainsight", "Accolite", "Xperi", "Quest Tech",
+    "Amazon", "Codenation", "Samsung", "PhonePe", "Wipro", 
     "Microsoft",
     "Bloomberg",
     "Apple",
@@ -7074,8 +7184,8 @@
   ],
   "https://leetcode.com/problems/text-justification/": [
     "Text Justification",
-    "Google",
-    "LinkedIn",
+    "Google", "Amazon", "Capital One", "Coursera", "eBay", "Microsoft", "Nvidia", "Oracle", "Pinterest", "Snapchat", "Flipkart",
+    "LinkedIn", "Quikr", "Walmart", "Adobe", "Wadhwani AI", "Nagarro", "Leverage Edu",
     "Karat",
     "Uber",
     "Facebook",
@@ -7121,8 +7231,8 @@
   ],
   "https://leetcode.com/problems/unique-paths-ii/": [
     "Unique Paths II",
-    "Cruise Automation",
-    "Facebook",
+    "Cruise Automation", "Bloomberg", "Expedia", "VMware", "PayTM", "Zomato", "Juspay", "DE Shaw India", "Quinstreet Software",
+    "Facebook", "Kreeti technologies", "C2FO", "Atlassian", "Athenahealth", 
     "Amazon",
     "Qualtrics",
     "Google",
@@ -7132,13 +7242,7 @@
   ],
   "https://leetcode.com/problems/unique-paths/": [
     "Unique Paths",
-    "Google",
-    "Facebook",
-    "Microsoft",
-    "Amazon",
-    "Apple",
-    "Bloomberg",
-    "Adobe"
+    "Google", "Walmart", "Paytm", "Ola", "Linkedin", "Cisco", "Zoho", "ByteDance", "Goldman Sachs", "Mathworks", "Oracle", "Qualtrics", "Salesforce", "Snapchat", "Uber", "VMware", "Facebook", "Microsoft", "Amazon", "Apple", "Bloomberg", "Adobe", "Atlassian", "SAP Labs", "Thought works", "CoinDCX", "BNY Mellon",  "Zomato", "Rudder Analytics", "Impetus", "DTCC", "Twilio", "MONEY view", "BYJUS", "Jio Platform Limited", "Directi", "Cashfree Payments", "SS SUPPLY CHAIN SOLUTIONS PVT LTD", "Physicswallah company", "Accoloite", "CashKaro.com", "Wheelseye Technology"
   ],
   "https://leetcode.com/problems/rotate-list/": [
     "Rotate List",
@@ -7263,8 +7367,8 @@
     "tiktok"
   ],
   "https://leetcode.com/problems/powx-n/": [
-    "Pow(x, n)",
-    "Facebook",
+    "Pow(x, n)", "Asana", "eBay", "Goldman Sachs", "Oracle", "PayPal", "Uber", "VMware", "Walmart Labs", "HSBC", "Freshworks", "Quikr", 
+    "Facebook", "PayTM", "CGI Inc.", "Dell India", "Zycus", "Cadance Design System", "Careem", 
     "Amazon",
     "Bloomberg",
     "LinkedIn",
@@ -7321,9 +7425,9 @@
   ],
   "https://leetcode.com/problems/permutations/": [
     "Permutations",
-    "Amazon",
-    "Facebook",
-    "LinkedIn",
+    "Amazon", "Atlassian", "ByteDance", "eBay", "Garena", "GoDaddy", "Oracle", "Salesforce", "SAP", "Uber", "VMware", "Walmart Labs", "Yahoo",
+    "Facebook", "Flipkart", "PayTM", "Infosys", "TCS", "Publicis Sapient", "BirdEye", "Hyundai Mobis", "Accolite", "Cvent", "DTCC", "Coalition Tech", 
+    "LinkedIn", "Oyo", "Accenture", "Barclays", "Dunzo", "Indiamart", "Cognizant", "Gray Orange", "Thought Works",
     "Google",
     "Microsoft",
     "Apple",
@@ -7468,14 +7572,14 @@
   ],
   "https://leetcode.com/problems/search-in-rotated-sorted-array/": [
     "Search in Rotated Sorted Array",
-    "Amazon",
-    "Facebook",
-    "Microsoft",
-    "LinkedIn",
-    "Apple",
-    "Bloomberg",
-    "Adobe",
-    "ByteDance",
+    "Amazon", "Paytm", "Flipkart", "Snapdeal", "DE Shaw", "FactSet", "Hike", "MakeMyTrip", "Intuit", "BankBazaar", "Times Internet",
+    "Facebook", "tcs", "Disney+ Hotstar", "Qualcomm", "Siemens", "Optum", "PhonePe", "OYO", "Arcesium", "ZS Associates", "Paytm", "Park+",
+    "Microsoft", "Freecharge", "Travclan", "Spinny", "NCR Corporation", "JPMorgan", "Proteum", "Freshworks", "Cognizant", "PayPal", "SAP Labs",
+    "LinkedIn", "Expedia", "American Express", "Innovacer", "Informatica", "Grab", "Curefit", "Capgemini", "Accenture", "Cisco", "ShareChat", 
+    "Apple", "Delhivery", "Eaton", "Kempston Global", "Groupon", "Redbus", "Qualys", "ION Trading", "InMobi", "Practo", "Maersk", 
+    "Bloomberg", "Airtel", "Rippling", "MindTree", "Samsung", "Sigmoid", "Prystin Care", "EagleView India", "HashedIn", "Nagarro", 
+    "Adobe", "Interics Tech", "Citicorp", "Traveloka", "Vimana Aerotech", "Navi Technologies", "Veridic Private Limited",
+    "ByteDance", "Alibaba", "Tencent", "Twitch", "Yahoo", "Yandex", "Zillow", "Zulily",
     "Walmart Global Tech",
     "Oracle",
     "tiktok",
@@ -7672,9 +7776,9 @@
   ],
   "https://leetcode.com/problems/letter-combinations-of-a-phone-number/": [
     "Letter Combinations of a Phone Number",
-    "Amazon",
-    "Microsoft",
-    "Facebook",
+    "Amazon", "Flipkart", "Atlassian", "Capital One", "Databricks", "eBay", "Morgan Stanley", "Oracle", "Qualtrics", "Twilio", "VMware", "Walmart Labs",
+    "Microsoft", "Dunzo", "OYO", "Ola", "Hexaware Tech", "Goldman Sachs", "Cisco", "Zepto", "Bloomreach", "Spinny", "Nagarro", "Blue Yonder", 
+    "Facebook", "EPAM SYstems", "Zoho Corporation", "VFISLK Global Services", "Airtel",
     "Uber",
     "Apple",
     "Google",
@@ -7835,8 +7939,9 @@
   ],
   "https://leetcode.com/problems/median-of-two-sorted-arrays/": [
     "Median of Two Sorted Arrays",
-    "Amazon",
-    "Adobe",
+    "Amazon", "Samsung", "ByteDance", "Wish", "Grab", "Optum", "Atlassian", "Wells Fargo",
+    "Adobe", "IBM", "Tata", "Intuit", "Paypal", "Coding Ninjas", "BYJUS", "Meddo Health", "Nagarro", "Hyper Verge", "Paytm", "Congnizant", 
+    "AlphaSense Inc.", "Accolite", "Hashedin", "Kempston", "Amdocs", "LTI - Larsen & Toubro Infotech", "JP Morgan Chase", "Tokopedia",
     "Goldman Sachs",
     "Microsoft",
     "Apple",

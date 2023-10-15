@@ -1,7 +1,12 @@
+# Available In -
+<center><a href = "https://chrome.google.com/webstore/detail/cracktech-find-leetcode-c/fmbicfmfmangckllfaomfkhdankgapfk" target="_blank"><img src="/static/chrome-webstore.png" width="200"></a> &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp;<a href = "https://addons.mozilla.org/en-US/firefox/addon/cracktech-leetcode-company-tag/" target="_blank"><img src="/static/firefox-add-on-store.PNG" width="200"></a> &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; <a href = "https://microsoftedge.microsoft.com/addons/detail/leetcode-which-company/aknogcjbpnfdmmnlphmkpcldbepblapf" target="_blank"><img src="/static/ms-edge-store.PNG" width="200"></a></center>
+
 # CrackTech - Find LeetCode Company Tags 
 
+## Current Version: v1.0.7
+
 ## CrackTech (previously *LeetCode Which Company*) gives you the information of the companies who asked a certain question in the technical interview.
----
+
 Are you preparing for your technical interviews? Are you looking for the question asked by companies like Microsoft, Google, Meta, Apple, etc.? Then this extension gives you what you are looking for.
 
 This extension is my effort to make your preparation one step better. If you are solving problems on Leetcode and you do not have a premium account to see company information then I am definite that this extension will give you the same experience to some extent. You can prepare for your dream companies and sharpen your DSA skill accordingly.
@@ -10,6 +15,8 @@ However, since I am continuously updating company information solely, you might 
 
 Install this extension/add-on and boost your prep. Wishing you all the very best in your journey.
 
+------
+Access company information for all available problems from : <a href="https://ssavi-ict.github.io/LeetCode-Which-Company/" target="_blank">All Company Information</a>
 ------ 
 ## How this extension is different from existing others - 
 
@@ -18,6 +25,10 @@ Install this extension/add-on and boost your prep. Wishing you all the very best
 - Company based problem list at a glance.
 - A pop-up window extension. No garbage, just the content you needed.
 - Flexible to LeetCode UI changes. So no downtime on your preparation.
+- Upcoming Contest Notification everyday. Never miss a LeetCode contest now.
+- Next to solve suggestion for Easy, Medium, and Hard category.
+- ✯ Notation to denote the recent companies who asked a question.
+- Backup URL if extension pop up fails to load company information. <a href="https://ssavi-ict.github.io/LeetCode-Which-Company/" target="_blank">Visit Here</a>
 - No data collection.
 
 ------ 
@@ -28,33 +39,31 @@ Install this extension/add-on and boost your prep. Wishing you all the very best
 </a></center>
 <br><br>
 
-### **1. Chrome WebStore**
-
-- ## Available in Chrome Web Store - <a href = "https://chrome.google.com/webstore/detail/cracktech-find-leetcode-c/fmbicfmfmangckllfaomfkhdankgapfk" target="_blank">![chrome webstore](/static/chrome-webstore.png)</a>
-----
-<br><br>
-
-### **2. Firefox AddOn Store**
-
-- ## Available in firefox add-on store - <a href = "https://addons.mozilla.org/en-US/firefox/addon/cracktech-leetcode-company-tag/" target="_blank">![firefox add on store](/static/firefox-add-on-store.PNG)</a>
----
-<br><br>
-
-### **3. MS Edge Add On Store**
-
-- ## Available in MS Edge Add On Store - <a href = "https://microsoftedge.microsoft.com/addons/detail/leetcode-which-company/aknogcjbpnfdmmnlphmkpcldbepblapf" target="_blank">![Edge Add On Store](/static/ms-edge-store.PNG)</a>
-
----
-### **4. How to check which company asked a Problem ?**
+### **How to check which company asked a Problem ?**
 When solving a problem if you click on the ![icon](chrome/res/32.png) from the *extensions* / *add ons* list -
 
 - If the extension is able find the `Company Names` for the leetcode problem on the current window then it will show as follows - 
 ![found](/static/webfile/info_shows.PNG)
+- Updation of company information scheduled to be done on a regular basis. You can check the commits tagged `company-info`.
 
 - **💥 NEW FEATURE 💥**
     
     - Once you click on the **[All Company]** button it will open up a page where you can see all the problems available in our storage with company names are listed as follows - ![all company](/static/webfile/complete_list.png)
 
+- **💥 NEW FEATURE 💥**
+    - Click on the **[Be A Pro]** button ![upcoming_contest](/static/webfile/upcoming-contest-button.PNG), it will open a page where you can see all upcoming Leetcode weekly and Biweekly contests listed with your local timing and with duration as below - 
+    ![details_contest_list](/static/webfile/leetcoder.PNG) Clickable link will redirect to actual contest page.
+    - The checkbox (*marked in red*) can be checked to receive contest notification everyday twice a day or unchecked if you wish not to receive contest notification. ![notification](/static/webfile/notification.PNG)
+
+- **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
+    - [v1.0.7] Click on the **[Be A Pro]** button ![upcoming_contest](/static/webfile/upcoming-contest-button.PNG), it redirect to your preparation zone.
+    It shows your solving summary from where you can get picture of your solving history. Moreover, your going to get suggestions to solve the next Easy/Medium/Hard problem. Now your preparation is going even more fine-tuned. ![solve the next](/static/webfile/problem-suggestion.PNG)
+
+- **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
+    - [v1.0.8] From now on you will be able to see the companies who asked a question recently for a certain problem. From the available company information for a problem, there will be a (✯) sign located on the right side of the top **5** company. This feature has been added on **Pop Up Window, All Company** page. 
+        - *This information has been collected from the different sources of the internet. It will be hard to verify the exact timeline.*
+
+<br>
 
 - If the extension is not able to find the `Company Names` for the leetcode problem on the current window or if the current window is not a leetcode problem then it will show a **Company information not found** message.
 

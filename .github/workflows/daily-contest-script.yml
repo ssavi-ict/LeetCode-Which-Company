@@ -34,25 +34,32 @@ jobs:
       - name: Run contest.py script
         run: python scripts/contest.py
 
-      - name: Commit and push changes
+      - name: Check for changes
+        id: git-diff
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add data/contests.json
-          git add data/contests.json
-          git add data/contests.json
-          git add data/contests.json
-          git status
-          git commit -m "Update JSON file"
-          git push origin automate-c-json-update
+          git fetch origin main
+          changes=$(git diff --name-only main -- data/contests.json)
+          echo "::set-output name=changes::$changes"
+
+      - name: Install hub
+        run: |
+          # Install hub from GitHub releases
+          HUB_VERSION=2.14.2  # Replace with the desired version
+          HUB_OS=amd64  # Replace with the appropriate OS version
+
+          wget https://github.com/github/hub/releases/download/v${HUB_VERSION}/hub-linux-${HUB_OS}-${HUB_VERSION}.tgz
+          tar -xvzf hub-linux-${HUB_OS}-${HUB_VERSION}.tgz
+          sudo mv hub-linux-${HUB_OS}-${HUB_VERSION}/bin/hub /usr/local/bin/hub
+        shell: bash
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: Automated pull request for JSON file update
-          title: Automated Pull Request
-          branch: automate-c-json-update
-          base: main
-          body: |
-            This pull request updates the JSON file automatically.
+        if: steps.git-diff.outputs.changes != ''
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pr_branch="automate-c-json-update"
+          pr_title="Automated Pull Request"
+          pr_body="This pull request updates the JSON file automatically."
+
+          # Create the pull request
+          hub pull-request -m "$pr_title" -b main -h "$pr_branch" -m "$pr_body"
