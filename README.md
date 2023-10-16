@@ -3,7 +3,7 @@
 
 # CrackTech - Find LeetCode Company Tags 
 
-## Current Version: v1.0.7
+## Current Version: v1.0.8
 
 ## CrackTech (previously *LeetCode Which Company*) gives you the information of the companies who asked a certain question in the technical interview.
 
