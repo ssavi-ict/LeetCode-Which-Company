@@ -3056,8 +3056,7 @@
   ],
   "https://leetcode.com/problems/backspace-string-compare/": [
     "Backspace String Compare",
-    "Amazon", "CodeNation", "Facebook", "Microsoft", "Oracle", "IBM",
-    "Google",
+    "Goldman Sachs", "Google", "Amazon", "CodeNation", "Facebook", "Microsoft", "Oracle", "IBM",
     "Booking.com",
     "Apple",
     "Visa",
@@ -5215,7 +5214,7 @@
   ],
   "https://leetcode.com/problems/flatten-nested-list-iterator/": [
     "Flatten Nested List Iterator",
-    "LinkedIn",
+    "Google", "LinkedIn",
     "Apple",
     "Facebook",
     "Airbnb",
