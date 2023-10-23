@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/maximum-score-of-a-good-subarray/":[
+    "Maximum Score of a Good Subarray", "Google"
+  ],
   "https://leetcode.com/problems/constrained-subsequence-sum/":[
     "Constrained Subsequence Sum", "Akuna Capital"
   ],
@@ -5213,6 +5216,7 @@
   ],
   "https://leetcode.com/problems/power-of-four/": [
     "Power of Four",
+    "Adobe", "Amazon", "Apple", "Google",
     "Two Sigma"
   ],
   "https://leetcode.com/problems/flatten-nested-list-iterator/": [
