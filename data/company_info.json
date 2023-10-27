@@ -7942,7 +7942,12 @@
     "Apple",
     "Oracle",
     "Bloomberg",
-    "Goldman Sachs"
+    "Goldman Sachs", "Zoho", "Accolite", "Samsung", "MakeMyTrip", "Visa", "Walmart", "Qualcomm", "Groupon",
+    "Intel", "HSBC",
+    "Innovaccer","Morgan Stanley", "HCL Technologies", "Flipkart", "JPMorgan Chase", "SAP Labs", "Intuit", "Sprinklr", "Acko", "Quikr",
+    "Accenture", "Big Basket", "ServiceNow", "RxLogix", "Commvault", "Increff", "BYJUS", "Nykaa", "Daffodil Software", 
+    "FiftyFive Technologies", "Sapient Corporation", "Cuemath", "Nutanix", "MagicPIN", "NCR Corporation", "Unthinkable Solutions", 
+    "Nagarro", "Jupiter Money", "GeeksForGeeks", "Biz2", "Indiamart", "IBM"
   ],
   "https://leetcode.com/problems/median-of-two-sorted-arrays/": [
     "Median of Two Sorted Arrays",
