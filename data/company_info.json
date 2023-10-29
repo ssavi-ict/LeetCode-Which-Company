@@ -1,4 +1,16 @@
 {
+  "https://leetcode.com/problems/poor-pigs/":[
+    "Poor Pigs", "Adobe", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/count-vowels-permutation/":[
+    "Count Vowels Permutation", "C3 IoT", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-score-of-a-good-subarray/":[
+    "Maximum Score of a Good Subarray", "Google"
+  ],
+  "https://leetcode.com/problems/constrained-subsequence-sum/":[
+    "Constrained Subsequence Sum", "Akuna Capital"
+  ],
   "https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/":[
     "Number of Ways to Stay in the Same Place After Some Steps", "Google"
   ],
@@ -663,7 +675,7 @@
   ],
   "https://leetcode.com/problems/parallel-courses-iii/": [
     "Parallel Courses III",
-    "Pinterest"
+    "Pinterest", "Google"
   ],
   "https://leetcode.com/problems/next-greater-numerically-balanced-number/": [
     "Next Greater Numerically Balanced Number",
@@ -1952,7 +1964,8 @@
   ],
   "https://leetcode.com/problems/validate-binary-tree-nodes/": [
     "Validate Binary Tree Nodes",
-    "Facebook"
+    "Amazon", "Facebook", "Intuit", "VMWare", "OLX", "MakeMyTrip", "ION", "Netcore", "Josh Technologies", "Techwave Consulting",
+    "Mindstix", "Future First", "Mettle", "Mathway", "Nevi Encre", "Coditas Technology"
   ],
   "https://leetcode.com/problems/number-of-days-between-two-dates/": [
     "Number of Days Between Two Dates",
@@ -3055,8 +3068,7 @@
   ],
   "https://leetcode.com/problems/backspace-string-compare/": [
     "Backspace String Compare",
-    "IBM",
-    "Google",
+    "Goldman Sachs", "Google", "Amazon", "CodeNation", "Facebook", "Microsoft", "Oracle", "IBM",
     "Booking.com",
     "Apple",
     "Visa",
@@ -3096,7 +3108,7 @@
   ],
   "https://leetcode.com/problems/binary-trees-with-factors/": [
     "Binary Trees With Factors",
-    "Amazon"
+    "Apple", "Bloomberg", "Amazon"
   ],
   "https://leetcode.com/problems/shortest-distance-to-a-character/": [
     "Shortest Distance to a Character",
@@ -3201,7 +3213,7 @@
   ],
   "https://leetcode.com/problems/k-th-symbol-in-grammar/": [
     "K-th Symbol in Grammar",
-    "Adobe"
+    "Amazon", "Facebook", "Bloomberg", "Adobe"
   ],
   "https://leetcode.com/problems/split-bst/": [
     "Split BST",
@@ -4281,7 +4293,7 @@
   ],
   "https://leetcode.com/problems/find-largest-value-in-each-tree-row/": [
     "Find Largest Value in Each Tree Row",
-    "Facebook"
+    "Amazon", "Apple", "LinkedIn", "Samsung", "Facebook", "UnitedHealth"
   ],
   "https://leetcode.com/problems/freedom-trail/": [
     "Freedom Trail",
@@ -5210,11 +5222,12 @@
   ],
   "https://leetcode.com/problems/power-of-four/": [
     "Power of Four",
+    "Adobe", "Amazon", "Apple", "Google",
     "Two Sigma"
   ],
   "https://leetcode.com/problems/flatten-nested-list-iterator/": [
     "Flatten Nested List Iterator",
-    "LinkedIn",
+    "Netflix", "Google", "LinkedIn", "Yandex",
     "Apple",
     "Facebook",
     "Airbnb",
@@ -7935,7 +7948,12 @@
     "Apple",
     "Oracle",
     "Bloomberg",
-    "Goldman Sachs"
+    "Goldman Sachs", "Zoho", "Accolite", "Samsung", "MakeMyTrip", "Visa", "Walmart", "Qualcomm", "Groupon",
+    "Intel", "HSBC",
+    "Innovaccer","Morgan Stanley", "HCL Technologies", "Flipkart", "JPMorgan Chase", "SAP Labs", "Intuit", "Sprinklr", "Acko", "Quikr",
+    "Accenture", "Big Basket", "ServiceNow", "RxLogix", "Commvault", "Increff", "BYJUS", "Nykaa", "Daffodil Software", 
+    "FiftyFive Technologies", "Sapient Corporation", "Cuemath", "Nutanix", "MagicPIN", "NCR Corporation", "Unthinkable Solutions", 
+    "Nagarro", "Jupiter Money", "GeeksForGeeks", "Biz2", "Indiamart", "IBM"
   ],
   "https://leetcode.com/problems/median-of-two-sorted-arrays/": [
     "Median of Two Sorted Arrays",
