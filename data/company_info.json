@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/":[
+    "Last Moment Before All Ants Fall Out of a Plank", "Google"
+  ],
   "https://leetcode.com/problems/find-mode-in-binary-search-tree/":[
     "Find Mode in Binary Search Tree", "Adobe", "Google"
   ],
@@ -1532,7 +1535,7 @@
   ],
   "https://leetcode.com/problems/find-the-winner-of-an-array-game/": [
     "Find the Winner of an Array Game",
-    "Amazon", "Apple", "Bloomberg", "Goldman Sachs", "Directi"
+    "Spinny", "Amazon", "Apple", "Bloomberg", "Goldman Sachs", "Directi"
   ],
   "https://leetcode.com/problems/count-good-triplets/": [
     "Count Good Triplets",
@@ -1737,7 +1740,7 @@
   ],
   "https://leetcode.com/problems/build-an-array-with-stack-operations/": [
     "Build an Array With Stack Operations",
-    "Google"
+    "Google", "Microsoft", "Samsung", "Snapdeal", "24/7 Innovation Labs"
   ],
   "https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/": [
     "Find the Kth Smallest Sum of a Matrix With Sorted Rows",
