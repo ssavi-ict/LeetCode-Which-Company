@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/bus-routes/":[
+    "Bus Routes", "Amazon", "Google", "Square", "American Express", "McKinsey & Company", "Uber", "CropIn Technology"
+  ],
   "https://leetcode.com/problems/design-graph-with-shortest-path-calculator/":[
     "Design Graph With Shortest Path Calculator", "Samsung"
   ],
