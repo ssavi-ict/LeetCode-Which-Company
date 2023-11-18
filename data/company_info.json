@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/frequency-of-the-most-frequent-element/":[
+    "Frequency of the Most Frequent Element", "Amazon", "Deutsche Bank", "Uber", "Adobe", "Factset", "Fourkites", "Infosys", "MAQ"
+  ],
   "https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/":[
     "Maximum Element After Decreasing and Rearranging", "Amazon"
   ],
@@ -918,7 +921,7 @@
   ],
   "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/": [
     "Minimize Maximum Pair Sum in Array",
-    "Google", "eBay"
+    "Google", "Adobe", "eBay"
   ],
   "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/": [
     "Substrings of Size Three with Distinct Characters",
