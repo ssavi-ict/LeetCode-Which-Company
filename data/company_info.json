@@ -1,6 +1,6 @@
 {
   "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/":[
-    "Minimum One Bit Operations to Make Integers Zero", "Oracle"
+    "Minimum One Bit Operations to Make Integers Zero", "Oracle", "McKinsey", "VMWare"
   ],
   "https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/":[
     "Number of Ways to Divide a Long Corridor", "Google", "Zomato"
@@ -1343,7 +1343,7 @@
   ],
   "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/": [
     "Check If Two String Arrays are Equivalent",
-    "Apple",
+    "Apple", "Amazon",
     "Facebook"
   ],
   "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/": [
