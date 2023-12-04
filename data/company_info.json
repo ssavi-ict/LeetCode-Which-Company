@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/largest-3-same-digit-number-in-string/":[
+    "Largest 3-Same-Digit Number in String", "OpenText", "PayPay"
+  ],
   "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/":[
     "Minimum One Bit Operations to Make Integers Zero", "Oracle", "McKinsey", "VMWare"
   ],
