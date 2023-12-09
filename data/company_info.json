@@ -3965,7 +3965,7 @@
   ],
   "https://leetcode.com/problems/construct-string-from-binary-tree/": [
     "Construct String from Binary Tree",
-    "Facebook", "Amazon", "IBM"
+    "Facebook", "Amazon", "IBM", "Adobe"
   ],
   "https://leetcode.com/problems/can-place-flowers/": [
     "Can Place Flowers",
@@ -7026,8 +7026,8 @@
   ],
   "https://leetcode.com/problems/binary-tree-inorder-traversal/": [
     "Binary Tree Inorder Traversal",
-    "Microsoft",
-    "Amazon",
+    "Microsoft", "Snapdeal",
+    "Amazon", "Bloomberg", "Facebook", "Goldman Sachs", "Google", "Oracle", "Yahoo", "Garena", "Jane Street", "Arista Networks",
     "Apple",
     "Adobe"
   ],
