@@ -33,6 +33,8 @@ class CONTEST(object):
 
     def filter_valid_contests(self):
         contest_slugs = self.filter_contest_url()
+        print('Found Contest Slugs Are - ')
+        print(contest_slugs)
         valid_contests = {}
 
         for slug in contest_slugs:
@@ -46,7 +48,7 @@ class CONTEST(object):
                 print("[ " + str(is_private) + " ]", contest_title, ' is private ... ')
                 continue
             contest_duration = response_json["contest"]["duration"]
-            # print(contest_title, contest_start_time, contest_duration, is_virtual, is_private)
+            print("Contest Info : ", contest_title, contest_start_time, contest_duration, is_virtual, is_private)
             contest_info = {
                 "title": contest_title, "start_time": contest_start_time, "contest_duration": contest_duration
             }
