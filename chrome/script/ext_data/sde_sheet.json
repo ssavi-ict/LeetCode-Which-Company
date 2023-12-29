@@ -1,0 +1,1162 @@
+{
+    "https://leetcode.com/problems/two-sum/": {
+        "title": "Two Sum",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/": {
+        "title": "Best Time To Buy And Sell Stock",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/contains-duplicate/": {
+        "title": "Contains Duplicate",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/product-of-array-except-self/": {
+        "title": "Product Of Array Except Self",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/maximum-subarray/": {
+        "title": "Maximum Subarray",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/maximum-product-subarray/": {
+        "title": "Maximum Product Subarray",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/": {
+        "title": "Find Minimum In Rotated Sorted Array",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/search-in-rotated-sorted-array/": {
+        "title": "Search In Rotated Sorted Array",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/3sum/": {
+        "title": "3 sum",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/container-with-most-water/": {
+        "title": "Container With Most Water",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/sum-of-two-integers/": {
+        "title": "Sum Of Two Integers",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/number-of-1-bits/": {
+        "title": "Number Of 1 Bits",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/counting-bits/": {
+        "title": "Counting Bits",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/missing-number/": {
+        "title": "Missing Number",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/reverse-bits/": {
+        "title": "Reverse Bits",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/climbing-stairs/": {
+        "title": "Climbing Stairs",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/coin-change/": {
+        "title": "Coin Change",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/longest-increasing-subsequence/": {
+        "title": "Longest Increasing Subsequence",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/longest-common-subsequence/": {
+        "title": "Longest Common Subsequence",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/word-break/": {
+        "title": "Word Break",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/combination-sum-iv/": {
+        "title": "Combination Sum Iv",
+        "blind75": 0
+    },
+    "https://leetcode.com/problems/house-robber/": {
+        "title": "House Robber",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/house-robber-ii/": {
+        "title": "House Robber Ii",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/decode-ways/": {
+        "title": "Decode Ways",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/unique-paths/": {
+        "title": "Unique Paths",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/jump-game/": {
+        "title": "Jump Game",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/clone-graph/": {
+        "title": "Clone Graph",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/course-schedule/": {
+        "title": "Course Schedule",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/pacific-atlantic-water-flow/": {
+        "title": "Pacific Atlantic Water Flow",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/number-of-islands/": {
+        "title": "Number Of Islands",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/longest-consecutive-sequence/": {
+        "title": "Longest Consecutive Sequence",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/alien-dictionary/": {
+        "title": "Alien Dictionary",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/graph-valid-tree/": {
+        "title": "Graph Valid Tree",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/": {
+        "title": "Number Of Connected Components In An Undirected Graph",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/insert-interval/": {
+        "title": "Insert Interval",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/merge-intervals/": {
+        "title": "Merge Intervals",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/non-overlapping-intervals/": {
+        "title": "Non Overlapping Intervals",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/meeting-rooms/": {
+        "title": "Meeting Rooms",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/meeting-rooms-ii/": {
+        "title": "Meeting Rooms Ii",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/reverse-linked-list/": {
+        "title": "Reverse Linked List",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/linked-list-cycle/": {
+        "title": "Linked List Cycle",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/merge-two-sorted-lists/": {
+        "title": "Merge Two Sorted Lists",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/merge-k-sorted-lists/": {
+        "title": "Merge K Sorted Lists",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/remove-nth-node-from-end-of-list/": {
+        "title": "Remove Nth Node From End Of List",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/reorder-list/": {
+        "title": "Reorder List",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/set-matrix-zeroes/": {
+        "title": "Set Matrix Zeroes",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/spiral-matrix/": {
+        "title": "Spiral Matrix",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/rotate-image/": {
+        "title": "Rotate Image",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/word-search/": {
+        "title": "Word Search",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/longest-substring-without-repeating-characters/": {
+        "title": "Longest Substring Without Repeating Characters",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/longest-repeating-character-replacement/": {
+        "title": "Longest Repeating Character Replacement",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/minimum-window-substring/": {
+        "title": "Minimum Window Substring",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/valid-anagram/": {
+        "title": "Valid Anagram",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/group-anagrams/": {
+        "title": "Group Anagrams",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/valid-parentheses/": {
+        "title": "Valid Parentheses",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/valid-palindrome/": {
+        "title": "Valid Palindrome",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/longest-palindromic-substring/": {
+        "title": "Longest Palindromic Substring",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/palindromic-substrings/": {
+        "title": "Palindromic Substrings",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/encode-and-decode-strings/": {
+        "title": "Encode And Decode Strings",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/maximum-depth-of-binary-tree/": {
+        "title": "Maximum Depth Of Binary Tree",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/same-tree/": {
+        "title": "Same Tree",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/invert-binary-tree/": {
+        "title": "Invert Binary Tree",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/binary-tree-maximum-path-sum/": {
+        "title": "Binary Tree Maximum Path Sum",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/binary-tree-level-order-traversal/": {
+        "title": "Binary Tree Level Order Traversal",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/": {
+        "title": "Serialize And Deserialize Binary Tree",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/subtree-of-another-tree/": {
+        "title": "Subtree Of Another Tree",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/": {
+        "title": "Construct Binary Tree From Preorder And Inorder Traversal",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/validate-binary-search-tree/": {
+        "title": "Validate Binary Search Tree",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/kth-smallest-element-in-a-bst/": {
+        "title": "Kth Smallest Element In A Bst",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/": {
+        "title": "Lowest Common Ancestor Of A Binary Search Tree",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/implement-trie-prefix-tree/": {
+        "title": "Implement Trie Prefix Tree",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/add-and-search-word-data-structure-design/": {
+        "title": "Add And Search Word Data Structure Design",
+        "blind75": 0
+    },
+    "https://leetcode.com/problems/word-search-ii/": {
+        "title": "Word Search Ii",
+        "blind75": 0,
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/top-k-frequent-elements/": {
+        "title": "Top K Frequent Elements",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/find-median-from-data-stream/": {
+        "title": "Find Median From Data Stream",
+        "blind75": 0,
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/valid-sudoku/": {
+        "title": "Valid Sudoku",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/": {
+        "title": "Two Sum Ii Input Array Is Sorted",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/trapping-rain-water/": {
+        "title": "Trapping Rain Water",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/permutation-in-string/": {
+        "title": "Permutation In String",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/sliding-window-maximum/": {
+        "title": "Sliding Window Maximum",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/min-stack/": {
+        "title": "Min Stack",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/evaluate-reverse-polish-notation/": {
+        "title": "Evaluate Reverse Polish Notation",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/generate-parentheses/": {
+        "title": "Generate Parentheses",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/daily-temperatures/": {
+        "title": "Daily Temperatures",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/car-fleet/": {
+        "title": "Car Fleet",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/largest-rectangle-in-histogram/": {
+        "title": "Largest Rectangle In Histogram",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/binary-search/": {
+        "title": "Binary Search",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/search-a-2d-matrix/": {
+        "title": "Search A 2d Matrix",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/koko-eating-bananas/": {
+        "title": "Koko Eating Bananas",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/time-based-key-value-store/": {
+        "title": "Time Based Key Value Store",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/median-of-two-sorted-arrays/": {
+        "title": "Median Of Two Sorted Arrays",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/copy-list-with-random-pointer/": {
+        "title": "Copy List With Random Pointer",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/add-two-numbers/": {
+        "title": "Add Two Numbers",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/find-the-duplicate-number/": {
+        "title": "Find The Duplicate Number",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/lru-cache/": {
+        "title": "Lru Cache",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/reverse-nodes-in-k-group/": {
+        "title": "Reverse Nodes In K Group",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/diameter-of-binary-tree/": {
+        "title": "Diameter Of Binary Tree",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/balanced-binary-tree/": {
+        "title": "Balanced Binary Tree",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/binary-tree-right-side-view/": {
+        "title": "Binary Tree Right Side View",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/count-good-nodes-in-binary-tree/": {
+        "title": "Count Good Nodes In Binary Tree",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/design-add-and-search-words-data-structure/": {
+        "title": "Design Add And Search Words Data Structure",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/kth-largest-element-in-a-stream/": {
+        "title": "Kth Largest Element In A Stream",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/last-stone-weight/": {
+        "title": "Last Stone Weight",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/k-closest-points-to-origin/": {
+        "title": "K Closest Points To Origin",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/kth-largest-element-in-an-array/": {
+        "title": "Kth Largest Element In An Array",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/task-scheduler/": {
+        "title": "Task Scheduler",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/design-twitter/": {
+        "title": "Design Twitter",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/subsets/": {
+        "title": "Subsets",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/combination-sum/": {
+        "title": "Combination Sum",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/permutations/": {
+        "title": "Permutations",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/subsets-ii/": {
+        "title": "Subsets Ii",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/combination-sum-ii/": {
+        "title": "Combination Sum Ii",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/palindrome-partitioning/": {
+        "title": "Palindrome Partitioning",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/letter-combinations-of-a-phone-number/": {
+        "title": "Letter Combinations Of A Phone Number",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/n-queens/": {
+        "title": "N Queens",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/max-area-of-island/": {
+        "title": "Max Area Of Island",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/surrounded-regions/": {
+        "title": "Surrounded Regions",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/rotting-oranges/": {
+        "title": "Rotting Oranges",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/walls-and-gates/": {
+        "title": "Walls And Gates",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/course-schedule-ii/": {
+        "title": "Course Schedule Ii",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/redundant-connection/": {
+        "title": "Redundant Connection",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/word-ladder/": {
+        "title": "Word Ladder",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/reconstruct-itinerary/": {
+        "title": "Reconstruct Itinerary",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/min-cost-to-connect-all-points/": {
+        "title": "Min Cost To Connect All Points",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/network-delay-time/": {
+        "title": "Network Delay Time",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/swim-in-rising-water/": {
+        "title": "Swim In Rising Water",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/cheapest-flights-within-k-stops/": {
+        "title": "Cheapest Flights Within K Stops",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/min-cost-climbing-stairs/": {
+        "title": "Min Cost Climbing Stairs",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/partition-equal-subset-sum/": {
+        "title": "Partition Equal Subset Sum",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/": {
+        "title": "Best Time To Buy And Sell Stock With Cooldown",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/coin-change-ii/": {
+        "title": "Coin Change Ii",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/target-sum/": {
+        "title": "Target Sum",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/interleaving-string/": {
+        "title": "Interleaving String",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/": {
+        "title": "Longest Increasing Path In A Matrix",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/distinct-subsequences/": {
+        "title": "Distinct Subsequences",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/edit-distance/": {
+        "title": "Edit Distance",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/burst-balloons/": {
+        "title": "Burst Balloons",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/regular-expression-matching/": {
+        "title": "Regular Expression Matching",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/jump-game-ii/": {
+        "title": "Jump Game Ii",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/gas-station/": {
+        "title": "Gas Station",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/hand-of-straights/": {
+        "title": "Hand Of Straights",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/merge-triplets-to-form-target-triplet/": {
+        "title": "Merge Triplets To Form Target Triplet",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/partition-labels/": {
+        "title": "Partition Labels",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/valid-parenthesis-string/": {
+        "title": "Valid Parenthesis String",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/minimum-interval-to-include-each-query/": {
+        "title": "Minimum Interval To Include Each Query",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/happy-number/": {
+        "title": "Happy Number",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/plus-one/": {
+        "title": "Plus One",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/powx-n/": {
+        "title": "Powx N",
+        "neetcode": 0,
+        "striver": 0
+    },
+    "https://leetcode.com/problems/multiply-strings/": {
+        "title": "Multiply Strings",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/detect-squares/": {
+        "title": "Detect Squares",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/single-number/": {
+        "title": "Single Number",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/reverse-integer/": {
+        "title": "Reverse Integer",
+        "neetcode": 0
+    },
+    "https://leetcode.com/problems/pascals-triangle/": {
+        "title": "Pascals Triangle",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/next-permutation/": {
+        "title": "Next Permutation",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/sort-colors/": {
+        "title": "Sort Colors",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/merge-sorted-array/": {
+        "title": "Merge Sorted Array",
+        "striver": 0
+    },
+    "https://www.interviewbit.com/problems/repeat-and-missing-number-array/": {
+        "title": "Repeat and Missing Number Array",
+        "striver": 0
+    },
+    "https://www.codingninjas.com/codestudio/problems/count-inversions_615": {
+        "title": "Count Inversions",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/majority-element/": {
+        "title": "Majority Element",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/majority-element-ii/": {
+        "title": "Majority Element Ii",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/reverse-pairs/": {
+        "title": "Reverse Pairs",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/4sum/": {
+        "title": "4sum",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1": {
+        "title": "Largest subarray with 0 sum",
+        "striver": 0
+    },
+    "https://www.interviewbit.com/problems/subarray-with-given-xor/": {
+        "title": "Subarray with given XOR",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/middle-of-the-linked-list/": {
+        "title": "Middle Of The Linked List",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/delete-node-in-a-linked-list/": {
+        "title": "Delete Node In A Linked List",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/intersection-of-two-linked-lists/": {
+        "title": "Intersection Of Two Linked Lists",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/palindrome-linked-list/": {
+        "title": "Palindrome Linked List",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/linked-list-cycle-ii/": {
+        "title": "Linked List Cycle Ii",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1": {
+        "title": "Flattening a Linked List",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/rotate-list/description/": {
+        "title": "Description",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/remove-duplicates-from-sorted-array/": {
+        "title": "Remove Duplicates From Sorted Array",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/max-consecutive-ones/": {
+        "title": "Max Consecutive Ones",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1": {
+        "title": "N meetings in one room",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#": {
+        "title": "Minimum Platforms",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#": {
+        "title": "Job Sequencing Problem",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1": {
+        "title": "Fractional Knapsack",
+        "striver": 0
+    },
+    "https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/": {
+        "title": "Find minimum number of coins to make a given value",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/subset-sums2234/1": {
+        "title": "Subset Sums",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/permutation-sequence/": {
+        "title": "Permutation Sequence",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/sudoku-solver/": {
+        "title": "Sudoku Solver",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#": {
+        "title": "M-Coloring Problem",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1": {
+        "title": "Rat In a Maze Problem - I",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/single-element-in-a-sorted-array/": {
+        "title": "Single Element In A Sorted Array",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1": {
+        "title": "K-th element of two Arrays",
+        "striver": 0
+    },
+    "https://www.interviewbit.com/problems/allocate-books/": {
+        "title": "Allocate Books",
+        "striver": 0
+    },
+    "https://www.spoj.com/problems/AGGRCOW/": {
+        "title": "AGGRCOW - Aggressive cows",
+        "striver": 0
+    },
+    "https://www.interviewbit.com/problems/maximum-sum-combinations/": {
+        "title": "Maximum Sum Combinations",
+        "striver": 0
+    },
+    "https://www.codingninjas.com/codestudio/problems/merge-k-sorted-arrays_975379": {
+        "title": "Merge K Sorted Arrays",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/implement-stack-using-queues/": {
+        "title": "Implement Stack Using Queues",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/implement-queue-using-stacks/": {
+        "title": "Implement Queue Using Stacks",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/next-greater-element-i/": {
+        "title": "Next Greater Element I",
+        "striver": 0
+    },
+    "https://www.interviewbit.com/problems/nearest-smaller-element/": {
+        "title": "Nearest Smaller Element",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/lfu-cache/": {
+        "title": "Lfu Cache",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/online-stock-span/": {
+        "title": "Online Stock Span",
+        "striver": 0
+    },
+    "https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/": {
+        "title": "Find The Celebrity",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/reverse-words-in-a-string/": {
+        "title": "Reverse Words In A String",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/roman-to-integer/": {
+        "title": "Roman To Integer",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/string-to-integer-atoi/": {
+        "title": "String To Integer Atoi",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/longest-common-prefix/": {
+        "title": "Longest Common Prefix",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation": {
+        "title": "Rabin Karp Algorithm C%2b%2b Implementation",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/implement-strstr/": {
+        "title": "Implement Strstr",
+        "striver": 0
+    },
+    "https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/": {
+        "title": "Minimum Characters Required to Make a String Palindromic",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/count-and-say/": {
+        "title": "Count And Say",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/compare-version-numbers/": {
+        "title": "Compare Version Numbers",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/binary-tree-inorder-traversal/": {
+        "title": "Binary Tree Inorder Traversal",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/binary-tree-preorder-traversal/": {
+        "title": "Binary Tree Preorder Traversal",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/binary-tree-postorder-traversal/": {
+        "title": "Binary Tree Postorder Traversal",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1": {
+        "title": "Left View of Binary Tree",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1": {
+        "title": "Bottom View of Binary Tree",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1": {
+        "title": "Top View of Binary Tree",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/": {
+        "title": "Vertical Order Traversal Of A Binary Tree",
+        "striver": 0
+    },
+    "Vertical Order Traversal of a Binary Tree": {
+        "title": "ggggggggggg",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/maximum-width-of-binary-tree/": {
+        "title": "Maximum Width Of Binary Tree",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/": {
+        "title": "Lowest Common Ancestor Of A Binary Tree",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/": {
+        "title": "Binary Tree Zigzag Level Order Traversal",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/boundary-of-binary-tree/": {
+        "title": "Boundary Of Binary Tree",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/": {
+        "title": "Construct Binary Tree From Inorder And Postorder Traversal",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/symmetric-tree/": {
+        "title": "Symmetric Tree",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/": {
+        "title": "Flatten Binary Tree To Linked List",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/mirror-tree/1": {
+        "title": "Mirror Tree",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/": {
+        "title": "Populating Next Right Pointers In Each Node",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/search-in-a-binary-search-tree/": {
+        "title": "Search In A Binary Search Tree",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/": {
+        "title": "Convert Sorted Array To Binary Search Tree",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/": {
+        "title": "Construct Binary Search Tree From Preorder Traversal",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1": {
+        "title": "Predecessor and Successor",
+        "striver": 0
+    },
+    "https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457": {
+        "title": "Floor in BST",
+        "striver": 0
+    },
+    "https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464": {
+        "title": "Ceil from BST",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1": {
+        "title": "Kth Largest Element in BST",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/": {
+        "title": "Two Sum Iv Input Is A Bst",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/binary-search-tree-iterator/": {
+        "title": "Binary Search Tree Iterator",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/": {
+        "title": "Maximum Sum Bst In Binary Tree",
+        "striver": 0
+    },
+    "https://www.interviewbit.com/problems/distinct-numbers-in-window/": {
+        "title": "Distinct Numbers in Window",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/flood-fill/": {
+        "title": "Flood Fill",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1": {
+        "title": "DFS of Graph",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1": {
+        "title": "BFS of Graph",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/topological-sort/1": {
+        "title": "Topological Sort",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/is-graph-bipartite/": {
+        "title": "Is Graph Bipartite",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1": {
+        "title": "Implementing Dijkstra Algorithm",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/0/": {
+        "title": "Distance from the Source (Bellman-Ford Algorithm)",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1": {
+        "title": "Implementing Floyd Warshal",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1": {
+        "title": "Minimum Spanning Tree",
+        "striver": 0
+    },
+    "https://bit.ly/3FvHbMO": {
+        "title": "0-1 Kanpsack",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1": {
+        "title": "Maximum sum increasing subsequence",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1": {
+        "title": "Matrix Chain Multiplication",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/minimum-path-sum/": {
+        "title": "Minimum Path Sum",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/": {
+        "title": "Minimum Cost To Cut A Stick",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1": {
+        "title": "Egg Dropping Puzzle",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1": {
+        "title": "Palindrome Partitioning",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1": {
+        "title": "Job Sequencing Problem",
+        "striver": 0
+    },
+    "https://bit.ly/3qwT4OL": {
+        "title": "Implement Trie ll",
+        "striver": 0
+    },
+    "https://bit.ly/3n3kedU": {
+        "title": "Complete String",
+        "striver": 0
+    },
+    "https://bit.ly/3ocRQW0": {
+        "title": "Count Distinct Substrings",
+        "striver": 0
+    },
+    "https://practice.geeksforgeeks.org/problems/power-set4302/1#": {
+        "title": "Power Set",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/": {
+        "title": "Maximum Xor Of Two Numbers In An Array",
+        "striver": 0
+    },
+    "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/": {
+        "title": "Maximum Xor With An Element From Array",
+        "striver": 0
+    }
+}

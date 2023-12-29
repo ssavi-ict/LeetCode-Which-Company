@@ -2,127 +2,51 @@
 <html>
 <head>
     <title>CrackTech - Find LeetCode Company Tags</title>
-    <style>
-        body {
-            font-family: Verdana;
-            margin: 0;
-            padding: 20px;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-
-        .header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            margin-bottom: 20px;
-        }
-
-        .switch {
-            display: flex;
-            align-items: center;
-            font-size: 16px;
-        }
-
-        .switch-text {
-            margin-right: 10px;
-        }
-
-        .checkbox {
-            width: 16px;
-            height: 16px;
-            border: 1px solid #ccc;
-            border-radius: 3px;
-            display: inline-block;
-            margin-right: 5px;
-            position: relative;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-
-        .checkbox::before {
-            content: '';
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%) scale(0);
-            width: 8px;
-            height: 8px;
-            background-color: #2196F3;
-            border-radius: 2px;
-            transition: all 0.2s;
-        }
-
-        .checkbox input[type="checkbox"] {
-            display: none;
-        }
-
-        .checkbox input[type="checkbox"]:checked + .checkbox::before {
-            transform: translate(-50%, -50%) scale(1);
-        }
-
-        .content-container {
-            border: 1px dotted purple;
-            padding: 10px;
-            border-radius: 5px;
-            max-width: 1200px;
-        }
-
-        table {
-            margin-top: 20px;
-            width:80%;
-        }
-
-        th, td {
-            text-align: left;
-            padding: 10px;
-            font-size: 13px;
-            border: 1px solid purple;
-        }
-
-        th {
-            background-color: #f2f2f2;
-        }
-
-        .gmt-offset {
-            font-size: 10px;
-            vertical-align: super;
-        }
-
-        a {
-            text-decoration: none !important;
-        }
-
-        .child-div {
-            width: 50%;
-            background-color: white;
-            margin: 0 auto;
-        }
-
-        .content-item a img{
-            height: auto;
-            width: 60%;
-            padding: 10px;
-            flex: 1;
-        }
-    </style>
     <script type="text/javascript" src="script/Chart.min.js"></script>
-    <link rel="stylesheet" href="script/all.min.css">
+    <style></style>
+    <link rel="stylesheet" href="script/sde_sheet.style.css">
 </head>
 <body>
     <div class="content-container" style="margin: 0 auto;">
-		<div class="intro-content-1" style="font-family: 'Segoe UI'; font-size: medium; text-align: center;">
-            <h1>APPRECIATE</h1>
-			<p>Thank you for using <i>CrackTech - Find LeetCode Company Tags</i> extension.<br>
-                This is a small effort to help you in your dream company specific preparation. I wish your prepartion is going well. <br>
-                And this extension is helping you in every possible way. Read the 
-                <a href = "https://sites.google.com/view/iamavik/leetcode-which-company-a-company-names-retrieval-extension" target="_blank">background</a>
-                of working on this extension. Visit my writings on <a href="https://sites.google.com/view/iamavik/" target="_blank">Avik Sarkar | <i>Let Avik Connect You!</i></a>
-                <br>
-                Do consider sharing this free extension among your fellow LeetCoders. I feel it will be helpful for them as well.
-			</p>
-            <hr>
+        <div id="noticeListContainer"></div>
+		<div class="intro-content-1" style="font-family: 'Segoe UI'; font-size: medium; display: flex; margin-top: 15px;">
+            <div class="content-left-part" style="width: 50%; padding-right:2%;">
+                <h1 style="text-align: center;">WORK HARD, PREPARE HARDER</h1>
+                <p>Thank you for using <i>CrackTech - Find LeetCode Company Tags</i> extension.<br>
+                    This is a small effort to help you in your dream company specific preparation. Track your progress and prepare with famous SDE sheets.
+                    <br>
+                    Do consider sharing this free extension among your fellow LeetCoders. I feel it will be helpful for them as well.
+                </p>
+            </div>
+            <div class="empty" style="border: 2px solid black;"></div>
+            <div class = "content-right-part" style="float: right; padding-left: 2%;">
+                <div class="header">
+                    <p style="font-size: 12px; font-weight: bold;">Don't Miss Upcoming Contest(s)</p>
+                    <div class="switch">
+                        <span class="switch-text">Get Notified: </span>
+                        <label class="notify-checkbox">
+                            <input type="checkbox" id="notificationCheckbox" checked>
+                            <span class="checkbox"></span>
+                        </label>
+                        <p>[&nbsp;</p><i><span id="switchStatus">Turned On</span></i><p> &nbsp;]</p>
+                    </div>
+                </div>
+                <table id="contestTable">
+                    <tr id = "ptable-tr">
+                        <th id = "ptable-td">Name</th>
+                        <th id = "ptable-td">Start Date</th>
+                        <th id = "ptable-td">Start Time</th>
+                        <th id = "ptable-td">Duration</th>
+                    </tr>
+                </table>
+                <table id="nbtable" style="margin: 0 auto;">
+                    <tr id = "ptable-tr">
+                        <td id = "ptable-td" style="border: none;"><i><b>** Note: Contest information will update around 8AM everyday.</b></i></td>
+                    </tr>
+                </table>
+            </div>
 		</div>
+        <hr>
         <div class="quick-access-panel">
             <h2 style="text-align: center; font-family: Segoe UI;">Quick Access Panel</h2>
             <div class="useful-content-item" style="display: flex; align-items: center; justify-content: center;">
@@ -149,15 +73,71 @@
             </div>
         </div>
         <hr>
+        <div class="stat-container-complete">
+            <div id="stat-container-header-text">
+                <h3>Ace Your Next DSA Round with popular SDE Sheets</h3>
+            </div>
+            <div class = "stat-container">
+                <div class="sde-sheet-container">
+                    <div class="select-container">
+                        <label for="jsonSelector" class="label-select"><span>&#187;</span> Currently Selected : &nbsp; &nbsp;</label>
+                        <select id="jsonSelector" class="custom-select">
+                            <option value="striver">Striver SDE Sheet</option>
+                            <option value="blind75">Blind75 SDE Sheet</option>
+                            <option value="neetcode">Neetcode SDE Sheet</option>
+                        </select>
+                    </div>
+            
+                    <div class="custom-table-container" id="tableContainer"></div>
+            
+                    <div class="reset-button-container">
+                        <div>
+                            <label class="reset-label">Reset Your Progress?</label>
+                        </div>
+                        <div>
+                            <button id="currentSheetButton" class="reset-button">Current Sheet</button>
+                            <button id="allSheetsButton" class="reset-button">All Sheets</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="right-floated-rectangle">
+                    <!-- Content for the right-floated rectangle -->
+                    <div class="sheet-status-header">
+                        <h3 style="text-align: center;">Completion Summary</h5>
+                    </div>
+                    <hr>
+                    <div>
+                    <p id="striverCount">Striver SDE Sheet (0/0)</p>
+                        <div class="progress">
+                            <div id="striverProgressBar" class="progress-bar" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <p id="blind75Count">Blind75 SDE Sheet (0/0)</p>
+                        <div class="progress">
+                            <div id="blind75ProgressBar" class="progress-bar" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </div>
+                    <div>
+                    <p id="neetcodeCount">NeetCode SDE Sheet (0/0)</p>
+                        <div class="progress">
+                            <div id="neetcodeProgressBar" class="progress-bar" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </div>
+                    <div id = "readyStatus" style="margin-top: 20px;"></div>
+                </div>
+            </div>
+        </div>
+        <hr>
 		<div class="preparation-container" id="cracktech-preparation-container">
-            <div class = "preparation-header-content" style="border-radius: 1px; margin: 30px 0px 30px; border: 3px solid; border-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);border-image-slice: 1;">
+            <div class = "preparation-header-content">
                 <h3 id = "heading-line"></h3> 
             </div>
             <div class = "preparation-main-content" style="display: flex; flex-wrap: wrap;" >
                 <div class = "left-side-div"  style="width: 20%; display:inline-block;">
                     <table id = "user-summary-table" style="width:100%; border: 1px solid black; border-radius: 3px;">
-                        <tr>
-                            <th colspan="2" style="background-color: #2196F3;"><center>User Summary</center></th>
+                        <tr id = "ptable-tr">
+                            <th id = "ptable-td" colspan="2" style="background-color: #2196F3;"><center>User Summary</center></th>
                         </tr>
                     </table>
                     <br>
@@ -173,9 +153,9 @@
 
                     <div class="child-div">
                         <table id="easy-table" style="width:95%; border: 1px solid black; border-radius: 5px;">
-                            <tr>
+                            <tr id = "ptable-tr">
                                 <th id = "easy_title_header_text" style="text-align: center; background-color: #00AF9B; width: 96%;"></th>
-                                <th style="text-align: center; background-color: #00AF9B;">
+                                <th id = "ptable-td" style="text-align: center; background-color: #00AF9B;">
                                     <button title="Reload Different Problems" id="easy_button" style="cursor: pointer;">&#x27f3;</button>
                                 </th>
                             </tr>
@@ -183,9 +163,9 @@
                     </div>
                     <div class="child-div" style="float: right;">
                         <table id="mid-table" style="width:95%; border: 1px solid black; border-radius: 5px;">
-                            <tr>
+                            <tr id = "ptable-tr">
                                 <th id = "mid_title_header_text" style="text-align: center; background-color: orange; width: 96%;"></th>
-                                <th style="text-align: center; background-color: orange;">
+                                <th id = "ptable-td" style="text-align: center; background-color: orange;">
                                     <button title="Reload Different Problems" id="mid_button" style="cursor: pointer;">&#x27f3;</button>
                                 </th>
                             </tr>
@@ -193,9 +173,9 @@
                     </div>
                     <div class="child-div">
                         <table id="hard-table" style="width:95%; border: 1px solid black; border-radius: 5px;">
-                            <tr>
+                            <tr id = "ptable-tr">
                                 <th id = "hard_title_header_text" style="text-align: center; background-color: red; width: 96%;"></th>
-                                <th style="text-align: center; background-color: red;">
+                                <th id = "ptable-td" style="text-align: center; background-color: red;">
                                     <button title="Reload Different Problems" id="hard_button" style="cursor: pointer;">&#x27f3;</button>
                                 </th>
                             </tr>
@@ -206,33 +186,6 @@
 		</div>
         <br><br>
         <hr>
-        <div class="header">
-            <h3 style="margin-left:120px;">Upcoming LeetCode Contest(s)</h3>
-            <div class="switch" style="margin-right:120px;">
-                <span class="switch-text">Contest Notification: </span>
-                <label class="checkbox">
-                    <input type="checkbox" id="notificationCheckbox" checked>
-                    <span class="checkbox"></span>
-                </label>
-				<p>[&nbsp;</p><i><span id="switchStatus">Turned On</span></i><p> &nbsp;]</p>
-            </div>
-        </div>
-        <table id="contestTable" style="margin: 0 auto;">
-            <tr>
-                <th>Name</th>
-                <th>Start Date</th>
-                <th>Start Time</th>
-                <th>Duration</th>
-            </tr>
-        </table>
-        <table id="nbtable" style="margin: 0 auto;">
-            <tr>
-                <td style="border: none;"><i>** Note: Contest information will update around 8AM everyday.</i></td>
-            </tr>
-        </table>
-		<br><br>
-        <hr>
-        
         <div class = "intro-content-2" style="font-family: 'Segoe UI'; font-size: medium; text-align: center; clear: both;">
             <h1>CONTRIBUTIONS</h1>
             I appreciate your intention towards contributing in this repository.<br>
@@ -247,4 +200,6 @@
 </body>
 <script type="text/javascript" src="script/helper.js"></script>
 <script type="text/javascript" src="script/analyze_profile.js"></script>
+<script type="text/javascript" src="script/sde_sheet_script.js"></script>
+<script type="text/javascript" src="script/notices.script.js"></script>
 </html>

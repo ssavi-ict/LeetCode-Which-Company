@@ -1,7 +1,7 @@
 # Available In -
 <center><a href = "https://chrome.google.com/webstore/detail/cracktech-find-leetcode-c/fmbicfmfmangckllfaomfkhdankgapfk" target="_blank"><img src="/static/chrome-webstore.png" width="200"></a> &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp;<a href = "https://addons.mozilla.org/en-US/firefox/addon/cracktech-leetcode-company-tag/" target="_blank"><img src="/static/firefox-add-on-store.PNG" width="200"></a> &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; <a href = "https://microsoftedge.microsoft.com/addons/detail/leetcode-which-company/aknogcjbpnfdmmnlphmkpcldbepblapf" target="_blank"><img src="/static/ms-edge-store.PNG" width="200"></a></center>
 
-# CrackTech - Find LeetCode Company Tags 
+# CrackTech-LeetCode Company Tag, DSA Preparation
 
 ## Current Version: v1.0.8
 
@@ -51,17 +51,19 @@ When solving a problem if you click on the ![icon](chrome/res/32.png) from the *
     - Once you click on the **[All Company]** button it will open up a page where you can see all the problems available in our storage with company names are listed as follows - ![all company](/static/webfile/complete_list.png)
 
 - **💥 NEW FEATURE 💥**
-    - Click on the **[Be A Pro]** button ![upcoming_contest](/static/webfile/upcoming-contest-button.PNG), it will open a page where you can see all upcoming Leetcode weekly and Biweekly contests listed with your local timing and with duration as below - 
+    - Click on the **[DSA Preparation]** button ![DSA Preparation](/static/webfile/dsa-preparation.png), it will open a page where you can see all upcoming Leetcode weekly and Biweekly contests listed with your local timing and with duration as below - 
     ![details_contest_list](/static/webfile/leetcoder.PNG) Clickable link will redirect to actual contest page.
     - The checkbox (*marked in red*) can be checked to receive contest notification everyday twice a day or unchecked if you wish not to receive contest notification. ![notification](/static/webfile/notification.PNG)
 
 - **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
-    - [v1.0.7] Click on the **[Be A Pro]** button ![upcoming_contest](/static/webfile/upcoming-contest-button.PNG), it redirect to your preparation zone.
+    - [v1.0.7] Click on the **[DSA Preparation]** button ![DSA Preparation](/static/webfile/dsa-preparation.png), it redirect to your preparation zone.
     It shows your solving summary from where you can get picture of your solving history. Moreover, your going to get suggestions to solve the next Easy/Medium/Hard problem. Now your preparation is going even more fine-tuned. ![solve the next](/static/webfile/problem-suggestion.PNG)
 
 - **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
-    - [v1.0.8] From now on you will be able to see the companies who asked a question recently for a certain problem. From the available company information for a problem, there will be a (✯) sign located on the right side of the top **5** company. This feature has been added on **Pop Up Window, All Company** page. 
+    - [v1.0.8] From now on you will be able to see the companies who asked a question recently for a certain problem. From the available company information for a problem, there will be a (✯) sign located on the right side of the top **5** company. This feature has been added on **[Pop Up Window], [All Company]** page. 
         - *This information has been collected from the different sources of the internet. It will be hard to verify the exact timeline.*
+- **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
+    - [v2.0.0] Click on **[DSA Preparation]** button ![DSA Preparation](/static/webfile/dsa-preparation.png). From now on you can practice the question of SDE Sheets and track progress accordingly. Check your SDE sheet completion status for **Striver's SDE Sheet, Blind75 SDE Sheet, NeetCode SDE Sheet** altogether. ![SDE Sheet](/static/webfile/sde_sheet.gif)
 
 <br>
 

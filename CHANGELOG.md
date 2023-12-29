@@ -1,5 +1,16 @@
 # Find all the change history listed below 
 
+**[31/12/2023]**
+- v2.0.0 [Features](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/194)
+- Popular SDE Sheet sheets.
+- Progress tracking window for each sheet.
+- Summarized progress tracking status.
+- Reset progress for the currently selected sheet and all available sheets.
+- Notices on top of the page.
+- Change the appearance of the DSA preparation section and the Contest viewing section.
+- Chrome only update.
+- README Updated.
+
 **[12/11/2023]**
 - v1.0.8 [Features](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/263)
 - (✯) Notation for recently asked questions reflected in the following page
