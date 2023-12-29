@@ -2,15 +2,41 @@
 <html lang="en">   
     <head>   
         <meta charset="utf-8">   
-        <title>CrackTech - Find LeetCode Company Tags</title>
+        <title>CrackTech-LeetCode Company Tag, DSA Preparation</title>
         <style>
             .content-item a img{
                 height: auto;
-                width: 50%;
+                width: 60%;
                 padding: 10px;
                 flex: 1;
             }
+            #noticeListContainer {
+                border: 2px dashed red;
+                padding: 10px;
+                border-radius: 5px;
+                margin-top: 15px;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                background-color: #f8f6f6; /* Light gray background */
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Gray shadow */
+            }
+
+            #noticeTitle {
+                font-size: 15px;
+                color: #336699; /* Eye-soothing color */
+                margin-bottom: 10px;
+            }
+
+            #noticeList {
+                list-style-type: decimal;
+            }
+
+            #noticeList li {
+                font-size: 12px;
+                margin-bottom: 5px;
+                color: dodgerblue;
+            }
         </style>
+        <script type="text/javascript" src="script/notices.script.js"></script>
         <meta name="description" content="Bootstrap.">  
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <!-- <link href="css/styles.css" rel="stylesheet"> -->
@@ -23,8 +49,9 @@
     <body style="margin:20px auto;">  
     
     <div class="container" style="margin: 0 auto; border: 1px dotted gray;">
+        <div id="noticeListContainer"></div>
         <div class="intro-content-1" style="font-family: 'Segoe UI'; font-size: medium; text-align: center;">
-            <h1>CRACKTECH - GET LEETCODE COMPANY TAGS</h1>
+            <h1>CRACKTECH-LEETCODE COMPANY TAG, DSA PREPARATION</h1>
             <hr>
             Dear Leetcoder... <br>
             Install <i>CrackTech - Get LeetCode Company Tags</i> extension in - 
