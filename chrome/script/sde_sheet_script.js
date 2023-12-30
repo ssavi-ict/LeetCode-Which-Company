@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", async function () {
     try {
-        const JSON_FILE_PATH = 'ext_data/sheets.json';
+        const JSON_FILE_PATH = 'script/ext_data/sheets.json';
         // Load JSON data from file
         const response = await fetch(JSON_FILE_PATH);
         const jsonData = await response.json();
