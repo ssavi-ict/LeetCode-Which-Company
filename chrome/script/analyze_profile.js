@@ -9,6 +9,7 @@ function fillSummaryTable(total_problems, total_tried, total_solved, total_faile
         userSummaryTable.innerHTML = "";
         const heading_row = document.createElement('tr');
         const heading_th = document.createElement('th');
+        heading_th.setAttribute("id", "ptable-td");
         heading_th.textContent = "User Summary";
         heading_th.colSpan = 2;
         heading_row.appendChild(heading_th);
@@ -52,6 +53,7 @@ function fillNextToSolveTable(table_heading, current_table, p_title_list, p_url_
         const heading_row = document.createElement('tr');
         
         const heading_th = document.createElement('th');
+        heading_th.setAttribute("id", "ptable-td");
         heading_th.textContent = table_heading + " (" + cat_solved + " / " + cat_total  + ")";
         heading_th.style.backgroundColor = bg_color_code;
         heading_th.style.textAlign = 'center';
@@ -59,6 +61,7 @@ function fillNextToSolveTable(table_heading, current_table, p_title_list, p_url_
         heading_row.appendChild(heading_th);
 
         const heading_th_2 = document.createElement('th');
+        heading_th_2.setAttribute("id", "ptable-td");
         heading_th_2.style.textAlign = 'center';
         heading_th_2.style.backgroundColor = bg_color_code;
 
@@ -109,7 +112,7 @@ function fillNextToSolveTable(table_heading, current_table, p_title_list, p_url_
             const p_text_link = document.createElement('a');
 
             p_text_link.href = problem_url;
-            p_text_link.textContent = problem_title;
+            p_text_link.textContent = (i+1) + '. ' + problem_title;
             p_text_link.target = "_blank";
             cp_data.appendChild(p_text_link);
             cp_row.appendChild(cp_data);
@@ -128,6 +131,7 @@ function fillExceptionTable(current_table, table_heading, bg_color_code, locator
             errorTable.innerHTML = "";
             const heading_row = document.createElement('tr');
             const heading_th = document.createElement('th');
+            heading_th.setAttribute("id", "ptable-td");
             heading_th.textContent = table_heading + " (0 / 0)";
             heading_th.style.backgroundColor = bg_color_code;
             heading_th.style.textAlign = 'center';
@@ -135,6 +139,7 @@ function fillExceptionTable(current_table, table_heading, bg_color_code, locator
             heading_row.appendChild(heading_th);
 
             const heading_th_2 = document.createElement('th');
+            heading_th_2.setAttribute("id", "ptable-td");
             heading_th_2.style.textAlign = 'center';
             heading_th_2.style.backgroundColor = bg_color_code;
 

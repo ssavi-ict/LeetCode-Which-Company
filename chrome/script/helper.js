@@ -13,10 +13,10 @@ document.addEventListener('DOMContentLoaded', function () {
 					return;
 				}				
 				const row = document.createElement('tr');
-				const nameCell = document.createElement('td');
-				const startDateCell = document.createElement('td');
-				const startTimeCell = document.createElement('td');
-				const durationCell = document.createElement('td');
+				const nameCell = document.createElement('td'); nameCell.setAttribute("id", "ptable-td");
+				const startDateCell = document.createElement('td'); startDateCell.setAttribute("id", "ptable-td");
+				const startTimeCell = document.createElement('td'); startTimeCell.setAttribute("id", "ptable-td");
+				const durationCell = document.createElement('td'); durationCell.setAttribute("id", "ptable-td");
 
 				const nameLink = document.createElement('a');
 				const contestURL = "https://leetcode.com/contest/" + key;

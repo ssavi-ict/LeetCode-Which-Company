@@ -1,13 +1,13 @@
 {
-    "name": "CrackTech - Find LeetCode Company Tags",
-    "version": "1.0.8",
-    "homepage_url":"https://github.com/ssavi-ict/LC-Which-Company",
+    "name": "CrackTech-LeetCode Company Tag, DSA Preparation",
+    "version": "2.0.0",
+    "homepage_url":"https://github.com/ssavi-ict/LeetCode-Which-Company",
     "description": "An extension that can help candidate to prepare for a Company specific DSA interview.",
     "manifest_version": 3,
     "author": "Avik Sarkar",
     "action":{
         "default_popup": "popup.html",
-        "default_title": "CrackTech - Find LeetCode Company Tags"
+        "default_title": "CrackTech-LeetCode Company Tag, DSA Preparation"
     },
     "icons": {
         "32": "res/32.png",
@@ -25,7 +25,8 @@
     "content_scripts": [
         {
           "matches": ["https://leetcode.com/"],
-          "js": ["script/analyze_profile.js"]
+          "js": ["script/analyze_profile.js", "script/sde_sheet_script.js"],
+          "resources": ["ext_data/sheets.json"]
         }
     ] 
 }
