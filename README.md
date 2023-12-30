@@ -3,7 +3,7 @@
 
 # CrackTech-LeetCode Company Tag, DSA Preparation
 
-## Current Version: v1.0.8
+## Current Version: v2.0.0
 
 ## CrackTech (previously *LeetCode Which Company*) gives you the information of the companies who asked a certain question in the technical interview.
 
@@ -29,6 +29,7 @@ Access company information for all available problems from : <a href="https://ss
 - Next to solve suggestion for Easy, Medium, and Hard category.
 - ✯ Notation to denote the recent companies who asked a question.
 - Backup URL if extension pop up fails to load company information. <a href="https://ssavi-ict.github.io/LeetCode-Which-Company/" target="_blank">Visit Here</a>
+- Ace your DSA Preparation by popular SDE sheets. Progress tracking overview. [*New*]
 - No data collection.
 
 ------ 
