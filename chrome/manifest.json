@@ -1,5 +1,5 @@
 {
-    "name": "CrackTech-LeetCode Company Tag, DSA Preparation",
+    "name": "CrackTech-LeetCode Company Tag, DSA Prep",
     "version": "2.0.0",
     "homepage_url":"https://github.com/ssavi-ict/LeetCode-Which-Company",
     "description": "An extension that can help candidate to prepare for a Company specific DSA interview.",
@@ -7,7 +7,7 @@
     "author": "Avik Sarkar",
     "action":{
         "default_popup": "popup.html",
-        "default_title": "CrackTech-LeetCode Company Tag, DSA Preparation"
+        "default_title": "CrackTech-LeetCode Company Tag, DSA Prep"
     },
     "icons": {
         "32": "res/32.png",
