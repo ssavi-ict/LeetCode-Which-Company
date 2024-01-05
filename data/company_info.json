@@ -1,4 +1,15 @@
 {
+  "https://leetcode.com/problems/longest-increasing-subsequence/":[
+    "Longest Increasing Subsequence", "PayTM", "Amazon", "OYO", "Microsoft", "Samsung", "BankBazaar", "Adobe", "Citrix", 
+    "CodeNation", "Facebook", "Google", "Zoho", "Atlassian", "ShareChat", "Barclays","Morgan Stanley","Phone Pe",
+    "Meesho","Expedia Group","Lenskart","Visa","Uber","Ola", "American Express",
+    "Disney + Hotstar", "Walmart","HSBC","TCS","Quikr","Grab",
+    "MakeMyTrip","Kronos Incorporated","Cognizant","HCL Technologies","IBM",
+    "Infosys","EnKash","UST Global","Kickdrum","Mercer Mettl","HashedIn","CGI Inc.","Bajaj Electricals Ltd",
+    "Larsen & Toubro Infotech","Rootstock Software","Capgemini India Pvt. Ltd.","Quizizz Inc.","UdChalo",
+    "Nosh technologies","Mathway","Filenet","Bonami Software Pvt. Ltd","Fi money","Piramal Group","MagicPIN","Chegg",
+    "Mphasis","BYJUS","BirdEye","Tekion Corp","Spinny"
+  ],
   "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/":[
     "Minimum Number of Operations to Make Array Empty", "Amazon"
   ],
