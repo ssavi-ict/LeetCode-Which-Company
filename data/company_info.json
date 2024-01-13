@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/determine-if-string-halves-are-alike/":[
+    "Determine if String Halves Are Alike", "Amazon"
+  ],
   "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/":[
     "Amount of Time for Binary Tree to Be Infected", "Amazon", "Microsoft", "ShareChat"
   ],
@@ -2114,7 +2117,7 @@
   ],
   "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/": [
     "Minimum Number of Steps to Make Two Strings Anagram",
-    "Bloomberg",
+    "Bloomberg", "IXL", "Qualtrics",
     "DoorDash",
     "Twitter",
     "tiktok"
