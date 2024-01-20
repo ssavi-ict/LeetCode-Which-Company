@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/sum-of-subarray-minimums/":[
+    "Sum of Subarray Minimums", "Amazon", "Microsoft", "Apple"
+  ],
   "https://leetcode.com/problems/find-players-with-zero-or-one-losses/":[
     "Find Players With Zero or One Losses", "Palantir Technologies", "Indeed"
   ],
