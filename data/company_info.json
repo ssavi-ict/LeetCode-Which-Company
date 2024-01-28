@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/":[
+    "Number of Submatrices That Sum to Target", "Google", "Amazon"
+  ],
   "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/":[
     "Maximum Length of a Concatenated String with Unique Characters", "Microsoft", "Tesla", "Uber"
   ],
