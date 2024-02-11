@@ -59,9 +59,34 @@ async function leetcode_company(){
 				document.getElementById("main-content").innerHTML = problem_name + text;
 			}
 			else{
+				var pages = {
+					"https://leetcode.com/explore/": "Explore page.",
+					"https://leetcode.com/contest/": "Contest page.",
+					"https://leetcode.com/problemset/": "Problemset page.",
+					"https://leetcode.com/discuss/": "Discuss section.",
+					"https://leetcode.com/store/": "Store page.",
+					"https://leetcode.com/subscribe/": "Subscribe page.",
+					"https://leetcode.com/assessment/": "Assesment page.",
+					"https://interview.leetcode.com/": "Interview page.",
+					"https://leetcode.com/notifications/": "Notifcation page."
+				};
+
+				let message = "";
+				if(url == "https://leetcode.com/") message = "This is Leetcode Home page. Open a coding problem to see company information.";
+				else if(url.startsWith("https://leetcode.com/problems/")) message = "Could not locate any Company information for this problem.<br><br>We are trying to collect company information.<br>We will update soon.<br><br>";
+				else{
+					for(var key in pages){
+						if(url.startsWith(key)){
+							message = "This is Leetcode " + pages[key] + " Open a coding problem to see company information.";
+						}
+					}
+				}
+
+				
+
 				let text = "<center><p>";
 				text += "<p style='display: inline-block; border-radius: 2px; margin-bottom:5px; font-size:14px;'>&nbsp;<b>";
-				text += "Could not locate any Company information for this problem.<br><br>We are looking into collecting company information.<br>We will update soon once we have it.<br><br>";
+				text += message;
 				text += "</p></center>";
 				document.getElementById("main-content").innerHTML = text;
 			}
