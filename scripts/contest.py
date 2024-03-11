@@ -12,8 +12,11 @@ class CONTEST(object):
 
     # noinspection PyMethodMayBeStatic
     def get_all_urls(self):
+        time.sleep(5)
         reqs = requests.get(url=CONFIG.CONTEST_ROOT_URL)
+        time.sleep(10)
         b_soup = BeautifulSoup(reqs.text, 'html.parser')
+        time.sleep(5)
         all_urls = []
         for href in b_soup.find_all('a'):
             all_urls.append(href.get('href'))
