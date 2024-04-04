@@ -51,13 +51,30 @@ class CONTEST(object):
                 print("[ " + str(is_private) + " ]", contest_title, ' is private ... ')
                 continue
             contest_duration = response_json["contest"]["duration"]
-            print("Contest Info : ", contest_title, contest_start_time, contest_duration, is_virtual, is_private)
+            print("Contest Info : ", contest_title, contest_start_time, contest_duration, is_private)
             contest_info = {
                 "title": contest_title, "start_time": contest_start_time, "contest_duration": contest_duration
             }
             valid_contests[slug] = contest_info
         print('Valid Contests Are - ', valid_contests)
         return valid_contests
+
+    def is_not_found_contest(self, cnum, ctype):
+        contest_url = CONFIG.CONTEST_API_ENDPOINT + CONFIG.CONTEST_FILTERING_TAG[ctype] + str(cnum)
+        response = requests.get(contest_url)
+
+
+    def filter_valid_contests_url(self, type):
+        lo = 0
+        hi = 100000
+
+        while lo <= hi:
+            mid = (lo + hi) // 2
+            if self.is_not_found_contest(mid, type):
+                hi = mid - 1
+            else:
+                lo = mid + 1
+        pass
 
     # noinspection PyMethodMayBeStatic
     def store_valid_contests_in_json(self):
@@ -75,11 +92,20 @@ class CONTEST(object):
             json.dump({}, file)
 
 
+def hello():
+    contest_url = CONFIG.CONTEST_API_ENDPOINT + CONFIG.CONTEST_FILTERING_TAG[0] + str(389) +"/"
+    print(contest_url)
+    response = requests.get(contest_url)
+    # response.raise_for_status()  # Raise an error for bad response status
+    html_content = response.text
+    print(html_content)
+
 if __name__ == '__main__':
-    current_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    data_path = os.path.join(current_path, 'data')
-    contest_info_json_path = os.path.join(data_path, 'contests.json')
-    contest = CONTEST(contest_info_path=contest_info_json_path)
-    contest.store_valid_contests_in_json()
+    hello()
+    # current_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    # data_path = os.path.join(current_path, 'data')
+    # contest_info_json_path = os.path.join(data_path, 'contests.json')
+    # contest = CONTEST(contest_info_path=contest_info_json_path)
+    # contest.store_valid_contests_in_json()
 
 # all_url = ['/', '/explore/', '/problemset/all/', '/contest/', '/discuss/', '/', None, '/contest/weekly-contest-350', '/contest/biweekly-contest-107', '/business/contact/', '/contest/weekly-contest-291', '/contest/weekly-contest-290', '/contest/biweekly-contest-85', '/contest/weekly-contest-349', None, '/contest/biweekly-contest-106', None, '/contest/weekly-contest-348', None, '/contest/weekly-contest-347', None, '/contest/biweekly-contest-105', None, '/contest/weekly-contest-346', None, '/contest/weekly-contest-345', None, '/contest/biweekly-contest-104', None, '/contest/weekly-contest-344', None, '/contest/weekly-contest-343', None, '/neal_wu', 'https://leetcode.cn/u/Heltion', 'https://leetcode.cn/u/JOHNKRAM', '/numb3r5', 'https://leetcode.cn/u/int65536', 'https://leetcode.cn/u/arignote', '/hank55663', '/xiaowuc1', '/qeetcode', '/AntonRaichuk', '/contest/globalranking', '/support/', '/jobs/', '/bugbounty/', '/interview/', '/student/', '/terms/', '/privacy/', '/region/']
