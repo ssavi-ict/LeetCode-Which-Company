@@ -1,4 +1,3784 @@
 {
+  "https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/": [
+    "Most Expensive Item That Can Not Be Bought", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-coins-for-fruits-ii/": [
+    "Minimum Number of Coins for Fruits II"
+  ],
+  "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/": [
+    "Find Longest Special Substring That Occurs Thrice I", "Google"
+  ],
+  "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii/": [
+    "Find Longest Special Substring That Occurs Thrice II", "Google"
+  ],
+  "https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/": [
+    "Find Polygon With the Largest Perimeter", "Bloomberg", "Airtel"
+  ],
+  "https://leetcode.com/problems/number-of-divisible-triplet-sums/": [
+    "Number of Divisible Triplet Sums", "IBM"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/": [
+    "Count the Number of Incremovable Subarrays I", "Apple"
+  ],
+  "https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/": [
+    "Maximum Square Area by Removing Fences From a Field"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii/": [
+    "Count the Number of Incremovable Subarrays II", "Apple"
+  ],
+  "https://leetcode.com/problems/number-of-same-end-substrings/": [
+    "Number of Same-End Substrings", "Sprinklr"
+  ],
+  "https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/": [
+    "Check if Bitwise OR Has Trailing Zeros", "Meituan"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-convert-string-ii/": [
+    "Minimum Cost to Convert String II", "Atlassian"
+  ],
+  "https://leetcode.com/problems/number-of-divisible-substrings/": [
+    "Number of Divisible Substrings", "Amdocs"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-convert-string-i/": [
+    "Minimum Cost to Convert String I", "Atlassian"
+  ],
+  "https://leetcode.com/problems/double-modular-exponentiation/": [
+    "Double Modular Exponentiation", "Barclays"
+  ],
+  "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/": [
+    "Maximum GCD-Sum of a Subarray"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-coins-to-be-added/": [
+    "Minimum Number of Coins to be Added", "Flipkart"
+  ],
+  "https://leetcode.com/problems/remove-adjacent-almost-equal-characters/": [
+    "Remove Adjacent Almost-Equal Characters", "Salesforce"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/": [
+    "Minimum Cost to Make Array Equalindromic", "Google"
+  ],
+  "https://leetcode.com/problems/find-missing-and-repeated-values/": [
+    "Find Missing and Repeated Values"
+  ],
+  "https://leetcode.com/problems/minimum-number-game/": [
+    "Minimum Number Game", "BT Group"
+  ],
+  "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/": [
+    "Length of Longest Subarray With at Most K Frequency", "MakeMyTrip"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-infection-sequences/": [
+    "Count the Number of Infection Sequences", "SAP", "Tekion"
+  ],
+  "https://leetcode.com/problems/count-complete-substrings/": [
+    "Count Complete Substrings", "Meesho"
+  ],
+  "https://leetcode.com/problems/number-of-equal-numbers-blocks/": [
+    "Number of Equal Numbers Blocks", "Google"
+  ],
+  "https://leetcode.com/problems/find-the-peaks/": [
+    "Find the Peaks", "Accelya"
+  ],
+  "https://leetcode.com/problems/count-tested-devices-after-test-operations/": [
+    "Count Tested Devices After Test Operations", "Accenture"
+  ],
+  "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/": [
+    "Make Lexicographically Smallest Array by Swapping Elements", "Atlassian"
+  ],
+  "https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes/": [
+    "Find Number of Coins to Place in Tree Nodes", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/": [
+    "Number of Possible Sets of Closing Branches", "Meesho", "Atlassian", "TA Digital"
+  ],
+  "https://leetcode.com/problems/distribute-candies-among-children-iii/": [
+    "Distribute Candies Among Children III", "Amazon", "Rubrik"
+  ],
+  "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/": [
+    "Matrix Similarity After Cyclic Shifts", "Salesforce"
+  ],
+  "https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/": [
+    "Maximize Area of Square Hole in Grid", "Swiggy"
+  ],
+  "https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/": [
+    "Count Subarrays Where Max Element Appears at Least K Times", "Adobe"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-good-partitions/": [
+    "Count the Number of Good Partitions", "Google"
+  ],
+  "https://leetcode.com/problems/find-maximum-non-decreasing-array-length/": [
+    "Find Maximum Non-decreasing Array Length", "Amazon"
+  ],
+  "https://leetcode.com/problems/count-beautiful-substrings-i/": [
+    "Count Beautiful Substrings I", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-coins-for-fruits/": [
+    "Minimum Number of Coins for Fruits"
+  ],
+  "https://leetcode.com/problems/count-beautiful-substrings-ii/": [
+    "Count Beautiful Substrings II", "Amazon"
+  ],
+  "https://leetcode.com/problems/make-three-strings-equal/": [
+    "Make Three Strings Equal", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-common-elements-between-two-arrays/": [
+    "Find Common Elements Between Two Arrays", "Facebook"
+  ],
+  "https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii/": [
+    "Maximum Profitable Triplets With Increasing Prices II", "IBM"
+  ],
+  "https://leetcode.com/problems/palindrome-rearrangement-queries/": [
+    "Palindrome Rearrangement Queries"
+  ],
+  "https://leetcode.com/problems/high-access-employees/": [
+    "High-Access Employees", "Atlassian"
+  ],
+  "https://leetcode.com/problems/distribute-candies-among-children-ii/": [
+    "Distribute Candies Among Children II", "Amazon", "Rubrik"
+  ],
+  "https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/": [
+    "Number of Strings Which Can Be Rearranged to Contain Substring", "Meesho"
+  ],
+  "https://leetcode.com/problems/distribute-candies-among-children-i/": [
+    "Distribute Candies Among Children I", "Amazon", "Rubrik"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-reach-destination-in-the-grid/": [
+    "Number of Ways to Reach Destination in the Grid", "Uber"
+  ],
+  "https://leetcode.com/problems/maximum-strong-pair-xor-ii/": [
+    "Maximum Strong Pair XOR II", "ZScaler"
+  ],
+  "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/": [
+    "Apply Operations to Maximize Frequency Score", "Deutsche Bank"
+  ],
+  "https://leetcode.com/problems/separate-black-and-white-balls/": [
+    "Separate Black and White Balls", "1Kosmos"
+  ],
+  "https://leetcode.com/problems/find-words-containing-character/": [
+    "Find Words Containing Character", "Amazon", "Deliveroo"
+  ],
+  "https://leetcode.com/problems/maximum-strong-pair-xor-i/": [
+    "Maximum Strong Pair XOR I", "Amazon", "ZScaler"
+  ],
+  "https://leetcode.com/problems/maximum-xor-product/": [
+    "Maximum Xor Product"
+  ],
+  "https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/": [
+    "Maximum Score After Applying Operations on a Tree", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-operations-to-maximize-last-elements-in-arrays/": [
+    "Minimum Operations to Maximize Last Elements in Arrays"
+  ],
+  "https://leetcode.com/problems/find-champion-ii/": [
+    "Find Champion II", "Google"
+  ],
+  "https://leetcode.com/problems/find-champion-i/": [
+    "Find Champion I", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i/": [
+    "Maximum Profitable Triplets With Increasing Prices I", "IBM"
+  ],
+  "https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/": [
+    "Minimum Sum of Mountain Triplets II", "ION"
+  ],
+  "https://leetcode.com/problems/maximum-balanced-subsequence-sum/": [
+    "Maximum Balanced Subsequence Sum", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-the-k-or-of-an-array/": [
+    "Find the K-or of an Array", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-linear-stock-score/": [
+    "Maximum Linear Stock Score", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/": [
+    "Find Building Where Alice and Bob Can Meet", "Infosys"
+  ],
+  "https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/": [
+    "Maximum Points After Collecting Coins From All Nodes", "DE Shaw"
+  ],
+  "https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/": [
+    "Minimum Increment Operations to Make Array Beautiful", "Google"
+  ],
+  "https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product/": [
+    "Minimizing Array After Replacing Pairs With Their Product", "Adobe"
+  ],
+  "https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/": [
+    "Minimum Sum of Mountain Triplets I", "ION"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/": [
+    "Minimum Number of Changes to Make Binary String Beautiful"
+  ],
+  "https://leetcode.com/problems/the-wording-game/": [
+    "The Wording Game"
+  ],
+  "https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/": [
+    "Divisible and Non-divisible Sums Difference"
+  ],
+  "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/": [
+    "Minimum Equal Sum of Two Arrays After Replacing Zeros", "Citadel", "Twilio"
+  ],
+  "https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/": [
+    "Find Indices With Index and Value Difference II", "PayTM"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/": [
+    "Minimum Number of Groups to Create a Valid Assignment", "BNY Melon"
+  ],
+  "https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/": [
+    "Find Indices With Index and Value Difference I", "PayTM"
+  ],
+  "https://leetcode.com/problems/last-visited-integers/": [
+    "Last Visited Integers"
+  ],
+  "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/": [
+    "Subarrays Distinct Element Sum of Squares I"
+  ],
+  "https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays/": [
+    "Maximum Length of Semi-Decreasing Subarrays", "Google", "Tiktok"
+  ],
+  "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/": [
+    "Maximum Value of an Ordered Triplet I", "Media.Net"
+  ],
+  "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/": [
+    "Apply Operations on Array to Maximize Sum of Squares", "Sprinklr"
+  ],
+  "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/": [
+    "Maximum Value of an Ordered Triplet II", "Media.Net"
+  ],
+  "https://leetcode.com/problems/minimum-processing-time/": [
+    "Minimum Processing Time", "Akuna Capital", "Nutanix"
+  ],
+  "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/": [
+    "Shortest and Lexicographically Smallest Beautiful String", "Amazon", "Wells Fargo"
+  ],
+  "https://leetcode.com/problems/sum-of-remoteness-of-all-cells/": [
+    "Sum of Remoteness of All Cells", "Media.Net"
+  ],
+  "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/": [
+    "Longest Unequal Adjacent Groups Subsequence I", "Fourkites"
+  ],
+  "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/": [
+    "Longest Unequal Adjacent Groups Subsequence II", "Fourkites"
+  ],
+  "https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/": [
+    "Minimum Size Subarray in Infinite Array", "DE Shaw"
+  ],
+  "https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/": [
+    "Count Visited Nodes in a Directed Graph", "BNY Melon"
+  ],
+  "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/": [
+    "Subarrays Distinct Element Sum of Squares II", "Amazon"
+  ],
+  "https://leetcode.com/problems/beautiful-towers-i/": [
+    "Beautiful Towers I", "Salesforce"
+  ],
+  "https://leetcode.com/problems/beautiful-towers-ii/": [
+    "Beautiful Towers II", "Salesforce"
+  ],
+  "https://leetcode.com/problems/count-valid-paths-in-a-tree/": [
+    "Count Valid Paths in a Tree", "Sprinklr"
+  ],
+  "https://leetcode.com/problems/smallest-number-with-given-digit-product/": [
+    "Smallest Number With Given Digit Product", "Microsoft"
+  ],
+  "https://leetcode.com/problems/maximum-spending-after-buying-items/": [
+    "Maximum Spending After Buying Items", "Zomato"
+  ],
+  "https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/": [
+    "Length of the Longest Subsequence That Sums to Target", "Intuit"
+  ],
+  "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/": [
+    "Minimum Edge Reversals So Every Node Is Reachable", "Meesho"
+  ],
+  "https://leetcode.com/problems/happy-students/": [
+    "Happy Students"
+  ],
+  "https://leetcode.com/problems/maximum-coins-heroes-can-collect/": [
+    "Maximum Coins Heroes Can Collect", "Deutsche Bank"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-alloys/": [
+    "Maximum Number of Alloys", "Amazon", "Mathworks"
+  ],
+  "https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/": [
+    "Sum of Values at Indices With K Set Bits", "Adobe", "Accenture"
+  ],
+  "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/": [
+    "Minimum Moves to Spread Stones Over Grid", "Microsoft"
+  ],
+  "https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/": [
+    "Count of Sub-Multisets With Bounded Sum"
+  ],
+  "https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it/": [
+    "Maximal Range That Each Element Is Maximum in It", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-array-length-after-pair-removals/": [
+    "Minimum Array Length After Pair Removals", "Snowflake"
+  ],
+  "https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/": [
+    "Split Array Into Maximum Number of Subarrays"
+  ],
+  "https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/": [
+    "Minimum Edge Weight Equilibrium Queries in a Tree", "Sprinklr"
+  ],
+  "https://leetcode.com/problems/minimum-relative-loss-after-buying-chocolates/": [
+    "Minimum Relative Loss After Buying Chocolates"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-k-divisible-components/": [
+    "Maximum Number of K-Divisible Components", "Google"
+  ],
+  "https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/": [
+    "Count K-Subsequences of a String With Maximum Beauty", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-odd-binary-number/": [
+    "Maximum Odd Binary Number"
+  ],
+  "https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices/": [
+    "Maximum Element-Sum of a Complete Subset of Indices", "Purplle"
+  ],
+  "https://leetcode.com/problems/minimum-operations-to-make-a-special-number/": [
+    "Minimum Operations to Make a Special Number"
+  ],
+  "https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/": [
+    "Minimum Right Shifts to Sort the Array", "Accenture", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-operations-to-collect-elements/": [
+    "Minimum Operations to Collect Elements", "Deutsche Bank"
+  ],
+  "https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning/": [
+    "Minimum Time Takes to Reach Destination Without Drowning"
+  ],
+  "https://leetcode.com/problems/points-that-intersect-with-cars/": [
+    "Points That Intersect With Cars", "Uber"
+  ],
+  "https://leetcode.com/problems/apply-operations-to-make-two-strings-equal/": [
+    "Apply Operations to Make Two Strings Equal", "Zeta"
+  ],
+  "https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/": [
+    "Maximize Value of Function in a Ball Passing Game", "Oracle"
+  ],
+  "https://leetcode.com/problems/construct-product-matrix/": [
+    "Construct Product Matrix"
+  ],
+  "https://leetcode.com/problems/find-the-k-th-lucky-number/": [
+    "Find The K-th Lucky Number"
+  ],
+  "https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/": [
+    "Find the Minimum Possible Sum of a Beautiful Array", "Infosys"
+  ],
+  "https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/": [
+    "Minimum Operations to Form Subsequence With Target Sum", "Media.Net", "Amazon"
+  ],
+  "https://leetcode.com/problems/string-transformation/": [
+    "String Transformation", "Atlassian", "Snowflake", "Mathworks", "Google"
+  ],
+  "https://leetcode.com/problems/furthest-point-from-origin/": [
+    "Furthest Point From Origin", "Amazon", "Barclays"
+  ],
+  "https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/": [
+    "Make String a Subsequence Using Cyclic Increments", "Amazon"
+  ],
+  "https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/": [
+    "Number of Beautiful Integers in the Range", "Apple", "Infosys"
+  ],
+  "https://leetcode.com/problems/count-nodes-that-are-great-enough/": [
+    "Count Nodes That Are Great Enough"
+  ],
+  "https://leetcode.com/problems/apply-operations-to-maximize-score/": [
+    "Apply Operations to Maximize Score"
+  ],
+  "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/": [
+    "Minimum Absolute Difference Between Elements With Constraint", "Databricks", "Google"
+  ],
+  "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/": [
+    "Check if Strings Can be Made Equal With Operations I", "Citrix"
+  ],
+  "https://leetcode.com/problems/count-symmetric-integers/": [
+    "Count Symmetric Integers", "Amazon"
+  ],
+  "https://leetcode.com/problems/number-of-unique-categories/": [
+    "Number of Unique Categories", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximize-the-profit-as-the-salesman/": [
+    "Maximize the Profit as the Salesman", "Amazon"
+  ],
+  "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/": [
+    "Check if Strings Can be Made Equal With Operations II", "Citrix"
+  ],
+  "https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/": [
+    "Check if a String Is an Acronym of Words", "Uber"
+  ],
+  "https://leetcode.com/problems/account-balance-after-rounded-purchase/": [
+    "Account Balance After Rounded Purchase"
+  ],
+  "https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/": [
+    "Maximum Sum of Almost Unique Subarray", "Amazon"
+  ],
+  "https://leetcode.com/problems/count-pairs-of-points-with-distance-k/": [
+    "Count Pairs of Points With Distance k", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x/": [
+    "Minimum Time to Make Array Sum At Most x", "Jane Street"
+  ],
+  "https://leetcode.com/problems/height-of-special-binary-tree/": [
+    "Height of Special Binary Tree"
+  ],
+  "https://leetcode.com/problems/count-stepping-numbers-in-range/": [
+    "Count Stepping Numbers in Range", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/": [
+    "Minimum Seconds to Equalize a Circular Array"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/": [
+    "Maximum Number of Groups With Increasing Length"
+  ],
+  "https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree/": [
+    "Is Array a Preorder of Some Binary Tree"
+  ],
+  "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/": [
+    "Count Pairs Whose Sum is Less than Target", "Amazon", "Facebook"
+  ],
+  "https://leetcode.com/problems/check-if-it-is-possible-to-split-array/": [
+    "Check if it is Possible to Split Array", "MoneyLion"
+  ],
+  "https://leetcode.com/problems/count-of-interesting-subarrays/": [
+    "Count of Interesting Subarrays"
+  ],
+  "https://leetcode.com/problems/find-the-safest-path-in-a-grid/": [
+    "Find the Safest Path in a Grid", "IMC", "Google"
+  ],
+  "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/": [
+    "Count Paths That Can Form a Palindrome in a Tree"
+  ],
+  "https://leetcode.com/problems/sorting-three-groups/": [
+    "Sorting Three Groups", "UiPath"
+  ],
+  "https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/": [
+    "Insert Greatest Common Divisors in Linked List"
+  ],
+  "https://leetcode.com/problems/max-pair-sum-in-an-array/": [
+    "Max Pair Sum in an Array", "Microsoft"
+  ],
+  "https://leetcode.com/problems/count-houses-in-a-circular-street-ii/": [
+    "Count Houses in a Circular Street II"
+  ],
+  "https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/": [
+    "Maximum Elegance of a K-Length Subsequence"
+  ],
+  "https://leetcode.com/problems/visit-array-positions-to-maximize-score/": [
+    "Visit Array Positions to Maximize Score"
+  ],
+  "https://leetcode.com/problems/check-if-array-is-good/": [
+    "Check if Array is Good"
+  ],
+  "https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/": [
+    "Maximum Beauty of an Array After Applying Operation", "Google"
+  ],
+  "https://leetcode.com/problems/count-substrings-without-repeating-character/": [
+    "Count Substrings Without Repeating Character"
+  ],
+  "https://leetcode.com/problems/number-of-black-blocks/": [
+    "Number of Black Blocks", "Twitter", "Square"
+  ],
+  "https://leetcode.com/problems/minimum-index-of-a-valid-split/": [
+    "Minimum Index of a Valid Split"
+  ],
+  "https://leetcode.com/problems/faulty-keyboard/": [
+    "Faulty Keyboard", "Samsung"
+  ],
+  "https://leetcode.com/problems/length-of-the-longest-valid-substring/": [
+    "Length of the Longest Valid Substring", "Amazon"
+  ],
+  "https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/": [
+    "Partition String Into Minimum Beautiful Substrings"
+  ],
+  "https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/": [
+    "Ways to Express an Integer as Sum of Powers"
+  ],
+  "https://leetcode.com/problems/split-strings-by-separator/": [
+    "Split Strings by Separator"
+  ],
+  "https://leetcode.com/problems/find-the-closest-marked-node/": [
+    "Find the Closest Marked Node"
+  ],
+  "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/": [
+    "Minimum Changes to Make K Semi-palindromes"
+  ],
+  "https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/": [
+    "Apply Operations to Make All Array Elements Equal to Zero", "Hudson River Trading"
+  ],
+  "https://leetcode.com/problems/shortest-string-that-contains-three-strings/": [
+    "Shortest String That Contains Three Strings", "DE Shaw"
+  ],
+  "https://leetcode.com/problems/number-of-employees-who-met-the-target/": [
+    "Number of Employees Who Met the Target", "Adobe", "Amazon"
+  ],
+  "https://leetcode.com/problems/count-houses-in-a-circular-street/": [
+    "Count Houses in a Circular Street", "Google"
+  ],
+  "https://leetcode.com/problems/prime-pairs-with-target-sum/": [
+    "Prime Pairs With Target Sum"
+  ],
+  "https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/": [
+    "Largest Element in an Array after Merge Operations"
+  ],
+  "https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/": [
+    "Double a Number Represented as a Linked List", "Nvidia", "Amazon"
+  ],
+  "https://leetcode.com/problems/longest-alternating-subarray/": [
+    "Longest Alternating Subarray"
+  ],
+  "https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/": [
+    "Longest Non-decreasing Subarray From Two Arrays", "Citadel", "Polar"
+  ],
+  "https://leetcode.com/problems/continuous-subarrays/": [
+    "Continuous Subarrays", "Amazon", "Yahoo", "Adobe", "Google"
+  ],
+  "https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/": [
+    "Ways to Split Array Into Good Subarrays"
+  ],
+  "https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/": [
+    "Longest Even Odd Subarray With Threshold"
+  ],
+  "https://leetcode.com/problems/find-shortest-path-with-k-hops/": [
+    "Find Shortest Path with K Hops"
+  ],
+  "https://leetcode.com/problems/total-distance-traveled/": [
+    "Total Distance Traveled", "Apple"
+  ],
+  "https://leetcode.com/problems/count-complete-subarrays-in-an-array/": [
+    "Count Complete Subarrays in an Array", "TikTok"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/": [
+    "Maximum Number of Jumps to Reach the Last Index"
+  ],
+  "https://leetcode.com/problems/decremental-string-concatenation/": [
+    "Decremental String Concatenation"
+  ],
+  "https://leetcode.com/problems/construct-the-longest-new-string/": [
+    "Construct the Longest New String"
+  ],
+  "https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/": [
+    "Sum of Imbalance Numbers of All Subarrays", "Adobe", "Google"
+  ],
+  "https://leetcode.com/problems/special-permutations/": [
+    "Special Permutations"
+  ],
+  "https://leetcode.com/problems/find-maximum-number-of-string-pairs/": [
+    "Find Maximum Number of String Pairs"
+  ],
+  "https://leetcode.com/problems/robot-collisions/": [
+    "Robot Collisions", "Deutsche Bank", "Sprinklr"
+  ],
+  "https://leetcode.com/problems/find-the-value-of-the-partition/": [
+    "Find the Value of the Partition"
+  ],
+  "https://leetcode.com/problems/sum-of-squares-of-special-elements/": [
+    "Sum of Squares of Special Elements"
+  ],
+  "https://leetcode.com/problems/extract-kth-character-from-the-rope-tree/": [
+    "Extract Kth Character From The Rope Tree", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-sum-queries/": [
+    "Maximum Sum Queries"
+  ],
+  "https://leetcode.com/problems/sum-of-matrix-after-queries/": [
+    "Sum of Matrix After Queries", "Sprinklr"
+  ],
+  "https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/": [
+    "Minimum Operations to Make the Integer Zero"
+  ],
+  "https://leetcode.com/problems/neither-minimum-nor-maximum/": [
+    "Neither Minimum nor Maximum"
+  ],
+  "https://leetcode.com/problems/split-a-circular-linked-list/": [
+    "Split a Circular Linked List"
+  ],
+  "https://leetcode.com/problems/relocate-marbles/": [
+    "Relocate Marbles", "Amazon"
+  ],
+  "https://leetcode.com/problems/count-zero-request-servers/": [
+    "Count Zero Request Servers", "Zomato"
+  ],
+  "https://leetcode.com/problems/find-the-longest-equal-subarray/": [
+    "Find the Longest Equal Subarray", "Meesho", "Palo Alto Networks"
+  ],
+  "https://leetcode.com/problems/number-of-beautiful-pairs/": [
+    "Number of Beautiful Pairs"
+  ],
+  "https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/": [
+    "Lexicographically Smallest String After Substring Operation"
+  ],
+  "https://leetcode.com/problems/greatest-common-divisor-traversal/": [
+    "Greatest Common Divisor Traversal", "Google"
+  ],
+  "https://leetcode.com/problems/find-a-good-subset-of-the-matrix/": [
+    "Find a Good Subset of the Matrix"
+  ],
+  "https://leetcode.com/problems/minimize-string-length/": [
+    "Minimize String Length"
+  ],
+  "https://leetcode.com/problems/check-if-the-number-is-fascinating/": [
+    "Check if The Number is Fascinating"
+  ],
+  "https://leetcode.com/problems/the-knights-tour/": [
+    "The Knight's Tour", "Microsoft"
+  ],
+  "https://leetcode.com/problems/remove-trailing-zeros-from-a-string/": [
+    "Remove Trailing Zeros From a String"
+  ],
+  "https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/": [
+    "Maximum Strictly Increasing Cells in a Matrix", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/": [
+    "Minimum Cost to Make All Characters Equal"
+  ],
+  "https://leetcode.com/problems/lexicographically-smallest-palindrome/": [
+    "Lexicographically Smallest Palindrome"
+  ],
+  "https://leetcode.com/problems/find-maximal-uncovered-ranges/": [
+    "Find Maximal Uncovered Ranges"
+  ],
+  "https://leetcode.com/problems/find-the-maximum-achievable-number/": [
+    "Find the Maximum Achievable Number", "Amazon"
+  ],
+  "https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/": [
+    "Determine the Minimum Sum of a k-avoiding Array", "Infosys"
+  ],
+  "https://leetcode.com/problems/collecting-chocolates/": [
+    "Collecting Chocolates", "Amazon"
+  ],
+  "https://leetcode.com/problems/modify-graph-edge-weights/": [
+    "Modify Graph Edge Weights"
+  ],
+  "https://leetcode.com/problems/find-the-punishment-number-of-an-integer/": [
+    "Find the Punishment Number of an Integer"
+  ],
+  "https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/": [
+    "Difference of Number of Distinct Values on Diagonals"
+  ],
+  "https://leetcode.com/problems/minimum-string-length-after-removing-substrings/": [
+    "Minimum String Length After Removing Substrings", "Yelp"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/": [
+    "Maximum Number of Moves in a Grid", "Amazon"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-complete-components/": [
+    "Count the Number of Complete Components"
+  ],
+  "https://leetcode.com/problems/neighboring-bitwise-xor/": [
+    "Neighboring Bitwise XOR"
+  ],
+  "https://leetcode.com/problems/find-the-losers-of-the-circular-game/": [
+    "Find the Losers of the Circular Game"
+  ],
+  "https://leetcode.com/problems/movement-of-robots/": [
+    "Movement of Robots"
+  ],
+  "https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/": [
+    "Find the Longest Semi-Repetitive Substring"
+  ],
+  "https://leetcode.com/problems/semi-ordered-permutation/": [
+    "Semi-Ordered Permutation"
+  ],
+  "https://leetcode.com/problems/power-of-heroes/": [
+    "Power of Heroes"
+  ],
+  "https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/": [
+    "Make Costs of Paths Equal in a Binary Tree", "DE Shaw"
+  ],
+  "https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/": [
+    "Number of Adjacent Elements With the Same Color"
+  ],
+  "https://leetcode.com/problems/frequency-tracker/": [
+    "Frequency Tracker"
+  ],
+  "https://leetcode.com/problems/find-the-distinct-difference-array/": [
+    "Find the Distinct Difference Array"
+  ],
+  "https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/": [
+    "Maximum Sum With Exactly K Elements"
+  ],
+  "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/": [
+    "Find the Prefix Common Array of Two Arrays", "Yandex"
+  ],
+  "https://leetcode.com/problems/make-array-empty/": [
+    "Make Array Empty", "TikTok"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/": [
+    "Maximum Number of Fish in a Grid", "Adobe"
+  ],
+  "https://leetcode.com/problems/count-of-integers/": [
+    "Count of Integers", "Amazon", "DE Shaw"
+  ],
+  "https://leetcode.com/problems/buy-two-chocolates/": [
+    "Buy Two Chocolates", "Amazon", "Microsoft"
+  ],
+  "https://leetcode.com/problems/extra-characters-in-a-string/": [
+    "Extra Characters in a String", "Amazon", "Bloomberg", "Uber"
+  ],
+  "https://leetcode.com/problems/maximum-strength-of-a-group/": [
+    "Maximum Strength of a Group", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/": [
+    "Minimum Number of Operations to Make All Array Elements Equal to 1"
+  ],
+  "https://leetcode.com/problems/sum-multiples/": [
+    "Sum Multiples", "Yahoo"
+  ],
+  "https://leetcode.com/problems/sliding-subarray-beauty/": [
+    "Sliding Subarray Beauty"
+  ],
+  "https://leetcode.com/problems/calculate-delayed-arrival-time/": [
+    "Calculate Delayed Arrival Time"
+  ],
+  "https://leetcode.com/problems/minimize-the-total-price-of-the-trips/": [
+    "Minimize the Total Price of the Trips", "Bloomberg", "Adobe"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-k-free-subsets/": [
+    "Count the Number of K-Free Subsets", "Amazon"
+  ],
+  "https://leetcode.com/problems/row-with-maximum-ones/": [
+    "Row With Maximum Ones"
+  ],
+  "https://leetcode.com/problems/minimum-additions-to-make-valid-string/": [
+    "Minimum Additions to Make Valid String", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-or/": [
+    "Maximum OR"
+  ],
+  "https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive/": [
+    "Minimum Operations to Make Numbers Non-positive"
+  ],
+  "https://leetcode.com/problems/sum-in-a-matrix/": [
+    "Sum in a Matrix"
+  ],
+  "https://leetcode.com/problems/number-of-senior-citizens/": [
+    "Number of Senior Citizens"
+  ],
+  "https://leetcode.com/problems/minimum-reverse-operations/": [
+    "Minimum Reverse Operations", "Infosys"
+  ],
+  "https://leetcode.com/problems/mice-and-cheese/": [
+    "Mice and Cheese", "DoorDash"
+  ],
+  "https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/": [
+    "Find the Longest Balanced Substring of a Binary String"
+  ],
+  "https://leetcode.com/problems/prime-in-diagonal/": [
+    "Prime In Diagonal"
+  ],
+  "https://leetcode.com/problems/sum-of-distances/": [
+    "Sum of Distances", "BNY Melon"
+  ],
+  "https://leetcode.com/problems/beautiful-pairs/": [
+    "Beautiful Pairs"
+  ],
+  "https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/": [
+    "Minimum Operations to Make All Array Elements Equal"
+  ],
+  "https://leetcode.com/problems/collect-coins-in-a-tree/": [
+    "Collect Coins in a Tree", "Uber", "Lucid"
+  ],
+  "https://leetcode.com/problems/prime-subtraction-operation/": [
+    "Prime Subtraction Operation", "Google"
+  ],
+  "https://leetcode.com/problems/k-items-with-the-maximum-sum/": [
+    "K Items With the Maximum Sum"
+  ],
+  "https://leetcode.com/problems/left-and-right-sum-differences/": [
+    "Left and Right Sum Differences", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/find-the-divisibility-array-of-a-string/": [
+    "Find the Divisibility Array of a String", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/": [
+    "Find the Maximum Number of Marked Indices"
+  ],
+  "https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/": [
+    "Minimum Time to Visit a Cell In a Grid", "Atlassian"
+  ],
+  "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/": [
+    "Minimum Operations to Reduce an Integer to 0", "Two Sigma", "Nvidia"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-square-free-subsets/": [
+    "Count the Number of Square-Free Subsets", "Media.Net"
+  ],
+  "https://leetcode.com/problems/find-the-string-with-lcp/": [
+    "Find the String with LCP"
+  ],
+  "https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/": [
+    "Merge Two 2D Arrays by Summing Values", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-score-by-changing-two-elements/": [
+    "Minimum Score by Changing Two Elements"
+  ],
+  "https://leetcode.com/problems/minimum-impossible-or/": [
+    "Minimum Impossible OR"
+  ],
+  "https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/": [
+    "Maximum Difference by Remapping a Digit"
+  ],
+  "https://leetcode.com/problems/handling-sum-queries-after-update/": [
+    "Handling Sum Queries After Update", "Trilogy"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii/": [
+    "Maximum Number of Integers to Choose From a Range II", "PayPal"
+  ],
+  "https://leetcode.com/problems/subsequence-with-the-minimum-score/": [
+    "Subsequence With the Minimum Score", "Meesho", "DoorDash"
+  ],
+  "https://leetcode.com/problems/substring-xor-queries/": [
+    "Substring XOR Queries", "Trilogy"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-fair-pairs/": [
+    "Count the Number of Fair Pairs", "Salesforce"
+  ],
+  "https://leetcode.com/problems/find-the-array-concatenation-value/": [
+    "Find the Array Concatenation Value", "IBM"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/": [
+    "Minimum Number of Visited Cells in a Grid", "Huawei"
+  ],
+  "https://leetcode.com/problems/the-number-of-beautiful-subsets/": [
+    "The Number of Beautiful Subsets", "Facebook", "Infosys"
+  ],
+  "https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/": [
+    "Find Score of an Array After Marking All Elements"
+  ],
+  "https://leetcode.com/problems/find-the-maximum-divisibility-score/": [
+    "Find the Maximum Divisibility Score", "DE Shaw"
+  ],
+  "https://leetcode.com/problems/maximum-price-to-fill-a-bag/": [
+    "Maximum Price to Fill a Bag", "Microsoft"
+  ],
+  "https://leetcode.com/problems/take-gifts-from-the-richest-pile/": [
+    "Take Gifts From the Richest Pile", "Amazon", "DE Shaw"
+  ],
+  "https://leetcode.com/problems/count-vowel-strings-in-ranges/": [
+    "Count Vowel Strings in Ranges", "PayPal"
+  ],
+  "https://leetcode.com/problems/house-robber-iv/": [
+    "House Robber IV", "CashFree"
+  ],
+  "https://leetcode.com/problems/rearranging-fruits/": [
+    "Rearranging Fruits", "Oracle"
+  ],
+  "https://leetcode.com/problems/design-a-todo-list/": [
+    "Design a Todo List"
+  ],
+  "https://leetcode.com/problems/lexicographically-smallest-beautiful-string/": [
+    "Lexicographically Smallest Beautiful String", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/": [
+    "Minimum Cost of a Path With Special Roads", "Samsung"
+  ],
+  "https://leetcode.com/problems/first-completely-painted-row-or-column/": [
+    "First Completely Painted Row or Column", "Citadel"
+  ],
+  "https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/": [
+    "Determine the Winner of a Bowling Game", "Amazon", "DE Shaw"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-good-subsequences/": [
+    "Count the Number of Good Subsequences", "Oracle", "TuSimple"
+  ],
+  "https://leetcode.com/problems/count-increasing-quadruplets/": [
+    "Count Increasing Quadruplets", "Tiktok", "SAP"
+  ],
+  "https://leetcode.com/problems/put-marbles-in-bags/": [
+    "Put Marbles in Bags", "Flipkart", "Amazon", "Uber"
+  ],
+  "https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/": [
+    "Count Collisions of Monkeys on a Polygon", "Goldman Sachs"
+  ],
+  "https://leetcode.com/problems/count-distinct-numbers-on-board/": [
+    "Count Distinct Numbers on Board", "Oracle"
+  ],
+  "https://leetcode.com/problems/cousins-in-binary-tree-ii/": [
+    "Cousins in Binary Tree II", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/": [
+    "Find the Score of All Prefixes of an Array", "TikTok"
+  ],
+  "https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/": [
+    "Find the Width of Columns of a Grid", "Samsung"
+  ],
+  "https://leetcode.com/problems/make-the-prefix-sum-non-negative/": [
+    "Make the Prefix Sum Non-negative", "Microsoft"
+  ],
+  "https://leetcode.com/problems/maximize-win-from-two-segments/": [
+    "Maximize Win From Two Segments", "Uber"
+  ],
+  "https://leetcode.com/problems/number-of-good-binary-strings/": [
+    "Number of Good Binary Strings", "Citadel", "Expedia"
+  ],
+  "https://leetcode.com/problems/shortest-cycle-in-a-graph/": [
+    "Shortest Cycle in a Graph", "Zomato"
+  ],
+  "https://leetcode.com/problems/make-k-subarray-sums-equal/": [
+    "Make K-Subarray Sums Equal", "Amazon", "Observer.ai"
+  ],
+  "https://leetcode.com/problems/find-the-substring-with-maximum-cost/": [
+    "Find the Substring With Maximum Cost", "Amazon"
+  ],
+  "https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/": [
+    "Form Smallest Number From Two Digit Arrays"
+  ],
+  "https://leetcode.com/problems/maximum-frequency-score-of-a-subarray/": [
+    "Maximum Frequency Score of a Subarray", "PayPal"
+  ],
+  "https://leetcode.com/problems/minimum-time-to-eat-all-grains/": [
+    "Minimum Time to Eat All Grains", "Confluent"
+  ],
+  "https://leetcode.com/problems/minimum-time-to-repair-cars/": [
+    "Minimum Time to Repair Cars"
+  ],
+  "https://leetcode.com/problems/maximize-greatness-of-an-array/": [
+    "Maximize Greatness of an Array", "Twilio"
+  ],
+  "https://leetcode.com/problems/distribute-money-to-maximum-children/": [
+    "Distribute Money to Maximum Children", "Zendesk"
+  ],
+  "https://leetcode.com/problems/check-knight-tour-configuration/": [
+    "Check Knight Tour Configuration", "Facebook"
+  ],
+  "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/": [
+    "Smallest Missing Non-negative Integer After Operations", "IBM", "Atlassian", "Mercari"
+  ],
+  "https://leetcode.com/problems/number-of-even-and-odd-bits/": [
+    "Number of Even and Odd Bits"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-k-big-indices/": [
+    "Count the Number of K-Big Indices", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-time-to-complete-all-tasks/": [
+    "Minimum Time to Complete All Tasks"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/": [
+    "Count the Number of Beautiful Subarrays"
+  ],
+  "https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/": [
+    "Rearrange Array to Maximize Prefix Score"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/": [
+    "Count the Number of Vowel Strings in Range", "PayPal"
+  ],
+  "https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/": [
+    "Check if There is a Path With Equal Number of 0's And 1's", "Google"
+  ],
+  "https://leetcode.com/problems/count-number-of-possible-root-nodes/": [
+    "Count Number of Possible Root Nodes"
+  ],
+  "https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/": [
+    "Count Ways to Group Overlapping Ranges", "Oracle"
+  ],
+  "https://leetcode.com/problems/split-with-minimum-sum/": [
+    "Split With Minimum Sum", "Amazon"
+  ],
+  "https://leetcode.com/problems/count-total-number-of-colored-cells/": [
+    "Count Total Number of Colored Cells"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-earn-points/": [
+    "Number of Ways to Earn Points", "TuSimple"
+  ],
+  "https://leetcode.com/problems/split-the-array-to-make-coprime-products/": [
+    "Split the Array to Make Coprime Products", "Zomato"
+  ],
+  "https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/": [
+    "Kth Largest Sum in a Binary Tree", "Amazon", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/pass-the-pillow/": [
+    "Pass the Pillow"
+  ],
+  "https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums/": [
+    "Bitwise OR of All Subsequence Sums", "Zomato"
+  ],
+  "https://leetcode.com/problems/time-to-cross-a-bridge/": [
+    "Time to Cross a Bridge", "LinkedIn"
+  ],
+  "https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/": [
+    "Disconnect Path in a Binary Matrix by at Most One Flip", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/": [
+    "Maximum Number of Integers to Choose From a Range I", "PayPal"
+  ],
+  "https://leetcode.com/problems/separate-the-digits-in-an-array/": [
+    "Separate the Digits in an Array", "Facebook"
+  ],
+  "https://leetcode.com/problems/number-of-subarrays-having-even-product/": [
+    "Number of Subarrays Having Even Product"
+  ],
+  "https://leetcode.com/problems/check-if-point-is-reachable/": [
+    "Check if Point Is Reachable", "PhonePe"
+  ],
+  "https://leetcode.com/problems/minimum-common-value/": [
+    "Minimum Common Value", "Apple", "Microsoft"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-split-an-array/": [
+    "Minimum Cost to Split an Array", "Indeed"
+  ],
+  "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/": [
+    "Apply Bitwise Operations to Make Strings Equal", "Sprinklr"
+  ],
+  "https://leetcode.com/problems/sort-the-students-by-their-kth-score/": [
+    "Sort the Students by Their Kth Score", "IBM"
+  ],
+  "https://leetcode.com/problems/alternating-digit-sum/": [
+    "Alternating Digit Sum", "eBay"
+  ],
+  "https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/": [
+    "Number of Substrings With Fixed Ratio", "Intuit"
+  ],
+  "https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/": [
+    "Minimize the Maximum of Two Arrays", "Goldman Sachs"
+  ],
+  "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/": [
+    "Difference Between Maximum and Minimum Price Sum", "Directi", "Media.Net"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-good-subarrays/": [
+    "Count the Number of Good Subarrays", "Amazon"
+  ],
+  "https://leetcode.com/problems/increment-submatrices-by-one/": [
+    "Increment Submatrices by One", "Google"
+  ],
+  "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/": [
+    "Difference Between Element Sum and Digit Sum of an Array"
+  ],
+  "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/": [
+    "Maximum XOR of Two Non-Overlapping Subtrees", "Directi", "Media.Net"
+  ],
+  "https://leetcode.com/problems/find-xor-beauty-of-array/": [
+    "Find Xor-Beauty of Array", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/": [
+    "Find Consecutive Integers from a Data Stream", "Intel"
+  ],
+  "https://leetcode.com/problems/categorize-box-according-to-criteria/": [
+    "Categorize Box According to Criteria", "Zendesk"
+  ],
+  "https://leetcode.com/problems/maximize-the-minimum-powered-city/": [
+    "Maximize the Minimum Powered City"
+  ],
+  "https://leetcode.com/problems/time-taken-to-cross-the-door/": [
+    "Time Taken to Cross the Door", "IMC", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximal-score-after-applying-k-operations/": [
+    "Maximal Score After Applying K Operations", "McKinsey"
+  ],
+  "https://leetcode.com/problems/make-number-of-distinct-characters-equal/": [
+    "Make Number of Distinct Characters Equal", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/": [
+    "Maximum Count of Positive Integer and Negative Integer", "Amazon", "Bloomberg", "ShareChat"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-buy-apples/": [
+    "Minimum Cost to Buy Apples", "Directi"
+  ],
+  "https://leetcode.com/problems/closest-prime-numbers-in-range/": [
+    "Closest Prime Numbers in Range", "TikTok"
+  ],
+  "https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/": [
+    "Distinct Prime Factors of Product of Array"
+  ],
+  "https://leetcode.com/problems/count-the-digits-that-divide-a-number/": [
+    "Count the Digits That Divide a Number", "TCS"
+  ],
+  "https://leetcode.com/problems/minimum-subarrays-in-a-valid-split/": [
+    "Minimum Subarrays in a Valid Split"
+  ],
+  "https://leetcode.com/problems/count-anagrams/": [
+    "Count Anagrams", "Mathworks"
+  ],
+  "https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/": [
+    "Minimum Operations to Make Array Equal II", "Walmart Labs"
+  ],
+  "https://leetcode.com/problems/reward-top-k-students/": [
+    "Reward Top K Students", "Booking.com","Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/": [
+    "Maximum Enemy Forts That Can Be Captured"
+  ],
+  "https://leetcode.com/problems/number-of-great-partitions/": [
+    "Number of Great Partitions", "Sprinklr"
+  ],
+  "https://leetcode.com/problems/maximum-tastiness-of-candy-basket/": [
+    "Maximum Tastiness of Candy Basket", "PhonePe"
+  ],
+  "https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/": [
+    "Take K of Each Character From Left and Right"
+  ],
+  "https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/": [
+    "Shortest Distance to Target String in a Circular Array", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/cycle-length-queries-in-a-tree/": [
+    "Cycle Length Queries in a Tree", "Arcesium"
+  ],
+  "https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/": [
+    "Add Edges to Make Degrees of All Nodes Even", "HRT"
+  ],
+  "https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/": [
+    "Smallest Value After Replacing With Sum of Prime Factors"
+  ],
+  "https://leetcode.com/problems/count-pairs-of-similar-strings/": [
+    "Count Pairs Of Similar Strings", "Oracle"
+  ],
+  "https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/": [
+    "Number of Distinct Binary Strings After Applying Operations", "Microsoft"
+  ],
+  "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/": [
+    "Minimum Total Cost to Make Arrays Unequal", "Flipkart", "Razorpay"
+  ],
+  "https://leetcode.com/problems/frog-jump-ii/": [
+    "Frog Jump II", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-star-sum-of-a-graph/": [
+    "Maximum Star Sum of a Graph", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/": [
+    "Maximum Value of a String in an Array"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/": [
+    "Maximum Number of Points From Grid Queries", "JPMorgan"
+  ],
+  "https://leetcode.com/problems/design-memory-allocator/": [
+    "Design Memory Allocator", "Amazon"
+  ],
+  "https://leetcode.com/problems/longest-square-streak-in-an-array/": [
+    "Longest Square Streak in an Array", "Amazon"
+  ],
+  "https://leetcode.com/problems/delete-greatest-value-in-each-row/": [
+    "Delete Greatest Value in Each Row"
+  ],
+  "https://leetcode.com/problems/number-of-nodes-with-value-one/": [
+    "Number of Nodes With Value One", "Infosys"
+  ],
+  "https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/": [
+    "Divide Nodes Into the Maximum Number of Groups", "Uber"
+  ],
+  "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/": [
+    "Minimum Score of a Path Between Two Cities", "Unbxd"
+  ],
+  "https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/": [
+    "Divide Players Into Teams of Equal Skill", "IBM", "Expedia"
+  ],
+  "https://leetcode.com/problems/circular-sentence/": [
+    "Circular Sentence"
+  ],
+  "https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one/": [
+    "Minimum Split Into Subarrays With GCD Greater Than One"
+  ],
+  "https://leetcode.com/problems/count-palindromic-subsequences/": [
+    "Count Palindromic Subsequences", "Oracle", "Goldman Sachs", "Atlassian"
+  ],
+  "https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/": [
+    "Minimum Cuts to Divide a Circle", "TCS"
+  ],
+  "https://leetcode.com/problems/count-subarrays-with-median-k/": [
+    "Count Subarrays With Median K", "Thoughtspot", "Google"
+  ],
+  "https://leetcode.com/problems/remove-nodes-from-linked-list/": [
+    "Remove Nodes From Linked List", "Amazon", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/": [
+    "Append Characters to String to Make Subsequence", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-the-pivot-integer/": [
+    "Find the Pivot Integer", "Apple", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/": [
+    "Maximize Total Tastiness of Purchased Fruits", "LinkedIn"
+  ],
+  "https://leetcode.com/problems/number-of-beautiful-partitions/": [
+    "Number of Beautiful Partitions", "Google"
+  ],
+  "https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/": [
+    "Closest Nodes Queries in a Binary Search Tree", "Google"
+  ],
+  "https://leetcode.com/problems/number-of-unequal-triplets-in-array/": [
+    "Number of Unequal Triplets in Array", "Amazon", "PayTM"
+  ],
+  "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/": [
+    "Merge Operations to Turn Array Into a Palindrome", "Tiktok", "Amazon", "Accolite", "Adobe"
+  ],
+  "https://leetcode.com/problems/most-profitable-path-in-a-tree/": [
+    "Most Profitable Path in a Tree", "Google", "Intuit"
+  ],
+  "https://leetcode.com/problems/split-message-based-on-limit/": [
+    "Split Message Based on Limit", "Uber", "Capital One", "Roblox", "Facebook"
+  ],
+  "https://leetcode.com/problems/count-ways-to-build-good-strings/": [
+    "Count Ways To Build Good Strings", "Citadel", "Oracle"
+  ],
+  "https://leetcode.com/problems/number-of-distinct-averages/": [
+    "Number of Distinct Averages", "Amazon"
+  ],
+  "https://leetcode.com/problems/closest-fair-integer/": [
+    "Closest Fair Integer"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/": [
+    "Maximum Number of Non-overlapping Palindrome Substrings", "Walmart Labs", "Oracle", "LinkedIn"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/": [
+    "Minimum Number of Operations to Sort a Binary Tree by Level", "Amazon"
+  ],
+  "https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/": [
+    "Number of Subarrays With LCM Equal to K"
+  ],
+  "https://leetcode.com/problems/convert-the-temperature/": [
+    "Convert the Temperature", "Amazon"
+  ],
+  "https://leetcode.com/problems/design-sql/": [
+    "Design SQL", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-total-distance-traveled/": [
+    "Minimum Total Distance Traveled", "Bloomberg", "Infosys"
+  ],
+  "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/": [
+    "Maximum Sum of Distinct Subarrays With Length K", "Amazon", "Facebook"
+  ],
+  "https://leetcode.com/problems/apply-operations-to-an-array/": [
+    "Apply Operations to an Array", "Amazon"
+  ],
+  "https://leetcode.com/problems/words-within-two-edits-of-dictionary/": [
+    "Words Within Two Edits of Dictionary", "Google", "Facebook"
+  ],
+  "https://leetcode.com/problems/next-greater-element-iv/": [
+    "Next Greater Element IV"
+  ],
+  "https://leetcode.com/problems/destroy-sequential-targets/": [
+    "Destroy Sequential Targets", "Intuit"
+  ],
+  "https://leetcode.com/problems/odd-string-difference/": [
+    "Odd String Difference", "Visa"
+  ],
+  "https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/": [
+    "Number of Subarrays With GCD Equal to K"
+  ],
+  "https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/": [
+    "Height of Binary Tree After Subtree Removal Queries", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/": [
+    "Minimum Addition to Make Integer Beautiful", "Infosys"
+  ],
+  "https://leetcode.com/problems/most-popular-video-creator/": [
+    "Most Popular Video Creator", "Tiktok"
+  ],
+  "https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/": [
+    "Average Value of Even Numbers That Are Divisible by Three", "IBM"
+  ],
+  "https://leetcode.com/problems/sum-of-number-and-its-reverse/": [
+    "Sum of Number and Its Reverse", "Amazon"
+  ],
+  "https://leetcode.com/problems/color-the-triangle-red/": [
+    "Color the Triangle Red"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/": [
+    "Minimum Number of Operations to Make Arrays Similar", "Amazon", "Walmart Labs"
+  ],
+  "https://leetcode.com/problems/minimum-time-to-kill-all-monsters/": [
+    "Minimum Time to Kill All Monsters", "Trilogy"
+  ],
+  "https://leetcode.com/problems/determine-if-two-events-have-conflict/": [
+    "Determine if Two Events Have Conflict", "Google", "Goldman Sachs"
+  ],
+  "https://leetcode.com/problems/count-strictly-increasing-subarrays/": [
+    "Count Strictly Increasing Subarrays", "Bridgewater Associates"
+  ],
+  "https://leetcode.com/problems/bitwise-xor-of-all-pairings/": [
+    "Bitwise XOR of All Pairings", "Trilogy"
+  ],
+  "https://leetcode.com/problems/remove-letter-to-equalize-frequency/": [
+    "Remove Letter To Equalize Frequency", "Bloomberg", "TCS"
+  ],
+  "https://leetcode.com/problems/create-components-with-same-value/": [
+    "Create Components With Same Value", "Sprinklr"
+  ],
+  "https://leetcode.com/problems/minimize-maximum-of-array/": [
+    "Minimize Maximum of Array", "Oracle", "Amazon", "PayTM"
+  ],
+  "https://leetcode.com/problems/range-product-queries-of-powers/": [
+    "Range Product Queries of Powers", "Goldman Sachs"
+  ],
+  "https://leetcode.com/problems/number-of-valid-clock-times/": [
+    "Number of Valid Clock Times", "Google"
+  ],
+  "https://leetcode.com/problems/longest-increasing-subsequence-ii/": [
+    "Longest Increasing Subsequence II", "Apple", "Google"
+  ],
+  "https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/": [
+    "Count Number of Distinct Integers After Reverse Operations", "Google"
+  ],
+  "https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/": [
+    "Largest Positive Integer That Exists With Its Negative", "Microsoft"
+  ],
+  "https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/": [
+    "Median of a Row Wise Sorted Matrix", "DE Shaw"
+  ],
+  "https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/": [
+    "Paths in Matrix Whose Sum Is Divisible by K", "Google"
+  ],
+  "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/": [
+    "Using a Robot to Print the Lexicographically Smallest String", "Amazon"
+  ],
+  "https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/": [
+    "The Employee That Worked on the Longest Task", "Morgan Stanely"
+  ],
+  "https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/": [
+    "Choose Edges to Maximize Score in a Tree", "Sprinklr"
+  ],
+  "https://leetcode.com/problems/number-of-pairs-satisfying-inequality/": [
+    "Number of Pairs Satisfying Inequality", "Google"
+  ],
+  "https://leetcode.com/problems/longest-uploaded-prefix/": [
+    "Longest Uploaded Prefix", "Google"
+  ],
+  "https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/": [
+    "Partition String Into Substrings With Values at Most K"
+  ],
+  "https://leetcode.com/problems/maximum-deletions-on-a-string/": [
+    "Maximum Deletions on a String", "De Shaw"
+  ],
+  "https://leetcode.com/problems/minimize-xor/": [
+    "Minimize XOR", "Adobe"
+  ],
+  "https://leetcode.com/problems/maximum-sum-of-an-hourglass/": [
+    "Maximum Sum of an Hourglass", "Nutanix"
+  ],
+  "https://leetcode.com/problems/number-of-common-factors/": [
+    "Number of Common Factors"
+  ],
+  "https://leetcode.com/problems/minimize-maximum-value-in-a-grid/": [
+    "Minimize Maximum Value in a Grid", "Google"
+  ],
+  "https://leetcode.com/problems/find-all-good-indices/": [
+    "Find All Good Indices", "Bytedance", "Amazon", "TikTok", "Goldman Sachs"
+  ],
+  "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/": [
+    "Longest Subarray With Maximum Bitwise AND", "Siemens", "Fourkites"
+  ],
+  "https://leetcode.com/problems/sort-the-people/": [
+    "Sort the People", "Apple", "Adobe", "Infosys"
+  ],
+  "https://leetcode.com/problems/minimum-costs-using-the-train-line/": [
+    "Minimum Costs Using the Train Line", "Citadel"
+  ],
+  "https://leetcode.com/problems/minimum-money-required-before-transactions/": [
+    "Minimum Money Required Before Transactions", "Amazon"
+  ],
+  "https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/": [
+    "Smallest Subarrays With Maximum Bitwise OR", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-matching-of-players-with-trainers/": [
+    "Maximum Matching of Players With Trainers", "Amazon"
+  ],
+  "https://leetcode.com/problems/count-days-spent-together/": [
+    "Count Days Spent Together"
+  ],
+  "https://leetcode.com/problems/sum-of-prefix-scores-of-strings/": [
+    "Sum of Prefix Scores of Strings", "Google", "Facebook"
+  ],
+  "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/": [
+    "Reverse Odd Levels of Binary Tree", "JPMorgan"
+  ],
+  "https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/": [
+    "Length of the Longest Alphabetical Continuous Substring", "TikTok"
+  ],
+  "https://leetcode.com/problems/smallest-even-multiple/": [
+    "Smallest Even Multiple", "Adobe", "Apple", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-books-you-can-take/": [
+    "Maximum Number of Books You Can Take", "Amazon"
+  ],
+  "https://leetcode.com/problems/sort-array-by-moving-items-to-empty-space/": [
+    "Sort Array by Moving Items to Empty Space", "Google"
+  ],
+  "https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/": [
+    "Divide Intervals Into Minimum Number of Groups", "Amazon", "Adobe", "Walmart Labs"
+  ],
+  "https://leetcode.com/problems/most-frequent-even-element/": [
+    "Most Frequent Even Element"
+  ],
+  "https://leetcode.com/problems/finding-the-number-of-visible-mountains/": [
+    "Finding the Number of Visible Mountains", "Google"
+  ],
+  "https://leetcode.com/problems/task-scheduler-ii/": [
+    "Task Scheduler II", "Facebook", "Remitly"
+  ],
+  "https://leetcode.com/problems/maximum-rows-covered-by-columns/": [
+    "Maximum Rows Covered by Columns", "Apple"
+  ],
+  "https://leetcode.com/problems/strictly-palindromic-number/": [
+    "Strictly Palindromic Number", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-subarrays-with-equal-sum/": [
+    "Find Subarrays With Equal Sum", "Adobe", "Morgan Stanely"
+  ],
+  "https://leetcode.com/problems/meeting-rooms-iii/": [
+    "Meeting Rooms III", "Google", "PayPal", "Amazon", "Tiktok", "Uber"
+  ],
+  "https://leetcode.com/problems/longest-nice-subarray/": [
+    "Longest Nice Subarray", "PayTM"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/": [
+    "Number of Ways to Reach a Position After Exactly k Steps", "Amazon"
+  ],
+  "https://leetcode.com/problems/check-distances-between-same-letters/": [
+    "Check Distances Between Same Letters"
+  ],
+  "https://leetcode.com/problems/largest-palindromic-number/": [
+    "Largest Palindromic Number", "Microsoft", "Smartnews", "Adobe"
+  ],
+  "https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/": [
+    "Minimum Adjacent Swaps to Make a Valid Array", "Amazon"
+  ],
+  "https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/": [
+    "Max Sum of a Pair With Equal Sum of Digits", "Microsoft", "Facebook", "Amazon"
+  ],
+  "https://leetcode.com/problems/build-a-matrix-with-conditions/": [
+    "Build a Matrix With Conditions", "Apple", "Google"
+  ],
+  "https://leetcode.com/problems/removing-stars-from-a-string/": [
+    "Removing Stars From a String", "Amazon"
+  ],
+  "https://leetcode.com/problems/longest-subsequence-with-limited-sum/": [
+    "Longest Subsequence With Limited Sum", "Adobe"
+  ],
+  "https://leetcode.com/problems/valid-palindrome-iv/": [
+    "Valid Palindrome IV", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-segment-sum-after-removals/": [
+    "Maximum Segment Sum After Removals", "Infosys"
+  ],
+  "https://leetcode.com/problems/shifting-letters-ii/": [
+    "Shifting Letters II", "Veritas"
+  ],
+  "https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/": [
+    "Time Needed to Rearrange a Binary String", "PayPal", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/": [
+    "Minimum Recolors to Get K Consecutive Black Blocks", "DailyHunt"
+  ],
+  "https://leetcode.com/problems/find-the-k-sum-of-an-array/": [
+    "Find the K-Sum of an Array", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/": [
+    "Minimum Hours of Training to Win a Competition"
+  ],
+  "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/": [
+    "Find Minimum Time to Finish All Jobs II", "Amazon"
+  ],
+  "https://leetcode.com/problems/count-special-integers/": [
+    "Count Special Integers", "Amazon", "Adobe", "JPMorgan"
+  ],
+  "https://leetcode.com/problems/construct-smallest-number-from-di-string/": [
+    "Construct Smallest Number From DI String", "Goldman Sachs", "Amazon"
+  ],
+  "https://leetcode.com/problems/node-with-highest-edge-score/": [
+    "Node With Highest Edge Score", "Juspay"
+  ],
+  "https://leetcode.com/problems/largest-local-values-in-a-matrix/": [
+    "Largest Local Values in a Matrix", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-robots-within-budget/": [
+    "Maximum Number of Robots Within Budget", "Amazon", "Apple"
+  ],
+  "https://leetcode.com/problems/count-number-of-bad-pairs/": [
+    "Count Number of Bad Pairs", "Google"
+  ],
+  "https://leetcode.com/problems/merge-similar-items/": [
+    "Merge Similar Items", "Google"
+  ],
+  "https://leetcode.com/problems/reachable-nodes-with-restrictions/": [
+    "Reachable Nodes With Restrictions", "MakeMyTrip"
+  ],
+  "https://leetcode.com/problems/longest-ideal-subsequence/": [
+    "Longest Ideal Subsequence", "MakeMyTrip"
+  ],
+  "https://leetcode.com/problems/number-of-arithmetic-triplets/": [
+    "Number of Arithmetic Triplets"
+  ],
+  "https://leetcode.com/problems/longest-cycle-in-a-graph/": [
+    "Longest Cycle in a Graph", "Juspay", "Microsoft", "Whatfix"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/": [
+    "Maximum Number of Groups Entering a Competition"
+  ],
+  "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/": [
+    "Make Array Zero by Subtracting Equal Amounts", "Amazon"
+  ],
+  "https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/": [
+    "Shortest Impossible Sequence of Rolls", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/design-a-number-container-system/": [
+    "Design a Number Container System", "Google"
+  ],
+  "https://leetcode.com/problems/best-poker-hand/": [
+    "Best Poker Hand", "Amazon", "Yahoo"
+  ],
+  "https://leetcode.com/problems/number-of-excellent-pairs/": [
+    "Number of Excellent Pairs", "epiFi"
+  ],
+  "https://leetcode.com/problems/first-letter-to-appear-twice/": [
+    "First Letter to Appear Twice", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-profit-from-trading-stocks/": [
+    "Maximum Profit From Trading Stocks", "Walmart Labs", "Snowflake"
+  ],
+  "https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/": [
+    "Number of People That Can Be Seen in a Grid", "Uber"
+  ],
+  "https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/": [
+    "Minimum Deletions to Make Array Divisible", "LinkedIn"
+  ],
+  "https://leetcode.com/problems/query-kth-smallest-trimmed-number/": [
+    "Query Kth Smallest Trimmed Number", "DE Shaw"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-pairs-in-array/": [
+    "Maximum Number of Pairs in Array", "Amazon", "Altimetrik"
+  ],
+  "https://leetcode.com/problems/closest-node-to-path-in-tree/": [
+    "Closest Node to Path in Tree", "Google"
+  ],
+  "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/": [
+    "Subarray With Elements Greater Than Varying Threshold", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-sum-of-squared-difference/": [
+    "Minimum Sum of Squared Difference", "Uber", "Microsoft", "Amazon"
+  ],
+  "https://leetcode.com/problems/the-latest-time-to-catch-a-bus/": [
+    "The Latest Time to Catch a Bus", "Zoho", "Google"
+  ],
+  "https://leetcode.com/problems/evaluate-boolean-binary-tree/": [
+    "Evaluate Boolean Binary Tree", "Google", "Apple"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-ideal-arrays/": [
+    "Count the Number of Ideal Arrays", "Infosys"
+  ],
+  "https://leetcode.com/problems/move-pieces-to-obtain-a-string/": [
+    "Move Pieces to Obtain a String", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/": [
+    "Minimum Amount of Time to Fill Cups"
+  ],
+  "https://leetcode.com/problems/spiral-matrix-iv/": [
+    "Spiral Matrix IV"
+  ],
+  "https://leetcode.com/problems/number-of-people-aware-of-a-secret/": [
+    "Number of People Aware of a Secret", "Amazon", "Arcesium"
+  ],
+  "https://leetcode.com/problems/decode-the-message/": [
+    "Decode the Message", "Coinbase"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-keypresses/": [
+    "Minimum Number of Keypresses", "Amazon"
+  ],
+  "https://leetcode.com/problems/number-of-distinct-roll-sequences/": [
+    "Number of Distinct Roll Sequences", "ServiceNow"
+  ],
+  "https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/": [
+    "Count Unreachable Pairs of Nodes in an Undirected Graph", "Google", "Commvault", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-xor-after-operations/": [
+    "Maximum XOR After Operations", "American Express"
+  ],
+  "https://leetcode.com/problems/count-asterisks/": [
+    "Count Asterisks", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/": [
+    "Minimum Score After Removals on a Tree", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/": [
+    "Minimum Flips in Binary Tree to Get Result", "Google"
+  ],
+  "https://leetcode.com/problems/check-if-matrix-is-x-matrix/": [
+    "Check if Matrix Is X-Matrix"
+  ],
+  "https://leetcode.com/problems/count-number-of-ways-to-place-houses/": [
+    "Count Number of Ways to Place Houses", "Nagarro"
+  ],
+  "https://leetcode.com/problems/design-video-sharing-platform/": [
+    "Design Video Sharing Platform", "Google"
+  ],
+  "https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/": [
+    "Longest Binary Subsequence Less Than or Equal to K", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/count-subarrays-with-score-less-than-k/": [
+    "Count Subarrays With Score Less Than K", "Pinterest", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/match-substring-after-replacement/": [
+    "Match Substring After Replacement", "Discord"
+  ],
+  "https://leetcode.com/problems/successful-pairs-of-spells-and-potions/": [
+    "Successful Pairs of Spells and Potions", "Goldman Sachs"
+  ],
+  "https://leetcode.com/problems/strong-password-checker-ii/": [
+    "Strong Password Checker II"
+  ],
+  "https://leetcode.com/problems/design-a-text-editor/": [
+    "Design a Text Editor", "Salesforce", "Square", "Dropbox", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/replace-elements-in-an-array/": [
+    "Replace Elements in an Array", "Amazon"
+  ],
+  "https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/": [
+    "Partition Array Such That Maximum Difference Is K", "Amazon"
+  ],
+  "https://leetcode.com/problems/min-max-game/": [
+    "Min Max Game"
+  ],
+  "https://leetcode.com/problems/count-positions-on-street-with-required-brightness/": [
+    "Count Positions on Street With Required Brightness", "Google"
+  ],
+  "https://leetcode.com/problems/root-equals-sum-of-children/": [
+    "Root Equals Sum of Children", "Amazon", "Microsoft", "Apple"
+  ],
+  "https://leetcode.com/problems/add-two-integers/": [
+    "Add Two Integers", "Amazon", "Google", "Apple", "Adobe", "Jane Street", "Facebook", "Microsoft", "Uber", "Bloomberg", "Yahoo"
+  ],
+  "https://leetcode.com/problems/booking-concert-tickets-in-groups/": [
+    "Booking Concert Tickets in Groups", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-total-importance-of-roads/": [
+    "Maximum Total Importance of Roads", "HRT"
+  ],
+  "https://leetcode.com/problems/sender-with-largest-word-count/": [
+    "Sender With Largest Word Count", "Google"
+  ],
+  "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/": [
+    "Check if Number Has Equal Digit Count and Digit Value", "Google", "JPMorgan"
+  ],
+  "https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/": [
+    "Minimum Obstacle Removal to Reach Corner", "Google"
+  ],
+  "https://leetcode.com/problems/steps-to-make-array-non-decreasing/": [
+    "Steps to Make Array Non-decreasing", "Facebook", "Amazon"
+  ],
+  "https://leetcode.com/problems/apply-discount-to-prices/": [
+    "Apply Discount to Prices", "Amazon"
+  ],
+  "https://leetcode.com/problems/rearrange-characters-to-make-target-string/": [
+    "Rearrange Characters to Make Target String", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-sum-score-of-array/": [
+    "Maximum Sum Score of Array", "Amazon"
+  ],
+  "https://leetcode.com/problems/sum-of-total-strength-of-wizards/": [
+    "Sum of Total Strength of Wizards", "Amazon", "Apple"
+  ],
+  "https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/": [
+    "Minimum Lines to Represent a Line Chart", "Google"
+  ],
+  "https://leetcode.com/problems/percentage-of-letter-in-string/": [
+    "Percentage of Letter in String", "American Express"
+  ],
+  "https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/": [
+    "Maximum Trailing Zeros in a Cornered Path"
+  ],
+  "https://leetcode.com/problems/substring-with-largest-variance/": [
+    "Substring With Largest Variance", "Amazon", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/": [
+    "Maximum White Tiles Covered by a Carpet", "Google"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-split-array/": [
+    "Number of Ways to Split Array", "Amazon"
+  ],
+  "https://leetcode.com/problems/count-integers-in-intervals/": [
+    "Count Integers in Intervals", "Databricks", "Google", "Roblox", "LinkedIn", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/": [
+    "Largest Combination With Bitwise AND Greater Than Zero", "Adobe", "Jump Trading", "Hudson River Trading"
+  ],
+  "https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/": [
+    "Maximum Consecutive Floors Without Special Floors", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-score-of-a-node-sequence/": [
+    "Maximum Score of a Node Sequence", "Google"
+  ],
+  "https://leetcode.com/problems/design-an-atm-machine/": [
+    "Design an ATM Machine", "Yandex", "Google"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/": [
+    "Number of Ways to Buy Pens and Pencils", "Reddit"
+  ],
+  "https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/": [
+    "Check if There Is a Valid Parentheses String Path", "Google"
+  ],
+  "https://leetcode.com/problems/count-number-of-texts/": [
+    "Count Number of Texts", "Amazon", "Goldman Sachs"
+  ],
+  "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/": [
+    "Count Nodes Equal to Average of Subtree", "Google", "Facebook", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/": [
+    "Minimum Number of Operations to Convert Time", "Google"
+  ],
+  "https://leetcode.com/problems/escape-the-spreading-fire/": [
+    "Escape the Spreading Fire", "Google", "Amazon", "PhonePe", "Uber"
+  ],
+  "https://leetcode.com/problems/count-unguarded-cells-in-the-grid/": [
+    "Count Unguarded Cells in the Grid", "Poshmark", "Hudson River Trading"
+  ],
+  "https://leetcode.com/problems/total-appeal-of-a-string/": [
+    "Total Appeal of A String", "Amazon"
+  ],
+  "https://leetcode.com/problems/k-divisible-elements-subarrays/": [
+    "K Divisible Elements Subarrays", "Amazon", "Uber"
+  ],
+  "https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/": [
+    "Count Number of Rectangles Containing Each Point", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/count-lattice-points-inside-a-circle/": [
+    "Count Lattice Points Inside a Circle", "Google", "Rubrik"
+  ],
+  "https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/": [
+    "Maximum Total Beauty of the Gardens", "Amazon", "Intuit"
+  ],
+  "https://leetcode.com/problems/maximum-product-after-k-increments/": [
+    "Maximum Product After K Increments", "Infosys"
+  ],
+  "https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/": [
+    "Minimize Result by Adding Parentheses to Expression", "Pinterest"
+  ],
+  "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/": [
+    "Largest Number After Digit Swaps by Parity", "ZScaler"
+  ],
+  "https://leetcode.com/problems/sum-of-scores-of-built-strings/": [
+    "Sum of Scores of Built Strings", "Amazon"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-select-buildings/": [
+    "Number of Ways to Select Buildings", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-triangular-sum-of-an-array/": [
+    "Find Triangular Sum of an Array", "Amazon"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/": [
+    "Number of Ways to Build Sturdy Brick Wall", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/": [
+    "Minimum Weighted Subgraph With the Required Paths", "Google"
+  ],
+  "https://leetcode.com/problems/longest-substring-of-one-repeating-character/": [
+    "Longest Substring of One Repeating Character", "Pickrr"
+  ],
+  "https://leetcode.com/problems/maximum-points-in-an-archery-competition/": [
+    "Maximum Points in an Archery Competition", "Kakao"
+  ],
+  "https://leetcode.com/problems/count-collisions-on-a-road/": [
+    "Count Collisions on a Road", "Arcesium"
+  ],
+  "https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/": [
+    "Remove All Ones With Row and Column Flips II", "LinkedIn", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/": [
+    "Minimum White Tiles After Covering With Carpets", "Google"
+  ],
+  "https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/": [
+    "Maximize Number of Subsequences in a String", "Amazon"
+  ],
+  "https://leetcode.com/problems/replace-non-coprime-numbers-in-array/": [
+    "Replace Non-Coprime Numbers in Array", "Amazon"
+  ],
+  "https://leetcode.com/problems/create-binary-tree-from-descriptions/": [
+    "Create Binary Tree From Descriptions", "Google", "Uber", "LinkedIn", "Clari"
+  ],
+  "https://leetcode.com/problems/append-k-integers-with-minimal-sum/": [
+    "Append K Integers With Minimal Sum", "Amazon"
+  ],
+  "https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/": [
+    "Cells in a Range on an Excel Sheet", "Amazon"
+  ],
+  "https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/": [
+    "Unique Substrings With Equal Digit Frequency", "Expedia"
+  ],
+  "https://leetcode.com/problems/count-array-pairs-divisible-by-k/": [
+    "Count Array Pairs Divisible by K", "Amazon", "PayPal"
+  ],
+  "https://leetcode.com/problems/amount-of-new-area-painted-each-day/": [
+    "Amount of New Area Painted Each Day", "Tiktok", "Uber", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-time-to-finish-the-race/": [
+    "Minimum Time to Finish the Race", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-time-to-complete-trips/": [
+    "Minimum Time to Complete Trips", "Amadeus", "Uber", "Google", "Amazon", "Apple"
+  ],
+  "https://leetcode.com/problems/maximum-and-sum-of-array/": [
+    "Maximum AND Sum of Array", "Google"
+  ],
+  "https://leetcode.com/problems/removing-minimum-number-of-magic-beans/": [
+    "Removing Minimum Number of Magic Beans", "Microsoft", "Google", "DE Shaw"
+  ],
+  "https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/": [
+    "Minimum Operations to Make the Array Alternating"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/": [
+    "Minimum Number of Lines to Cover Points", "Morgan Stanely"
+  ],
+  "https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/": [
+    "Minimum Time to Remove All Cars Containing Illegal Goods", "Google"
+  ],
+  "https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range/": [
+    "Choose Numbers From Two Arrays in Range", "Adobe"
+  ],
+  "https://leetcode.com/problems/count-good-triplets-in-an-array/": [
+    "Count Good Triplets in an Array", "Walmart Labs"
+  ],
+  "https://leetcode.com/problems/maximum-split-of-positive-even-integers/": [
+    "Maximum Split of Positive Even Integers", "Google"
+  ],
+  "https://leetcode.com/problems/groups-of-strings/": [
+    "Groups of Strings", "Lowe"
+  ],
+  "https://leetcode.com/problems/find-substring-with-given-hash-value/": [
+    "Find Substring With Given Hash Value"
+  ],
+  "https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal/": [
+    "Pour Water Between Buckets to Make Water Levels Equal", "Deutsche Bank"
+  ],
+  "https://leetcode.com/problems/maximum-good-people-based-on-statements/": [
+    "Maximum Good People Based on Statements", "TuSimple"
+  ],
+  "https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/": [
+    "Count Elements With Strictly Smaller and Greater Elements"
+  ],
+  "https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/": [
+    "Remove All Ones With Row and Column Flips", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/": [
+    "Minimum Difference in Sums After Removal of Elements", "Amazon", "Uber"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-set-cooking-time/": [
+    "Minimum Cost to Set Cooking Time", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix/": [
+    "Minimum Operations to Remove Adjacent Ones in Matrix", "Amazon"
+  ],
+  "https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements/": [
+    "Elements in Array After Removing and Replacing Elements"
+  ],
+  "https://leetcode.com/problems/earliest-possible-day-of-full-bloom/": [
+    "Earliest Possible Day of Full Bloom", "Visa"
+  ],
+  "https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/": [
+    "Count Words Obtained After Adding a Letter", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/": [
+    "K Highest Ranked Items Within a Price Range", "Booking.Com"
+  ],
+  "https://leetcode.com/problems/count-the-hidden-sequences/": [
+    "Count the Hidden Sequences", "Amazon", "Tiktok"
+  ],
+  "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/": [
+    "Minimum Cost of Buying Candies With Discount"
+  ],
+  "https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies/": [
+    "Number of Unique Flavors After Sharing K Candies", "Microsoft"
+  ],
+  "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/": [
+    "Maximum Employees to Be Invited to a Meeting", "Barclays", "Uber", "SAP", "Google", "Bloomberg", "Microsoft"
+  ],
+  "https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum/": [
+    "Subsequence of Size K With the Largest Even Sum", "Microsoft", "RetailMeNot", "DRW"
+  ],
+  "https://leetcode.com/problems/recover-the-original-array/": [
+    "Recover the Original Array", "Google"
+  ],
+  "https://leetcode.com/problems/intervals-between-identical-elements/": [
+    "Intervals Between Identical Elements", "TuSimple", "Wayve"
+  ],
+  "https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/": [
+    "Execution of All Suffix Instructions Staying in a Grid"
+  ],
+  "https://leetcode.com/problems/a-number-after-a-double-reversal/": [
+    "A Number After a Double Reversal"
+  ],
+  "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/": [
+    "Longest Palindrome by Concatenating Two Letter Words", "Google", "Apple", "Amazon", "Databricks"
+  ],
+  "https://leetcode.com/problems/capitalize-the-title/": [
+    "Capitalize the Title"
+  ],
+  "https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/": [
+    "Minimum Operations to Make the Array K-Increasing", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-first-palindromic-string-in-the-array/": [
+    "Find First Palindromic String in the Array", "Amazon", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/": [
+    "Minimum Cost to Reach City With Discounts", "Flipkart"
+  ],
+  "https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/": [
+    "Maximum Fruits Harvested After at Most K Steps", "Deutsche Bank", "MishiPay"
+  ],
+  "https://leetcode.com/problems/watering-plants-ii/": [
+    "Watering Plants II", "Google"
+  ],
+  "https://leetcode.com/problems/sum-of-subarray-ranges/": [
+    "Sum of Subarray Ranges", "JPMorgan", "Amazon", "Apple"
+  ],
+  "https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/": [
+    "Substrings That Begin and End With the Same Letter"
+  ],
+  "https://leetcode.com/problems/abbreviating-the-product-of-a-range/": [
+    "Abbreviating the Product of a Range", "Avalara"
+  ],
+  "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/": [
+    "Find All Possible Recipes from Given Supplies", "TikTok", "Google", "Amazon", "Uber", "Microsoft", "Sprinklr"
+  ],
+  "https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/": [
+    "Paths in Maze That Lead to Same Room", "Google"
+  ],
+  "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/": [
+    "Step-By-Step Directions From a Binary Tree Node to Another", "Tiktok", "Databricks", "Spotify", "Google", "Amazon", "Microsoft"
+  ],
+  "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/": [
+    "Delete the Middle Node of a Linked List", "Adobe", "Amazon"
+  ],
+  "https://leetcode.com/problems/finding-3-digit-even-numbers/": [
+    "Finding 3-Digit Even Numbers"
+  ],
+  "https://leetcode.com/problems/find-all-people-with-secret/": [
+    "Find All People With Secret", "Adobe", "Amazon", "Google", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/removing-minimum-and-maximum-from-array/": [
+    "Removing Minimum and Maximum From Array", "Google"
+  ],
+  "https://leetcode.com/problems/number-of-equal-count-substrings/": [
+    "Number of Equal Count Substrings", "Cisco"
+  ],
+  "https://leetcode.com/problems/sequentially-ordinal-rank-tracker/": [
+    "Sequentially Ordinal Rank Tracker", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-good-days-to-rob-the-bank/": [
+    "Find Good Days to Rob the Bank", "Amazon", "Apple"
+  ],
+  "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/": [
+    "Number of Spaces Cleaning Robot Cleaned"
+  ],
+  "https://leetcode.com/problems/sum-of-k-mirror-numbers/": [
+    "Sum of k-Mirror Numbers", "Cisco"
+  ],
+  "https://leetcode.com/problems/valid-arrangement-of-pairs/": [
+    "Valid Arrangement of Pairs", "Goldman Sachs"
+  ],
+  "https://leetcode.com/problems/stamping-the-grid/": [
+    "Stamping the Grid", "Rubrik", "Google"
+  ],
+  "https://leetcode.com/problems/count-fertile-pyramids-in-a-land/": [
+    "Count Fertile Pyramids in a Land", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/": [
+    "Minimum Cost Homecoming of a Robot in a Grid", "Amazon", "Groupon", "Goldman Sachs"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/": [
+    "Minimum Number of Food Buckets to Feed the Hamsters", "Sprinklr", "Microsoft", "Grab"
+  ],
+  "https://leetcode.com/problems/maximum-path-quality-of-a-graph/": [
+    "Maximum Path Quality of a Graph", "Atlassian", "DoorDash", "SAP"
+  ],
+  "https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/": [
+    "Minimized Maximum of Products Distributed to Any Store", "Amazon", "Siemens"
+  ],
+  "https://leetcode.com/problems/vowels-of-all-substrings/": [
+    "Vowels of All Substrings", "ServiceNow"
+  ],
+  "https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/": [
+    "Check if an Original String Exists Given Two Encoded Strings", "Facebook", "BitGo"
+  ],
+  "https://leetcode.com/problems/minimum-operations-to-convert-number/": [
+    "Minimum Operations to Convert Number", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/": [
+    "Maximum Number of Tasks You Can Assign", "Sabre", "Walmart Labs"
+  ],
+  "https://leetcode.com/problems/walking-robot-simulation-ii/": [
+    "Walking Robot Simulation II", "Square"
+  ],
+  "https://leetcode.com/problems/count-nodes-with-the-highest-score/": [
+    "Count Nodes With the Highest Score", "DoorDash", "Amazon", "Visa"
+  ],
+  "https://leetcode.com/problems/second-minimum-time-to-reach-destination/": [
+    "Second Minimum Time to Reach Destination"
+  ],
+  "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/": [
+    "Count Number of Maximum Bitwise-OR Subsets"
+  ],
+  "https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/": [
+    "Number of Valid Move Combinations On Chessboard", "PayPal"
+  ],
+  "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/": [
+    "Partition Array Into Two Arrays to Minimize Sum Difference", "Google", "Adobe", "Amazon", "Uber", "Samsung", "Bloomberg", "Salesforce", "Microsoft", "Infosys", "PhonePe", "Apple"
+  ],
+  "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/": [
+    "Smallest K-Length Subsequence With Occurrences of a Letter", "Deutsche Bank"
+  ],
+  "https://leetcode.com/problems/stone-game-ix/": [
+    "Stone Game IX", "Samsung"
+  ],
+  "https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree/": [
+    "Subtree Removal Game with Fibonacci Tree", "Sony"
+  ],
+  "https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/": [
+    "Kth Smallest Product of Two Sorted Arrays", "LinkedIn"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/": [
+    "Minimum Number of Moves to Seat Everyone", "Adobe"
+  ],
+  "https://leetcode.com/problems/the-score-of-students-solving-math-expression/": [
+    "The Score of Students Solving Math Expression", "Flipkart"
+  ],
+  "https://leetcode.com/problems/average-height-of-buildings-in-each-segment/": [
+    "Average Height of Buildings in Each Segment", "Microsoft"
+  ],
+  "https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits/": [
+    "Smallest Greater Multiple Made of Two Digits", "PayPal"
+  ],
+  "https://leetcode.com/problems/longest-subsequence-repeated-k-times/": [
+    "Longest Subsequence Repeated k Times", "Facebook"
+  ],
+  "https://leetcode.com/problems/detect-squares/": [
+    "Detect Squares", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/": [
+    "Final Value of Variable After Performing Operations", "Bloomberg", "Apple"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/": [
+    "Maximum Number of Ways to Partition an Array", "Google"
+  ],
+  "https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/": [
+    "Smallest Missing Genetic Value in Each Subtree", "Codenation"
+  ],
+  "https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/": [
+    "Maximum Product of the Length of Two Palindromic Subsequences", "Snowflake", "Microsoft", "Ascend"
+  ],
+  "https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/": [
+    "Number of Pairs of Interchangeable Rectangles"
+  ],
+  "https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants/": [
+    "Count Nodes Equal to Sum of Descendants", "Facebook"
+  ],
+  "https://leetcode.com/problems/gcd-sort-of-an-array/": [
+    "GCD Sort of an Array", "Amazon"
+  ],
+  "https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/": [
+    "First Day Where You Have Been in All the Rooms", "Bytedance"
+  ],
+  "https://leetcode.com/problems/count-special-quadruplets/": [
+    "Count Special Quadruplets"
+  ],
+  "https://leetcode.com/problems/maximum-earnings-from-taxi/": [
+    "Maximum Earnings From Taxi", "Slice", "Apple", "Myntra"
+  ],
+  "https://leetcode.com/problems/number-of-unique-good-subsequences/": [
+    "Number of Unique Good Subsequences", "Oracle", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/": [
+    "Minimum Number of Work Sessions to Finish the Tasks", "Google", "Microsoft", "Qualcomm", "Walmart Labs"
+  ],
+  "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/": [
+    "Minimum Difference Between Highest and Lowest of K Scores"
+  ],
+  "https://leetcode.com/problems/find-array-given-subset-sums/": [
+    "Find Array Given Subset Sums", "Mindtickle"
+  ],
+  "https://leetcode.com/problems/the-number-of-good-subsets/": [
+    "The Number of Good Subsets", "Media.Net", "Lowe"
+  ],
+  "https://leetcode.com/problems/operations-on-tree/": [
+    "Operations on Tree", "Juspay", "Google"
+  ],
+  "https://leetcode.com/problems/last-day-where-you-can-still-cross/": [
+    "Last Day Where You Can Still Cross", "Apple", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/": [
+    "Minimum Non-Zero Product of the Array Elements", "PayPal"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/": [
+    "Minimum Number of Swaps to Make the String Balanced", "Facebook", "Expedia", "Twilio", "Apple"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-separate-numbers/": [
+    "Number of Ways to Separate Numbers", "Media.Net", "Walmart Labs"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/": [
+    "Number of Ways to Arrive at Destination", "Bloomberg", "Facebook"
+  ],
+  "https://leetcode.com/problems/maximum-matrix-sum/": [
+    "Maximum Matrix Sum"
+  ],
+  "https://leetcode.com/problems/count-number-of-special-subsequences/": [
+    "Count Number of Special Subsequences", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/": [
+    "Maximum Number of Weeks for Which You Can Work", "SAP", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows/": [
+    "Minimum Cost to Separate Sentence Into Rows", "Microsoft"
+  ],
+  "https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/": [
+    "Minimum Total Space Wasted With K Resizing Operations", "Media.Net"
+  ],
+  "https://leetcode.com/problems/check-if-move-is-legal/": [
+    "Check if Move is Legal", "Amazon"
+  ],
+  "https://leetcode.com/problems/delete-duplicate-folders-in-system/": [
+    "Delete Duplicate Folders in System", "Google", "Booking.com"
+  ],
+  "https://leetcode.com/problems/maximum-compatibility-score-sum/": [
+    "Maximum Compatibility Score Sum", "Facebook"
+  ],
+  "https://leetcode.com/problems/largest-number-after-mutating-substring/": [
+    "Largest Number After Mutating Substring", "Infosys"
+  ],
+  "https://leetcode.com/problems/brightest-position-on-street/": [
+    "Brightest Position on Street", "Robinhood"
+  ],
+  "https://leetcode.com/problems/erect-the-fence-ii/": [
+    "Erect the Fence II", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/": [
+    "Minimum Time For K Virus Variants to Spread"
+  ],
+  "https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/": [
+    "Maximum of Minimum Values in All Subarrays", "Amazon"
+  ],
+  "https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/": [
+    "Longest Common Subsequence Between Sorted Arrays", "Google"
+  ],
+  "https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/": [
+    "Check if String Is Decomposable Into Value-Equal Substrings"
+  ],
+  "https://leetcode.com/problems/kth-smallest-subarray-sum/": [
+    "Kth Smallest Subarray Sum", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-genetic-difference-query/": [
+    "Maximum Genetic Difference Query", "Media.Net"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-points-with-cost/": [
+    "Maximum Number of Points with Cost", "Google"
+  ],
+  "https://leetcode.com/problems/add-minimum-number-of-rungs/": [
+    "Add Minimum Number of Rungs"
+  ],
+  "https://leetcode.com/problems/check-for-contradictions-in-equations/": [
+    "Check for Contradictions in Equations", "Amazon", "Uber"
+  ],
+  "https://leetcode.com/problems/game-of-nim/": [
+    "Game of Nim"
+  ],
+  "https://leetcode.com/problems/painting-a-grid-with-three-different-colors/": [
+    "Painting a Grid With Three Different Colors", "Google"
+  ],
+  "https://leetcode.com/problems/merge-bsts-to-create-single-bst/": [
+    "Merge BSTs to Create Single BST"
+  ],
+  "https://leetcode.com/problems/unique-length-3-palindromic-subsequences/": [
+    "Unique Length-3 Palindromic Subsequences", "Google", "Adobe"
+  ],
+  "https://leetcode.com/problems/jump-game-viii/": [
+    "Jump Game VIII", "Amazon"
+  ],
+  "https://leetcode.com/problems/describe-the-painting/": [
+    "Describe the Painting", "Google"
+  ],
+  "https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/": [
+    "The Number of the Smallest Unoccupied Chair", "Amazon"
+  ],
+  "https://leetcode.com/problems/depth-of-bst-given-insertion-order/": [
+    "Depth of BST Given Insertion Order"
+  ],
+  "https://leetcode.com/problems/longest-common-subpath/": [
+    "Longest Common Subpath", "Amazon"
+  ],
+  "https://leetcode.com/problems/count-good-numbers/": [
+    "Count Good Numbers", "Uber", "Google"
+  ],
+  "https://leetcode.com/problems/find-a-peak-element-ii/": [
+    "Find a Peak Element II", "Tiktok", "Facebook", "Google", "Amazon", "Xing"
+  ],
+  "https://leetcode.com/problems/number-of-wonderful-substrings/": [
+    "Number of Wonderful Substrings", "DE Shaw", "Google"
+  ],
+  "https://leetcode.com/problems/cyclically-rotating-a-grid/": [
+    "Cyclically Rotating a Grid"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/": [
+    "Minimum Cost to Reach Destination in Time", "Facebook"
+  ],
+  "https://leetcode.com/problems/sum-game/": [
+    "Sum Game", "Bytedance", "DE Shaw"
+  ],
+  "https://leetcode.com/problems/count-pairs-in-two-arrays/": [
+    "Count Pairs in Two Arrays", "Google", "Shopee"
+  ],
+  "https://leetcode.com/problems/count-sub-islands/": [
+    "Count Sub Islands", "DoorDash", "Twitter"
+  ],
+  "https://leetcode.com/problems/minimum-absolute-difference-queries/": [
+    "Minimum Absolute Difference Queries", "Google"
+  ],
+  "https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/": [
+    "Egg Drop With 2 Eggs and N Floors", "Amazon", "Microsoft"
+  ],
+  "https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/": [
+    "The Earliest and Latest Rounds Where Players Compete", "Apple", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-removable-characters/": [
+    "Maximum Number of Removable Characters", "Alphonso"
+  ],
+  "https://leetcode.com/problems/merge-triplets-to-form-target-triplet/": [
+    "Merge Triplets to Form Target Triplet", "Google"
+  ],
+  "https://leetcode.com/problems/design-movie-rental-system/": [
+    "Design Movie Rental System", "Flipkart"
+  ],
+  "https://leetcode.com/problems/maximum-alternating-subsequence-sum/": [
+    "Maximum Alternating Subsequence Sum", "Quince"
+  ],
+  "https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/": [
+    "Product of Two Run-Length Encoded Arrays", "Facebook", "Twitter"
+  ],
+  "https://leetcode.com/problems/minimum-space-wasted-from-packaging/": [
+    "Minimum Space Wasted From Packaging", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/": [
+    "Minimum Number of Flips to Make the Binary String Alternating", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/": [
+    "Minimum Skips to Arrive at Meeting On Time", "Google"
+  ],
+  "https://leetcode.com/problems/process-tasks-using-servers/": [
+    "Process Tasks Using Servers", "PayPal", "Google", "Amazon", "Lyft", "Twitter"
+  ],
+  "https://leetcode.com/problems/maximum-value-after-insertion/": [
+    "Maximum Value after Insertion"
+  ],
+  "https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/": [
+    "Check if Word Equals Summation of Two Words"
+  ],
+  "https://leetcode.com/problems/longest-word-with-all-prefixes/": [
+    "Longest Word With All Prefixes", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/": [
+    "Minimum Cost to Change the Final Value of Expression", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/": [
+    "Maximum Cost of Trip With K Highways"
+  ],
+  "https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/": [
+    "Find the Student that Will Replace the Chalk"
+  ],
+  "https://leetcode.com/problems/distinct-numbers-in-each-subarray/": [
+    "Distinct Numbers in Each Subarray", "Amazon"
+  ],
+  "https://leetcode.com/problems/stone-game-viii/": [
+    "Stone Game VIII", "Infosys"
+  ],
+  "https://leetcode.com/problems/jump-game-vii/": [
+    "Jump Game VII", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/next-palindrome-using-same-digits/": [
+    "Next Palindrome Using Same Digits", "Uber", "Amazon"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/": [
+    "Number of Ways to Rearrange Sticks With K Sticks Visible", "Google"
+  ],
+  "https://leetcode.com/problems/finding-pairs-with-a-certain-sum/": [
+    "Finding Pairs With a Certain Sum", "Quora"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/": [
+    "Minimum Number of Swaps to Make the Binary String Alternating", "Amazon", "Societe Generale"
+  ],
+  "https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/": [
+    "Sort Linked List Already Sorted Using Absolute Values"
+  ],
+  "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/": [
+    "Get Biggest Three Rhombus Sums in a Grid", "Capital One", "Quora"
+  ],
+  "https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/": [
+    "Minimum XOR Sum of Two Arrays", "Media.Net"
+  ],
+  "https://leetcode.com/problems/maximum-subarray-min-product/": [
+    "Maximum Subarray Min-Product", "Amazon", "Uber"
+  ],
+  "https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/": [
+    "Maximum Distance Between a Pair of Values", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-people-that-can-be-caught-in-tag/": [
+    "Maximum Number of People That Can Be Caught in Tag"
+  ],
+  "https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/": [
+    "Minimum Adjacent Swaps to Reach the Kth Smallest Number", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-interval-to-include-each-query/": [
+    "Minimum Interval to Include Each Query", "Google"
+  ],
+  "https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/": [
+    "Splitting a String Into Descending Consecutive Values"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-accepted-invitations/": [
+    "Maximum Number of Accepted Invitations", "Google", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/maximum-building-height/": [
+    "Maximum Building Height", "Dataminr"
+  ],
+  "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/": [
+    "Longest Substring Of All Vowels in Order", "Thomson Reuters"
+  ],
+  "https://leetcode.com/problems/sum-of-digits-in-base-k/": [
+    "Sum of Digits in Base K"
+  ],
+  "https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/": [
+    "Find XOR Sum of All Pairs Bitwise AND", "Mobisy"
+  ],
+  "https://leetcode.com/problems/maximum-ice-cream-bars/": [
+    "Maximum Ice Cream Bars", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/": [
+    "Minimum Path Cost in a Hidden Grid", "Google", "Facebook"
+  ],
+  "https://leetcode.com/problems/closest-room/": [
+    "Closest Room", "Amazon"
+  ],
+  "https://leetcode.com/problems/finding-mk-average/": [
+    "Finding MK Average", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-sideway-jumps/": [
+    "Minimum Sideway Jumps", "Bytedance", "Pony.ai"
+  ],
+  "https://leetcode.com/problems/number-of-different-subsequences-gcds/": [
+    "Number of Different Subsequences GCDs", "Akuna Capital"
+  ],
+  "https://leetcode.com/problems/minimum-absolute-sum-difference/": [
+    "Minimum Absolute Sum Difference", "Uber"
+  ],
+  "https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference/": [
+    "Count Pairs of Equal Substrings With Minimum Difference", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/": [
+    "Minimum Number of Operations to Make String Sorted", "Samsung"
+  ],
+  "https://leetcode.com/problems/maximize-the-beauty-of-the-garden/": [
+    "Maximize the Beauty of the Garden", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximize-number-of-nice-divisors/": [
+    "Maximize Number of Nice Divisors", "Microsoft"
+  ],
+  "https://leetcode.com/problems/shortest-path-in-a-hidden-grid/": [
+    "Shortest Path in a Hidden Grid", "Facebook"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/": [
+    "Maximum Number of Consecutive Values You Can Make", "Infosys"
+  ],
+  "https://leetcode.com/problems/number-of-orders-in-the-backlog/": [
+    "Number of Orders in the Backlog", "Robinhood"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/": [
+    "Maximum Number of Groups Getting Fresh Donuts", "Google"
+  ],
+  "https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/": [
+    "Make the XOR of All Segments Equal to Zero", "Media.Net", "Codeagon"
+  ],
+  "https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/": [
+    "Number of Restricted Paths From First to Last Node", "Google"
+  ],
+  "https://leetcode.com/problems/buildings-with-an-ocean-view/": [
+    "Buildings With an Ocean View", "Facebook", "Microsoft", "Amazon", "Tiktok", "Uber", "Zillow"
+  ],
+  "https://leetcode.com/problems/count-pairs-with-xor-in-a-range/": [
+    "Count Pairs With XOR in a Range", "Google", "Vimeo"
+  ],
+  "https://leetcode.com/problems/car-fleet-ii/": [
+    "Car Fleet II", "Google"
+  ],
+  "https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/": [
+    "Maximize Palindrome Length From Subsequences", "Goldman Sachs"
+  ],
+  "https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/": [
+    "Maximum Score from Performing Multiplication Operations", "Google", "Apple"
+  ],
+  "https://leetcode.com/problems/count-pairs-of-nodes/": [
+    "Count Pairs Of Nodes", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/": [
+    "Minimum Degree of a Connected Trio in a Graph", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/": [
+    "Minimum Limit of Balls in a Bag", "Flipkart", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-distance-in-a-binary-tree/": [
+    "Find Distance in a Binary Tree", "Facebook", "Google", "Amazon", "Microsoft", "Oracle", "Uber"
+  ],
+  "https://leetcode.com/problems/closest-subsequence-sum/": [
+    "Closest Subsequence Sum", "Uber", "Sprinklr"
+  ],
+  "https://leetcode.com/problems/tree-of-coprimes/": [
+    "Tree of Coprimes", "Google"
+  ],
+  "https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/": [
+    "Can You Eat Your Favorite Candy on Your Favorite Day?", "FleetX"
+  ],
+  "https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/": [
+    "Checking Existence of Edge Length Limited Paths II", "Google"
+  ],
+  "https://leetcode.com/problems/building-boxes/": [
+    "Building Boxes", "Codenation"
+  ],
+  "https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/": [
+    "Find Kth Largest XOR Coordinate Value", "Google"
+  ],
+  "https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/": [
+    "Change Minimum Characters to Satisfy One of Three Conditions", "Google"
+  ],
+  "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/": [
+    "Minimize Hamming Distance After Swap Operations", "Google"
+  ],
+  "https://leetcode.com/problems/decode-xored-array/": [
+    "Decode XORed Array", "Google"
+  ],
+  "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/": [
+    "Number of Distinct Substrings in a String", "ServiceNow", "Bloomberg", "Intuit", "Dunzo"
+  ],
+  "https://leetcode.com/problems/count-ways-to-make-array-with-product/": [
+    "Count Ways to Make Array With Product", "Amazon"
+  ],
+  "https://leetcode.com/problems/decode-xored-permutation/": [
+    "Decode XORed Permutation", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/": [
+    "Minimum Operations to Make a Subsequence", "Google"
+  ],
+  "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/": [
+    "Ways to Split Array Into Three Subarrays", "Microsoft", "Robinhood"
+  ],
+  "https://leetcode.com/problems/count-ways-to-distribute-candies/": [
+    "Count Ways to Distribute Candies", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/": [
+    "Maximum XOR With an Element From Array", "Google"
+  ],
+  "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/": [
+    "Find Minimum Time to Finish All Jobs", "PhonePe", "Amazon", "Adobe"
+  ],
+  "https://leetcode.com/problems/longest-palindromic-subsequence-ii/": [
+    "Longest Palindromic Subsequence II", "Codenation"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/": [
+    "Number Of Ways To Reconstruct A Tree", "Uber"
+  ],
+  "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/": [
+    "Lowest Common Ancestor of a Binary Tree IV", "Amazon"
+  ],
+  "https://leetcode.com/problems/jump-game-vi/": [
+    "Jump Game VI", "Amazon", "Google", "Apple", "Mathworks", "AQR Capital Management LLC"
+  ],
+  "https://leetcode.com/problems/change-the-root-of-a-binary-tree/": [
+    "Change the Root of a Binary Tree", "Google"
+  ],
+  "https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/": [
+    "Sum Of Special Evenly-Spaced Elements In Array", "MakeMyTrip", "Sprinklr"
+  ],
+  "https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/": [
+    "Minimum Adjacent Swaps for K Consecutive Ones", "Flipkart", "Google", "Microsoft"
+  ],
+  "https://leetcode.com/problems/maximum-binary-string-after-change/": [
+    "Maximum Binary String After Change", "Huawei"
+  ],
+  "https://leetcode.com/problems/average-waiting-time/": [
+    "Average Waiting Time", "Salesforce"
+  ],
+  "https://leetcode.com/problems/minimum-incompatibility/": [
+    "Minimum Incompatibility", "Microsoft"
+  ],
+  "https://leetcode.com/problems/correct-a-binary-tree/": [
+    "Correct a Binary Tree", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-moves-to-make-array-complementary/": [
+    "Minimum Moves to Make Array Complementary", "CureFit"
+  ],
+  "https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/": [
+    "Delivering Boxes from Storage to Ports", "Nutanix"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-consistent-strings/": [
+    "Count the Number of Consistent Strings", "Amazon", "Robinhood"
+  ],
+  "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/": [
+    "Minimum Initial Energy to Finish Tasks", "Akuna Capital"
+  ],
+  "https://leetcode.com/problems/maximize-grid-happiness/": [
+    "Maximize Grid Happiness", "Salesforce"
+  ],
+  "https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/": [
+    "Add Two Polynomials Represented as Linked Lists", "Amazon"
+  ],
+  "https://leetcode.com/problems/create-sorted-array-through-instructions/": [
+    "Create Sorted Array through Instructions", "Akuna Capital"
+  ],
+  "https://leetcode.com/problems/sell-diminishing-valued-colored-balls/": [
+    "Sell Diminishing-Valued Colored Balls", "Amazon", "Adobe", "Groupon"
+  ],
+  "https://leetcode.com/problems/get-maximum-in-generated-array/": [
+    "Get Maximum in Generated Array"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/": [
+    "Minimum Number of Removals to Make Mountain Array", "Apple", "Microsoft"
+  ],
+  "https://leetcode.com/problems/distribute-repeating-integers/": [
+    "Distribute Repeating Integers", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-jumps-to-reach-home/": [
+    "Minimum Jumps to Reach Home", "Tekion", "Karat", "Spinny", "PhonePe"
+  ],
+  "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/": [
+    "Minimum Deletions to Make String Balanced", "Microsoft", "Adobe"
+  ],
+  "https://leetcode.com/problems/defuse-the-bomb/": [
+    "Defuse the Bomb"
+  ],
+  "https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/": [
+    "Check If Two Expression Trees are Equivalent", "Google"
+  ],
+  "https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/": [
+    "Find Nearest Right Node in Binary Tree", "Google"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/": [
+    "Number of Ways to Form a Target String Given a Dictionary", "Snowflake", "Google", "Apple", "Atlassian", "AppDynamics", "Slice", "Dunzo"
+  ],
+  "https://leetcode.com/problems/count-substrings-that-differ-by-one-character/": [
+    "Count Substrings That Differ by One Character", "Microsoft"
+  ],
+  "https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/": [
+    "Count Subtrees With Max Distance Between Cities", "Codenation"
+  ],
+  "https://leetcode.com/problems/split-two-strings-to-make-palindrome/": [
+    "Split Two Strings to Make Palindrome", "Google"
+  ],
+  "https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/": [
+    "Build Binary Expression Tree From Infix Expression", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-visible-points/": [
+    "Maximum Number of Visible Points", "Google", "Nvidia"
+  ],
+  "https://leetcode.com/problems/binary-search-tree-iterator-ii/": [
+    "Binary Search Tree Iterator II", "Facebook"
+  ],
+  "https://leetcode.com/problems/fancy-sequence/": [
+    "Fancy Sequence", "Google"
+  ],
+  "https://leetcode.com/problems/cat-and-mouse-ii/": [
+    "Cat and Mouse II", "Google"
+  ],
+  "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/": [
+    "Number of Sets of K Non-Overlapping Line Segments", "Amazon"
+  ],
+  "https://leetcode.com/problems/throne-inheritance/": [
+    "Throne Inheritance","Google"
+  ],
+  "https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/": [
+    "Maximum Profit of Operating a Centennial Wheel", "peak6"
+  ],
+  "https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/": [
+    "Put Boxes Into the Warehouse II", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/": [
+    "Minimum Cost to Connect Two Groups of Points", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/": [
+    "Maximum Non Negative Product in a Matrix", "Google"
+  ],
+  "https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/": [
+    "Split a String Into the Max Number of Unique Substrings", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/": [
+    "Find Valid Matrix Given Row and Column Sums", "Google"
+  ],
+  "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/": [
+    "Find Servers That Handled Most Number of Requests", "Google", "Wish"
+  ],
+  "https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/": [
+    "Check If String Is Transformable With Substring Sort Operations", "Google"
+  ],
+  "https://leetcode.com/problems/put-boxes-into-the-warehouse-i/": [
+    "Put Boxes Into the Warehouse I", "Google"
+  ],
+  "https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/": [
+    "Number of Ways Where Square of Number Is Equal to Product of Two Numbers"
+  ],
+  "https://leetcode.com/problems/strings-differ-by-one-character/": [
+    "Strings Differ by One Character", "Google", "Airbnb"
+  ],
+  "https://leetcode.com/problems/strange-printer-ii/": [
+    "Strange Printer II", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/": [
+    "Maximum Sum Obtained of Any Permutation", "PayPal"
+  ],
+  "https://leetcode.com/problems/make-sum-divisible-by-p/": [
+    "Make Sum Divisible by P", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/": [
+    "Minimum Number of Days to Disconnect Island", "Unacademy"
+  ],
+  "https://leetcode.com/problems/the-most-similar-path-in-a-graph/": [
+    "The Most Similar Path in a Graph", "TikTok", "Google"
+  ],
+  "https://leetcode.com/problems/stone-game-v/": [
+    "Stone Game V", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-latest-group-of-size-m/": [
+    "Find Latest Group of Size M", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/": [
+    "Guess the Majority in a Hidden Array", "Google"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-split-a-string/": [
+    "Number of Ways to Split a String", "TikTok", "Microsoft"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/": [
+    "Minimum Number of Days to Eat N Oranges", "Amazon", "Bloomberg", "Google"
+  ],
+  "https://leetcode.com/problems/magnetic-force-between-two-balls/": [
+    "Magnetic Force Between Two Balls", "Amazon", "Roblox"
+  ],
+  "https://leetcode.com/problems/find-the-index-of-the-large-integer/": [
+    "Find the Index of the Large Integer", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-longest-awesome-substring/": [
+    "Find Longest Awesome Substring", "Directi"
+  ],
+  "https://leetcode.com/problems/diameter-of-n-ary-tree/": [
+    "Diameter of N-Ary Tree", "Facebook", "DoorDash"
+  ],
+  "https://leetcode.com/problems/detect-cycles-in-2d-grid/": [
+    "Detect Cycles in 2D Grid", "Facebook", "Nutanix"
+  ],
+  "https://leetcode.com/problems/get-the-maximum-score/": [
+    "Get the Maximum Score", "DE Shaw", "Mindtickle"
+  ],
+  "https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/": [
+    "Minimum Swaps to Arrange a Binary Grid", "Ajira"
+  ],
+  "https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/": [
+    "Move Sub-Tree of N-Ary Tree", "Google"
+  ],
+  "https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/": [
+    "Number of Good Leaf Nodes Pairs", "Tiktok", "Josh Technologies", "Apple", "ByteDance", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-suffix-flips/": [
+    "Minimum Suffix Flips", "JPMorgan and Chase", "Amazon", "IBM"
+  ],
+  "https://leetcode.com/problems/find-root-of-n-ary-tree/": [
+    "Find Root of N-Ary Tree", "Google", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/": [
+    "Maximum Number of Non-Overlapping Subarrays With Sum Equals Target", "Microsoft", "Google"
+  ],
+  "https://leetcode.com/problems/can-convert-string-in-k-moves/": [
+    "Can Convert String in K Moves", "Infosys"
+  ],
+  "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/": [
+    "Find a Value of a Mysterious Function Closest to Target", "American Express"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/": [
+    "Maximum Number of Non-Overlapping Substrings", "Amazon"
+  ],
+  "https://leetcode.com/problems/design-a-file-sharing-system/": [
+    "Design a File Sharing System", "Twitch"
+  ],
+  "https://leetcode.com/problems/best-position-for-a-service-centre/": [
+    "Best Position for a Service Centre", "Uber", "Citadel"
+  ],
+  "https://leetcode.com/problems/number-of-substrings-with-only-1s/": [
+    "Number of Substrings With Only 1s", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/": [
+    "Minimum Possible Integer After at Most K Adjacent Swaps On Digits"
+  ],
+  "https://leetcode.com/problems/count-submatrices-with-all-ones/": [
+    "Count Submatrices With All Ones", "Google"
+  ],
+  "https://leetcode.com/problems/max-value-of-equation/": [
+    "Max Value of Equation", "Google"
+  ],
+  "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/": [
+    "Check If Array Pairs Are Divisible by k", "Amazon", "Quble"
+  ],
+  "https://leetcode.com/problems/stone-game-iv/": [
+    "Stone Game IV", "Microsoft"
+  ],
+  "https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/": [
+    "Minimum Difference Between Largest and Smallest Value in Three Moves", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/avoid-flood-in-the-city/": [
+    "Avoid Flood in The City", "Amazon", "Mindtickle", "Spinny", "Google"
+  ],
+  "https://leetcode.com/problems/parallel-courses-ii/": [
+    "Parallel Courses II", "Google", "Microsoft"
+  ],
+  "https://leetcode.com/problems/paint-house-iii/": [
+    "Paint House III", "Google", "PayPal"
+  ],
+  "https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/": [
+    "Probability of a Two Boxes Having The Same Number of Distinct Balls"
+  ],
+  "https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/": [
+    "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts", "Amazon", "Toptal", "Miro","BNY Melon"
+  ],
+  "https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/": [
+    "Find Two Non-overlapping Sub-arrays Each With Target Sum", "Google"
+  ],
+  "https://leetcode.com/problems/allocate-mailboxes/": [
+    "Allocate Mailboxes", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/": [
+    "Maximum Number of Darts Inside of a Circular Dartboard", "Facebook"
+  ],
+  "https://leetcode.com/problems/course-schedule-iv/": [
+    "Course Schedule IV", "Uber"
+  ],
+  "https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/": [
+    "Make Two Arrays Equal by Reversing Subarrays", "Facebook"
+  ],
+  "https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/": [
+    "Number of Ways of Cutting a Pizza", "Tiktok", "ByteDance", "Google"
+  ],
+  "https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/": [
+    "Count Triplets That Can Form Two Arrays of Equal XOR"
+  ],
+  "https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/": [
+    "Form Largest Integer With Digits That Add up to Target", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-frogs-croaking/": [
+    "Minimum Number of Frogs Croaking", "Robolox", "Zoox", "Amazon", "C3.ai"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/": [
+    "Number of Ways to Wear Different Hats to Each Other", "Mindtickle"
+  ],
+  "https://leetcode.com/problems/check-if-a-string-can-break-another-string/": [
+    "Check If a String Can Break Another String", "Endurance"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/": [
+    "Number of Ways to Paint N x 3 Grid", "Hackerrank"
+  ],
+  "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/": [
+    "Number of Steps to Reduce a Number in Binary Representation to One", "Microsoft", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/": [
+    "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/find-all-good-strings/": [
+    "Find All Good Strings", "Dunzo"
+  ],
+  "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/": [
+    "Check if There is a Valid Path in a Grid", "Robinhood"
+  ],
+  "https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/": [
+    "Number of Times Binary String Is Prefix-Aligned", "Grab", "Microsoft"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/": [
+    "Minimum Cost to Make at Least One Valid Path in a Grid", "Google"
+  ],
+  "https://leetcode.com/problems/jump-game-v/": [
+    "Jump Game V", "Tiktok", "Facebook", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/": [
+    "Find the City With the Smallest Number of Neighbors at a Threshold Distance", "Expedia", "Atlassian", "Amazon", "Akuna Capital", "Uber"
+  ],
+  "https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/": [
+    "Minimum Distance to Type a Word Using Two Fingers", "Google"
+  ],
+  "https://leetcode.com/problems/get-watched-videos-by-your-friends/": [
+    "Get Watched Videos by Your Friends", "Amazon"
+  ],
+  "https://leetcode.com/problems/xor-queries-of-a-subarray/": [
+    "XOR Queries of a Subarray", "Airtel"
+  ],
+  "https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/": [
+    "Decrypt String from Alphabet to Integer Mapping", "Quip(Salesforce)"
+  ],
+  "https://leetcode.com/problems/encrypt-and-decrypt-strings/": [
+    "Encrypt and Decrypt Strings", "Duolingo"
+  ],
+  "https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/": [
+    "Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree", "23&me"
+  ],
+  "https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/": [
+    "All Ancestors of a Node in a Directed Acyclic Graph", "Oracle", "Palantir Technologies", "Google"
+  ],
+  "https://leetcode.com/problems/find-the-k-beauty-of-a-number/": [
+    "Find the K-Beauty of a Number", "Quora", "Postmates"
+  ],
+  "https://leetcode.com/problems/verbal-arithmetic-puzzle/": [
+    "Verbal Arithmetic Puzzle", "Hudson River Trading", "Yahoo", "Atlassian"
+  ],
+  "https://leetcode.com/problems/jump-game-iii/": [
+    "Jump Game III", "Pinterest", "Goldman Sachs", "Google", "Amazon", "Microsoft", "Snapchat"
+  ],
+  "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/": [
+    "Maximum Candies You Can Get from Boxes", "Airbnb"
+  ],
+  "https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/": [
+    "Make Array Non-decreasing or Non-increasing", "Tiktok", "VMware"
+  ],
+  "https://leetcode.com/problems/check-if-an-array-is-consecutive/": [
+    "Check if an Array Is Consecutive", "Turbot"
+  ],
+  "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/": [
+    "Shortest Path in a Grid with Obstacles Elimination", "Pinterest", "TikTok", "Snapchat", "Google", "Facebook", "Apple", "Amazon", "PhonePe", "Bloomberg", "Uber", "DoorDash"
+  ],
+  "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/": [
+    "Maximum Side Length of a Square with Sum Less than or Equal to Threshold", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/": [
+    "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix", "Google", "Airbnb"
+  ],
+  "https://leetcode.com/problems/print-immutable-linked-list-in-reverse/": [
+    "Print Immutable Linked List in Reverse", "Facebook"
+  ],
+  "https://leetcode.com/problems/palindrome-partitioning-iii/": [
+    "Palindrome Partitioning III"
+  ],
+  "https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/": [
+    "Number of Burgers with No Waste of Ingredients", "Delivery Hero"
+  ],
+  "https://leetcode.com/problems/minimum-path-cost-in-a-grid/": [
+    "Minimum Path Cost in a Grid", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/": [
+    "Maximum Value of K Coins From Piles", "Microsoft", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/": [
+    "Minimum Moves to Move a Box to Their Target Location", "Google"
+  ],
+  "https://leetcode.com/problems/greatest-sum-divisible-by-three/": [
+    "Greatest Sum Divisible by Three", "DE Shaw"
+  ],
+  "https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/": [
+    "Number of Ways to Build House of Cards", "Airbnb"
+  ],
+  "https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/": [
+    "Maximum Font to Fit a Sentence in a Screen", "Google"
+  ],
+  "https://leetcode.com/problems/number-of-single-divisor-triplets/": [
+    "Number of Single Divisor Triplets", "Value Labs"
+  ],
+  "https://leetcode.com/problems/calculate-amount-paid-in-taxes/": [
+    "Calculate Amount Paid in Taxes", "Snowflake", "Bloomberg", "Facebook"
+  ],
+  "https://leetcode.com/problems/maximum-score-words-formed-by-letters/": [
+    "Maximum Score Words Formed by Letters", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/": [
+    "Reconstruct a 2-Row Binary Matrix", "American Express", "Grab"
+  ],
+  "https://leetcode.com/problems/selling-pieces-of-wood/": [
+    "Selling Pieces of Wood", "Palantir Technologies"
+  ],
+  "https://leetcode.com/problems/find-palindrome-with-fixed-length/": [
+    "Find Palindrome With Fixed Length", "Tiktok", "VMware"
+  ],
+  "https://leetcode.com/problems/check-if-it-is-a-good-array/": [
+    "Check If It Is a Good Array", "Dropbox"
+  ],
+  "https://leetcode.com/problems/count-number-of-nice-subarrays/": [
+    "Count Number of Nice Subarrays", "Amazon", "Adobe", "Robolox", "Booking.Com"
+  ],
+  "https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/": [
+    "Minimum Swaps to Make Strings Equal", "JPMorgan and Chase"
+  ],
+  "https://leetcode.com/problems/maximum-height-by-stacking-cuboids/": [
+    "Maximum Height by Stacking Cuboids", "Samsung"
+  ],
+  "https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/": [
+    "Greatest English Letter in Upper and Lower Case", "Microsoft"
+  ],
+  "https://leetcode.com/problems/airplane-seat-assignment-probability/": [
+    "Airplane Seat Assignment Probability", "Microstrategy"
+  ],
+  "https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/": [
+    "Tiling a Rectangle with the Fewest Squares", "Google"
+  ],
+  "https://leetcode.com/problems/circular-permutation-in-binary-representation/": [
+    "Circular Permutation in Binary Representation", "Walmart"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/": [
+    "Minimum Number of Moves to Make Palindrome", "Amazon", "Microsoft", "Apple"
+  ],
+  "https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/": [
+    "Minimum Deletions to Make Array Beautiful", "Amazon", "Microsoft"
+  ],
+  "https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/": [
+    "Find Resultant Array After Removing Anagrams", "Amazon", "JPMorgan and Chase", "NextJump"
+  ],
+  "https://leetcode.com/problems/replace-the-substring-for-balanced-string/": [
+    "Replace the Substring for Balanced String", "Amazon", "Accolite"
+  ],
+  "https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/": [
+    "Remove Sub-Folders from the Filesystem", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-score-of-spliced-array/": [
+    "Maximum Score Of Spliced Array", "Apple", "Microsoft"
+  ],
+  "https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/": [
+    "Distance to a Cycle in Undirected Graph", "Akuna Capital"
+  ],
+  "https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/": [
+    "Maximize the Topmost Element After K Moves", "American Express"
+  ],
+  "https://leetcode.com/problems/maximum-equal-frequency/": [
+    "Maximum Equal Frequency", "American Express"
+  ],
+  "https://leetcode.com/problems/dice-roll-simulation/": [
+    "Dice Roll Simulation", "Akuna Capital"
+  ],
+  "https://leetcode.com/problems/queens-that-can-attack-the-king/": [
+    "Queens That Can Attack the King", "Media.Net"
+  ],
+  "https://leetcode.com/problems/design-skiplist/": [
+    "Design Skiplist", "Facebook", "Google", "Microsoft", "Twitter", "Pure Storage", "eBay"
+  ],
+  "https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/": [
+    "Maximum Product of the Length of Two Palindromic Substrings", "Codenation"
+  ],
+  "https://leetcode.com/problems/maximum-candies-allocated-to-k-children/": [
+    "Maximum Candies Allocated to K Children", "Google"
+  ],
+  "https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/": [
+    "Sum of Numbers With Units Digit K", "Codenation"
+  ],
+  "https://leetcode.com/problems/sort-the-jumbled-numbers/": [
+    "Sort the Jumbled Numbers", "Goldman Sachs"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/": [
+    "Minimum Cost to Move Chips to The Same Position", "Adobe", "Morgan Stanely"
+  ],
+  "https://leetcode.com/problems/where-will-the-ball-fall/": [
+    "Where Will the Ball Fall", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/": [
+    "Minimum Moves to Reach Target with Rotations", "Kakao"
+  ],
+  "https://leetcode.com/problems/get-equal-substrings-within-budget/": [
+    "Get Equal Substrings Within Budget", "IBM", "Traveloka"
+  ],
+  "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/": [
+    "Count Ways to Build Rooms in an Ant Colony", "Adobe"
+  ],
+  "https://leetcode.com/problems/largest-magic-square/": [
+    "Largest Magic Square", "Wayfair"
+  ],
+  "https://leetcode.com/problems/smallest-string-with-swaps/": [
+    "Smallest String With Swaps", "Amazon", "Google", "Microsoft", "PhonePe"
+  ],
+  "https://leetcode.com/problems/ugly-number-iii/": [
+    "Ugly Number III", "American Express"
+  ],
+  "https://leetcode.com/problems/number-of-visible-people-in-a-queue/": [
+    "Number of Visible People in a Queue", "Amazon", "Google", "Facebook", "DoorDash", "Tiktok", "GE Healthcare"
+  ],
+  "https://leetcode.com/problems/longest-happy-string/": [
+    "Longest Happy String", "Tiktok", "Amazon", "Microsoft", "DRW", "Wayfair"
+  ],
+  "https://leetcode.com/problems/critical-connections-in-a-network/": [
+    "Critical Connections in a Network", "Bloomberg", "Amazon", "Microsoft", "Adobe", "Facebook"
+  ],
+  "https://leetcode.com/problems/k-concatenation-maximum-sum/": [
+    "K-Concatenation Maximum Sum", "Adobe", "Amazon"
+  ],
+  "https://leetcode.com/problems/kth-ancestor-of-a-tree-node/": [
+    "Kth Ancestor of a Tree Node", "Google", "Facebook", "Amazon", "Adobe"
+  ],
+  "https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/": [
+    "Minimum Garden Perimeter to Collect Enough Apples", "Amazon"
+  ],
+  "https://leetcode.com/problems/make-array-strictly-increasing/": [
+    "Make Array Strictly Increasing"
+  ],
+  "https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/": [
+    "Maximum Subarray Sum with One Deletion", "Amazon", "Facebook", "Two Sigma"
+  ],
+  "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/": [
+    "Number of Valid Words for Each Puzzle", "Dropbox"
+  ],
+  "https://leetcode.com/problems/can-make-palindrome-from-substring/": [
+    "Can Make Palindrome from Substring", "Akuna Capital"
+  ],
+  "https://leetcode.com/problems/largest-multiple-of-three/": [
+    "Largest Multiple of Three", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/invalid-transactions/": [
+    "Invalid Transactions", "Bloomberg", "Amazon", "Wix"
+  ],
+  "https://leetcode.com/problems/web-crawler/": [
+    "Web Crawler", "Bloomberg", "Dropbox", "Facebook"
+  ],
+  "https://leetcode.com/problems/dinner-plate-stacks/": [
+    "Dinner Plate Stacks"
+  ],
+  "https://leetcode.com/problems/online-majority-element-in-subarray/": [
+    "Online Majority Element In Subarray", "Nutanix"
+  ],
+  "https://leetcode.com/problems/swap-for-longest-repeated-character-substring/": [
+    "Swap For Longest Repeated Character Substring", "Microsoft", "Nutanix"
+  ],
+  "https://leetcode.com/problems/rank-transform-of-a-matrix/": [
+    "Rank Transform of a Matrix", "Google"
+  ],
+  "https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/": [
+    "Reverse Subarray To Maximize Array Value", "Bloomberg", "Codenation"
+  ],
+  "https://leetcode.com/problems/break-a-palindrome/": [
+    "Break a Palindrome", "JPMorgan and Chase", "Oracle", "Goldman Sachs", "Walmart Labs", "Visa", "PayPal", "LinkedIn", "Uber", "McKinsey", "VMware", "Expedia"
+  ],
+  "https://leetcode.com/problems/longest-chunked-palindrome-decomposition/": [
+    "Longest Chunked Palindrome Decomposition", "Google"
+  ],
+  "https://leetcode.com/problems/binary-tree-coloring-game/": [
+    "Binary Tree Coloring Game", "Google"
+  ],
+  "https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/": [
+    "Decrease Elements To Make Array Zigzag", "Adobe", "Google"
+  ],
+  "https://leetcode.com/problems/distinct-echo-substrings/": [
+    "Distinct Echo Substrings", "Google"
+  ],
+  "https://leetcode.com/problems/largest-1-bordered-square/": [
+    "Largest 1-Bordered Square", "Samsung"
+  ],
+  "https://leetcode.com/problems/number-of-paths-with-max-score/": [
+    "Number of Paths with Max Score", "Samsung"
+  ],
+  "https://leetcode.com/problems/number-of-ships-in-a-rectangle/": [
+    "Number of Ships in a Rectangle", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/maximum-of-absolute-value-expression/": [
+    "Maximum of Absolute Value Expression", "Microsoft"
+  ],
+  "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/": [
+    "Minimum Cost Tree From Leaf Values", "Adobe", "Amazon", "MathWorks"
+  ],
+  "https://leetcode.com/problems/graph-connectivity-with-threshold/": [
+    "Graph Connectivity With Threshold", "Trexquant"
+  ],
+  "https://leetcode.com/problems/remove-covered-intervals/": [
+    "Remove Covered Intervals", "Amazon"
+  ],
+  "https://leetcode.com/problems/longest-well-performing-interval/": [
+    "Longest Well-Performing Interval", "Infosys"
+  ],
+  "https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/": [
+    "Lowest Common Ancestor of Deepest Leaves", "Amazon", "Facebook"
+  ],
+  "https://leetcode.com/problems/handshakes-that-dont-cross/": [
+    "Handshakes That Don't Cross", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/": [
+    "Maximum Nesting Depth of Two Valid Parentheses Strings", "Bloomreach"
+  ],
+  "https://leetcode.com/problems/corporate-flight-bookings/": [
+    "Corporate Flight Bookings", "Amazon", "Goldman Sachs"
+  ],
+  "https://leetcode.com/problems/palindrome-removal/": [
+    "Palindrome Removal", "Microsoft"
+  ],
+  "https://leetcode.com/problems/remove-interval/": [
+    "Remove Interval", "Google"
+  ],
+  "https://leetcode.com/problems/parsing-a-boolean-expression/": [
+    "Parsing A Boolean Expression", "Google", "Affinity"
+  ],
+  "https://leetcode.com/problems/filling-bookcase-shelves/": [
+    "Filling Bookcase Shelves", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/": [
+    "Path In Zigzag Labelled Binary Tree", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/divide-chocolate/": [
+    "Divide Chocolate", "Snapchat", "Google"
+  ],
+  "https://leetcode.com/problems/encode-number/": [
+    "Encode Number", "Quora"
+  ],
+  "https://leetcode.com/problems/brace-expansion-ii/": [
+    "Brace Expansion II", "Google"
+  ],
+  "https://leetcode.com/problems/statistics-from-a-large-sample/": [
+    "Statistics from a Large Sample", "Microsoft"
+  ],
+  "https://leetcode.com/problems/valid-palindrome-iii/": [
+    "Valid Palindrome III", "Facebook", "Amazon"
+  ],
+  "https://leetcode.com/problems/tree-diameter/": [
+    "Tree Diameter", "Facebook", "Microsoft", "Google"
+  ],
+  "https://leetcode.com/problems/design-a-leaderboard/": [
+    "Design A Leaderboard", "Bloomberg", "Databricks", "Amazon", "Google", "Wayfair"
+  ],
+  "https://leetcode.com/problems/shortest-common-supersequence/": [
+    "Shortest Common Supersequence", "Amazon", "Bloomberg", "Google", "Microsoft", "Uber"
+  ],
+  "https://leetcode.com/problems/duplicate-zeros/": [
+    "Duplicate Zeros", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-time-to-build-blocks/": [
+    "Minimum Time to Build Blocks", "Google"
+  ],
+  "https://leetcode.com/problems/toss-strange-coins/": [
+    "Toss Strange Coins", "Twitch"
+  ],
+  "https://leetcode.com/problems/meeting-scheduler/": [
+    "Meeting Scheduler", "Adobe", "Bloomberg", "Google", "Amazon", "Apple", "Capital One", "TikTok", "PayPal", "Pramp"
+  ],
+  "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/": [
+    "Smallest Subsequence of Distinct Characters", "Oracle", "Factset", "Amazon", "Google", "ByteDance"
+  ],
+  "https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/": [
+    "Insufficient Nodes in Root to Leaf Paths", "Amazon"
+  ],
+  "https://leetcode.com/problems/maximum-number-of-ones/": [
+    "Maximum Number of Ones", "Qualcomm"
+  ],
+  "https://leetcode.com/problems/stepping-numbers/": [
+    "Stepping Numbers", "Epic Systems"
+  ],
+  "https://leetcode.com/problems/adding-two-negabinary-numbers/": [
+    "Adding Two Negabinary Numbers", "Grab"
+  ],
+  "https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/": [
+    "Flip Columns For Maximum Number of Equal Rows"
+  ],
+  "https://leetcode.com/problems/optimize-water-distribution-in-a-village/": [
+    "Optimize Water Distribution in a Village", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-knight-moves/": [
+    "Minimum Knight Moves", "Citadel", "Facebook", "Microsoft", "Amazon", "Indeed", "Google", "Expedia", "LinkedIn", "IMC", "Docusign", "Nvidia"
+  ],
+  "https://leetcode.com/problems/distant-barcodes/": [
+    "Distant Barcodes", "Amazon"
+  ],
+  "https://leetcode.com/problems/previous-permutation-with-one-swap/": [
+    "Previous Permutation With One Swap", "Microsoft"
+  ],
+  "https://leetcode.com/problems/grumpy-bookstore-owner/": [
+    "Grumpy Bookstore Owner", "Walmart Labs", "EPAM Systems", "Nutanix", "Google"
+  ],
+  "https://leetcode.com/problems/last-substring-in-lexicographical-order/": [
+    "Last Substring in Lexicographical Order", "Mathworks"
+  ],
+  "https://leetcode.com/problems/before-and-after-puzzle/": [
+    "Before and After Puzzle", "Clutter"
+  ],
+  "https://leetcode.com/problems/last-stone-weight-ii/": [
+    "Last Stone Weight II", "JPMorgan and Chase", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-connect-sticks/": [
+    "Minimum Cost to Connect Sticks", "DoorDash", "Atlassian", "Amazon", "Airbnb", "Microsoft", "Coinbase"
+  ],
+  "https://leetcode.com/problems/design-file-system/": [
+    "Design File System", "Google"
+  ],
+  "https://leetcode.com/problems/string-transforms-into-another-string/": [
+    "String Transforms Into Another String", "Amazon", "Google", "Apple", "Uber", "Microsoft"
+  ],
+  "https://leetcode.com/problems/longest-duplicate-substring/": [
+    "Longest Duplicate Substring"
+  ],
+  "https://leetcode.com/problems/flower-planting-with-no-adjacent/": [
+    "Flower Planting With No Adjacent"
+  ],
+  "https://leetcode.com/problems/robot-bounded-in-circle/": [
+    "Robot Bounded In Circle", "Goldman Sachs", "LinkedIn", "Amazon", "Chewy", "Bloomberg", "Adobe", "Airbnb"
+  ],
+  "https://leetcode.com/problems/divide-array-into-increasing-sequences/": [
+    "Divide Array Into Increasing Sequences", "Google"
+  ],
+  "https://leetcode.com/problems/moving-stones-until-consecutive-ii/": [
+    "Moving Stones Until Consecutive II", "Facebook"
+  ],
+  "https://leetcode.com/problems/minimum-score-triangulation-of-polygon/": [
+    "Minimum Score Triangulation of Polygon", "Adobe", "Amazon", "Apple", "Uber"
+  ],
+  "https://leetcode.com/problems/escape-a-large-maze/": [
+    "Escape a Large Maze", "Google", "Apple", "UiPath"
+  ],
+  "https://leetcode.com/problems/coloring-a-border/": [
+    "Coloring A Border", "Amazon", "Booking.Com"
+  ],
+  "https://leetcode.com/problems/connecting-cities-with-minimum-cost/": [
+    "Connecting Cities With Minimum Cost", "Amazon"
+  ],
+  "https://leetcode.com/problems/path-with-maximum-minimum-value/": [
+    "Path With Maximum Minimum Value", "Google", "Amazon", "DoorDash"
+  ],
+  "https://leetcode.com/problems/stream-of-characters/": [
+    "Stream of Characters", "Google", "Salesforce", "Amazon", "Microsoft"
+  ],
+  "https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/": [
+    "Maximum Sum of Two Non-Overlapping Subarrays", "Microsoft", "PhonePe", "ByteDance"
+  ],
+  "https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/": [
+    "Recover a Tree From Preorder Traversal", "Facebook", "Amazon", "Microsoft"
+  ],
+  "https://leetcode.com/problems/maximum-average-subtree/": [
+    "Maximum Average Subtree", "Facebook", "Amazon"
+  ],
+  "https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/": [
+    "The Earliest Moment When Everyone Become Friends", "Google", "Expedia"
+  ],
+  "https://leetcode.com/problems/camelcase-matching/": [
+    "Camelcase Matching", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/confusing-number-ii/": [
+    "Confusing Number II", "Google"
+  ],
+  "https://leetcode.com/problems/binary-prefix-divisible-by-5/": [
+    "Binary Prefix Divisible By 5"
+  ],
+  "https://leetcode.com/problems/convert-to-base-2/": [
+    "Convert to Base -2", "Airbnb"
+  ],
+  "https://leetcode.com/problems/digit-count-in-range/": [
+    "Digit Count in Range", "Amazon"
+  ],
+  "https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/": [
+    "Binary String With Substrings Representing 1 To N", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/smallest-integer-divisible-by-k/": [
+    "Smallest Integer Divisible by K", "Google"
+  ],
+  "https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/": [
+    "Partition Array Into Three Parts With Equal Sum", "Google", "Microsoft"
+  ],
+  "https://leetcode.com/problems/number-of-valid-subarrays/": [
+    "Number of Valid Subarrays", "Amazon", "Hulu"
+  ],
+  "https://leetcode.com/problems/missing-element-in-sorted-array/": [
+    "Missing Element in Sorted Array", "Facebook", "Arista Networks", "Amazon"
+  ],
+  "https://leetcode.com/problems/numbers-with-repeated-digits/": [
+    "Numbers With Repeated Digits", "IBM", "JPMorgan and Chase", "Google"
+  ],
+  "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/": [
+    "Capacity To Ship Packages Within D Days", "Facebook", "TikTok", "Flipkart", "Expedia", "Amazon", "Bloomberg", "Oracle", "Goldman Sachs", "Salesforce", "Agoda", "Google", "Apple", "Uber", "Adobe", "Microsoft", "DoorDash", "CureFit"
+  ],
+  "https://leetcode.com/problems/minimize-rounding-error-to-meet-target/": [
+    "Minimize Rounding Error to Meet Target", "Airbnb"
+  ],
+  "https://leetcode.com/problems/shortest-way-to-form-string/": [
+    "Shortest Way to Form String", "Pinterest", "Google", "Facebook"
+  ],
+  "https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/": [
+    "Minimum Domino Rotations For Equal Row", "Google"
+  ],
+  "https://leetcode.com/problems/clumsy-factorial/": [
+    "Clumsy Factorial", "Amazon", "Intel", "Microsoft"
+  ],
+  "https://leetcode.com/problems/grid-illumination/": [
+    "Grid Illumination", "Dropbox"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-merge-stones/": [
+    "Minimum Cost to Merge Stones", "Google", "DE Shaw", "Amazon", "VMware"
+  ],
+  "https://leetcode.com/problems/maximum-binary-tree-ii/": [
+    "Maximum Binary Tree II", "Facebook"
+  ],
+  "https://leetcode.com/problems/number-of-squareful-arrays/": [
+    "Number of Squareful Arrays", "Facebook", "Apple"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/": [
+    "Minimum Number of K Consecutive Bit Flips", "Google", "Akuna Capital"
+  ],
+  "https://leetcode.com/problems/subarrays-with-k-different-integers/": [
+    "Subarrays with K Different Integers", "TikTok", "Oracle", "Amazon", "Adobe", "Uber", "Expedia", "Apple", "Facebook", "Google", "Airbnb", "DE Shaw"
+  ],
+  "https://leetcode.com/problems/satisfiability-of-equality-equations/": [
+    "Satisfiability of Equality Equations", "Microsoft", "Amazon", "Google", "Apple", "Sumologic"
+  ],
+  "https://leetcode.com/problems/interval-list-intersections/": [
+    "Interval List Intersections", "Facebook", "Yandex", "Verkada", "Uber", "Amazon", "Bloomberg", "Google", "DoorDash"
+  ],
+  "https://leetcode.com/problems/string-without-aaa-or-bbb/": [
+    "String Without AAA or BBB", "Zalando"
+  ],
+  "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/": [
+    "Triples with Bitwise AND Equal To Zero", "Flipkart"
+  ],
+  "https://leetcode.com/problems/longest-turbulent-subarray/": [
+    "Longest Turbulent Subarray"
+  ],
+  "https://leetcode.com/problems/odd-even-jump/": [
+    "Odd Even Jump", "Google", "Sprinklr"
+  ],
+  "https://leetcode.com/problems/equal-rational-numbers/": [
+    "Equal Rational Numbers", "Microsoft"
+  ],
+  "https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/": [
+    "Flip Binary Tree To Match Preorder Traversal", "Amazon"
+  ],
+  "https://leetcode.com/problems/pancake-sorting/": [
+    "Pancake Sorting", "Amazon", "Square"
+  ],
+  "https://leetcode.com/problems/binary-tree-cameras/": [
+    "Binary Tree Cameras", "Facebook", "DE Shaw", "Amazon", "Google", "Apple", "TikTok", "Cisco", "PhonePe"
+  ],
+  "https://leetcode.com/problems/numbers-with-same-consecutive-differences/": [
+    "Numbers With Same Consecutive Differences", "Bloomberg", "Microsoft", "Google", "Yahoo", "Amazon", "Adobe", "Flipkart"
+  ],
+  "https://leetcode.com/problems/least-operators-to-express-number/": [
+    "Least Operators to Express Number", "Snapchat"
+  ],
+  "https://leetcode.com/problems/minimum-area-rectangle-ii/": [
+    "Minimum Area Rectangle II", "Google"
+  ],
+  "https://leetcode.com/problems/maximum-width-ramp/": [
+    "Maximum Width Ramp", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/delete-columns-to-make-sorted-iii/": [
+    "Delete Columns to Make Sorted III", "Google"
+  ],
+  "https://leetcode.com/problems/regions-cut-by-slashes/": [
+    "Regions Cut By Slashes", "Amazon", "Uber"
+  ],
+  "https://leetcode.com/problems/tallest-billboard/": [
+    "Tallest Billboard"
+  ],
+  "https://leetcode.com/problems/delete-columns-to-make-sorted-ii/": [
+    "Delete Columns to Make Sorted II", "Google"
+  ],
+  "https://leetcode.com/problems/largest-component-size-by-common-factor/": [
+    "Largest Component Size by Common Factor", "Google"
+  ],
+  "https://leetcode.com/problems/largest-time-for-given-digits/": [
+    "Largest Time for Given Digits", "Google", "Microsoft", "Amazon", "LiveRamp"
+  ],
+  "https://leetcode.com/problems/bag-of-tokens/": [
+    "Bag of Tokens", "Apple", "Adobe", "Bloomberg", "Google"
+  ],
+  "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/": [
+    "Most Stones Removed with Same Row or Column", "TikTok", "Thoughtspot", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-increment-to-make-array-unique/": [
+    "Minimum Increment to Make Array Unique", "TikTok", "Coursera"
+  ],
+  "https://leetcode.com/problems/find-the-shortest-superstring/": [
+    "Find the Shortest Superstring"
+  ],
+  "https://leetcode.com/problems/distinct-subsequences-ii/": [
+    "Distinct Subsequences II", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-area-rectangle/": [
+    "Minimum Area Rectangle", "Google", "Facebook", "Snapchat"
+  ],
+  "https://leetcode.com/problems/reorder-data-in-log-files/": [
+    "Reorder Data in Log Files", "Amazon", "Audibles"
+  ],
+  "https://leetcode.com/problems/stamping-the-sequence/": [
+    "Stamping The Sequence"
+  ],
+  "https://leetcode.com/problems/beautiful-array/": [
+    "Beautiful Array", "Google"
+  ],
+  "https://leetcode.com/problems/binary-subarrays-with-sum/": [
+    "Binary Subarrays With Sum", "Amazon", "Google", "Apple", "Uber", "C3 IoT"
+  ],
+  "https://leetcode.com/problems/minimize-malware-spread-ii/": [
+    "Minimize Malware Spread II", "TikTok", "Dropbox"
+  ],
+  "https://leetcode.com/problems/three-equal-parts/": [
+    "Three Equal Parts", "Hotstar"
+  ],
+  "https://leetcode.com/problems/minimize-malware-spread/": [
+    "Minimize Malware Spread", "TikTok", "Google", "Adobe", "Dropbox"
+  ],
+  "https://leetcode.com/problems/complete-binary-tree-inserter/": [
+    "Complete Binary Tree Inserter", "Facebook", "TikTok", "PhonePe", "Google"
+  ],
+  "https://leetcode.com/problems/word-subsets/": [
+    "Word Subsets", "Adobe", "Apple", "Google"
+  ],
+  "https://leetcode.com/problems/partition-array-into-disjoint-intervals/": [
+    "Partition Array into Disjoint Intervals", "Amazon", "TandemG"
+  ],
+  "https://leetcode.com/problems/cat-and-mouse/": [
+    "Cat and Mouse", "Google"
+  ],
+  "https://leetcode.com/problems/online-election/": [
+    "Online Election", "Atlassian", "Google"
+  ],
+  "https://leetcode.com/problems/smallest-range-ii/": [
+    "Smallest Range II", "Amazon", "Citadel", "Snowflake", "Adobe"
+  ],
+  "https://leetcode.com/problems/super-palindromes/": [
+    "Super Palindromes", "Google"
+  ],
+  "https://leetcode.com/problems/valid-permutations-for-di-sequence/": [
+    "Valid Permutations for DI Sequence", "Amazon", "Publicis Sapient"
+  ],
+  "https://leetcode.com/problems/numbers-at-most-n-given-digit-set/": [
+    "Numbers At Most N Given Digit Set", "Uber", "Amazon"
+  ],
+  "https://leetcode.com/problems/orderly-queue/": [
+    "Orderly Queue", "Amazon"
+  ],
+  "https://leetcode.com/problems/bitwise-ors-of-subarrays/": [
+    "Bitwise ORs of Subarrays"
+  ],
+  "https://leetcode.com/problems/sum-of-subsequence-widths/": [
+    "Sum of Subsequence Widths", "Publicis Sapient"
+  ],
+  "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/": [
+    "Construct Binary Tree from Preorder and Postorder Traversal", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/super-egg-drop/": [
+    "Super Egg Drop", "Amazon", "Google", "Apple", "Oracle"
+  ],
+  "https://leetcode.com/problems/projection-area-of-3d-shapes/": [
+    "Projection Area of 3D Shapes"
+  ],
+  "https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/": [
+    "Reachable Nodes In Subdivided Graph"
+  ],
+  "https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/": [
+    "Random Point in Non-overlapping Rectangles", "Google"
+  ],
+  "https://leetcode.com/problems/random-flip-matrix/": [
+    "Random Flip Matrix", "Google"
+  ],
+  "https://leetcode.com/problems/profitable-schemes/": [
+    "Profitable Schemes", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/nth-magical-number/": [
+    "Nth Magical Number", "Google"
+  ],
+  "https://leetcode.com/problems/walking-robot-simulation/": [
+    "Walking Robot Simulation", "Jane Street"
+  ],
+  "https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/": [
+    "Length of Longest Fibonacci Subsequence", "Baidu"
+  ],
+  "https://leetcode.com/problems/implement-rand10-using-rand7/": [
+    "Implement Rand10() Using Rand7()", "Google", "Yandex", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimum-number-of-refueling-stops/": [
+    "Minimum Number of Refueling Stops", "Snapchat", "Barclays", "Rubrik", "Amazon", "Google", "Morgan Stanley", "tcs", "Apple", "Infosys","Microsoft"
+  ],
+  "https://leetcode.com/problems/reordered-power-of-2/": [
+    "Reordered Power of 2", "Amazon", "Google", "Microsoft", "Adobe", "Apple"
+  ],
+  "https://leetcode.com/problems/prime-palindrome/": [
+    "Prime Palindrome"
+  ],
+  "https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/": [
+    "Smallest Subtree with all the Deepest Nodes", "Facebook", "Salesforce", "Amazon"
+  ],
+  "https://leetcode.com/problems/random-pick-with-blacklist/": [
+    "Random Pick with Blacklist", "Amazon", "Google", "Uber"
+  ],
+  "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/": [
+    "Shortest Subarray with Sum at Least K", "Google", "Adobe", "Amazon", "Goldman Sachs"
+  ],
+  "https://leetcode.com/problems/mirror-reflection/": [
+    "Mirror Reflection", "Bloomberg", "Adobe"
+  ],
+  "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/": [
+    "Minimum Cost to Hire K Workers", "Amazon", "Arcesium", "Google"
+  ],
+  "https://leetcode.com/problems/exam-room/": [
+    "Exam Room", "Uber", "Quip(Salesforce)", "Quora", "Google"
+  ],
+  "https://leetcode.com/problems/k-similar-strings/": [
+    "K-Similar Strings", "ByteDance", "DoorDash", "Google"
+  ],
+  "https://leetcode.com/problems/car-fleet/": [
+    "Car Fleet", "Google", "Bloomberg", "Amazon", "Microsoft", "Apple", "Nutanix"
+  ],
+  "https://leetcode.com/problems/loud-and-rich/": [
+    "Loud and Rich", "PayPal", "Uber", "Amazon"
+  ],
+  "https://leetcode.com/problems/rectangle-area-ii/": [
+    "Rectangle Area II"
+  ],
+  "https://leetcode.com/problems/hand-of-straights/": [
+    "Hand of Straights", "Google"
+  ],
+  "https://leetcode.com/problems/longest-mountain-in-array/": [
+    "Longest Mountain in Array", "Goldman Sachs", "Google", "Bloomberg", "Niantic"
+  ],
+  "https://leetcode.com/problems/guess-the-word/": [
+    "Guess the Word", "Verkada", "Google", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/split-array-into-fibonacci-sequence/": [
+    "Split Array into Fibonacci Sequence", "Amazon"
+  ],
+  "https://leetcode.com/problems/robot-room-cleaner/": [
+    "Robot Room Cleaner", "Facebook", "Google", "Microsoft", "Citadel", "Amazon", "TikTok"
+  ],
+  "https://leetcode.com/problems/image-overlap/": [
+    "Image Overlap", "Yahoo", "Bloomberg", "Microsoft", "Google"
+  ],
+  "https://leetcode.com/problems/sum-of-distances-in-tree/": [
+    "Sum of Distances in Tree", "Google", "TikTok", "MathWorks"
+  ],
+  "https://leetcode.com/problems/find-and-replace-in-string/": [
+    "Find And Replace in String", "Google", "LinkedIn", "Microsoft"
+  ],
+  "https://leetcode.com/problems/design-circular-deque/": [
+    "Design Circular Deque"
+  ],
+  "https://leetcode.com/problems/masking-personal-information/": [
+    "Masking Personal Information", "Twitter"
+  ],
+  "https://leetcode.com/problems/consecutive-numbers-sum/": [
+    "Consecutive Numbers Sum", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/": [
+    "Count Unique Characters of All Substrings of a Given String", "Microsoft", "Amazon", "Bloomberg", "ForUsAll"
+  ],
+  "https://leetcode.com/problems/making-a-large-island/": [
+    "Making A Large Island", "Facebook", "DoorDash", "TikTok", "Amazon", "jio", "Uber", "Bloomberg", "Google", "Adobe", "Microsoft", "Sprinklr"
+  ],
+  "https://leetcode.com/problems/most-profit-assigning-work/": [
+    "Most Profit Assigning Work", "DoorDash", "Amazon", "NetEase"
+  ],
+  "https://leetcode.com/problems/friends-of-appropriate-ages/": [
+    "Friends Of Appropriate Ages", "Facebook"
+  ],
+  "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/": [
+    "Insert into a Sorted Circular Linked List", "Facebook", "IMC", "Google"
+  ],
+  "https://leetcode.com/problems/card-flipping-game/": [
+    "Card Flipping Game"
+  ],
+  "https://leetcode.com/problems/design-linked-list/": [
+    "Design Linked List", "Amazon", "Google", "Microsoft", "Nvidia", "Virtu Financial"
+  ],
+  "https://leetcode.com/problems/race-car/": [
+    "Race Car", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/linked-list-components/": [
+    "Linked List Components", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/largest-sum-of-averages/": [
+    "Largest Sum of Averages", "Google"
+  ],
+  "https://leetcode.com/problems/chalkboard-xor-game/": [
+    "Chalkboard XOR Game", "Garena"
+  ],
+  "https://leetcode.com/problems/number-of-lines-to-write-string/": [
+    "Number of Lines To Write String"
+  ],
+  "https://leetcode.com/problems/split-array-with-same-average/": [
+    "Split Array With Same Average", "Microsoft"
+  ],
+  "https://leetcode.com/problems/bricks-falling-when-hit/": [
+    "Bricks Falling When Hit", "Tower Research", "Google"
+  ],
+  "https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/": [
+    "Minimum Swaps To Make Sequences Increasing", "Facebook", "Amazon"
+  ],
+  "https://leetcode.com/problems/smallest-rotation-with-highest-score/": [
+    "Smallest Rotation with Highest Score", "Apple"
+  ],
+  "https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/": [
+    "Number of Subarrays with Bounded Maximum", "Quora", "Amazon", "Adobe"
+  ],
+  "https://leetcode.com/problems/valid-tic-tac-toe-state/": [
+    "Valid Tic-Tac-Toe State", "Google", "Microsoft"
+  ],
+  "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/": [
+    "Preimage Size of Factorial Zeroes Function", "Adobe"
+  ],
+  "https://leetcode.com/problems/domino-and-tromino-tiling/": [
+    "Domino and Tromino Tiling", "Amazon", "Adobe", "Google"
+  ],
+  "https://leetcode.com/problems/k-th-smallest-prime-fraction/": [
+    "K-th Smallest Prime Fraction", "Pony.ai"
+  ],
+  "https://leetcode.com/problems/transform-to-chessboard/": [
+    "Transform to Chessboard", "Citadel", "Google"
+  ],
+  "https://leetcode.com/problems/reaching-points/": [
+    "Reaching Points", "Goldman Sachs", "JPMorgan and Chase", "Uber", "Docusign", "IMC", "C3 IoT", "Newzera", "Bloomberg", "Morgan Stanley", "Chewy", "Coursera", "Google"
+  ],
+  "https://leetcode.com/problems/swim-in-rising-water/": [
+    "Swim in Rising Water", "DoorDash", "Uber", "Amazon", "PhonePe", "Google", "Facebook", "Apple"
+  ],
+  "https://leetcode.com/problems/swap-adjacent-in-lr-string/": [
+    "Swap Adjacent in LR String", "Adobe", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/minimize-max-distance-to-gas-station/": [
+    "Minimize Max Distance to Gas Station", "Google"
+  ],
+  "https://leetcode.com/problems/sliding-puzzle/": [
+    "Sliding Puzzle", "TikTok", "Amazon", "Uber", "Airbnb"
+  ],
+  "https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/": [
+    "Search in a Sorted Array of Unknown Size", "Instacart", "Google"
+  ],
+  "https://leetcode.com/problems/basic-calculator-iii/": [
+    "Basic Calculator III", "TikTok", "DoorDash", "Amazon", "Facebook", "Microsoft", "Apple", "Snapchat", "Google", "Brex", "Jingchi", "Pocket Gems", "Hulu", "Houzz"
+  ],
+  "https://leetcode.com/problems/basic-calculator-iv/": [
+    "Basic Calculator IV", "Adobe", "Intuit"
+  ],
+  "https://leetcode.com/problems/max-chunks-to-make-sorted-ii/": [
+    "Max Chunks To Make Sorted II", "Apple", "Microsoft", "Wayfair", "Bloomberg", "Adobe", "Meesho", "Google"
+  ],
+  "https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/": [
+    "Logical OR of Two Binary Grids Represented as Quad-Trees"
+  ],
+  "https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/": [
+    "Encode N-ary Tree to Binary Tree"
+  ],
+  "https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/": [
+    "Serialize and Deserialize N-ary Tree", "Facebook", "Google", "Uber", "Bloomberg", "Apple", "Amazon", "Microsoft", "DoorDash"
+  ],
+  "https://leetcode.com/problems/special-binary-string/": [
+    "Special Binary String", "Quip (Salesforce)", "Coursera"
+  ],
+  "https://leetcode.com/problems/employee-free-time/": [
+    "Employee Free Time", "Google", "GE Healthcare", "Pinterest", "Uber", "Apple", "Microsoft", "DoorDash", "Airbnb"
+  ],
+  "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/": [
+    "Convert Binary Search Tree to Sorted Doubly Linked List", "Facebook", "Microsoft", "Amazon"
+  ],
+  "https://leetcode.com/problems/cracking-the-safe/": [
+    "Cracking the Safe", "PhonePe", "Google"
+  ],
+  "https://leetcode.com/problems/open-the-lock/": [
+    "Open the Lock", "JPMorgan and Chase", "Uber", "Amazon", "Google", "ByteDance"
+  ],
+  "https://leetcode.com/problems/ip-to-cidr/": [
+    "IP to CIDR", "Databricks", "Airbnb"
+  ],
+  "https://leetcode.com/problems/contain-virus/": [
+    "Contain Virus", "Goldman Sachs", "Accolite", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/largest-number-at-least-twice-of-others/": [
+    "Largest Number At Least Twice of Others", "Google"
+  ],
+  "https://leetcode.com/problems/prefix-and-suffix-search/": [
+    "Prefix and Suffix Search", "Tiktok", "Facebook", "Google"
+  ],
+  "https://leetcode.com/problems/cherry-pickup/": [
+    "Cherry Pickup", "Cisco", "Atlassian", "Zomato", "Google", "MathWorks", "Uber", "Amazon", "Akuna Capital"
+  ],
+  "https://leetcode.com/problems/parse-lisp-expression/": [
+    "Parse Lisp Expression", "Affirm"
+  ],
+  "https://leetcode.com/problems/flood-fill/": [
+    "Flood Fill", "Amazon", "Apple", "Bloomberg", "Microsoft", "Google", "Uber", "Facebook", "Karat", "Adobe"
+  ],
+  "https://leetcode.com/problems/my-calendar-iii/": [
+    "My Calendar III", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/my-calendar-ii/": [
+    "My Calendar II", "Google", "Uber"
+  ],
+  "https://leetcode.com/problems/count-different-palindromic-subsequences/": [
+    "Count Different Palindromic Subsequences", "Goldman Sachs", "Apple", "Atlassian", "LinkedIn"
+  ],
+  "https://leetcode.com/problems/number-of-atoms/": [
+    "Number of Atoms", "Coupang", "Apple", "Google", "Amazon", "Microsoft", "HRT"
+  ],
+  "https://leetcode.com/problems/remove-comments/": [
+    "Remove Comments", "Microsoft", "HRT", "Hudson River Trading", "Google", "Apple", "Uber", "ByteDance", "TikTok"
+  ],
+  "https://leetcode.com/problems/range-module/": [
+    "Range Module", "Google", "Facebook", "Uber", "Amazon", "Oracle", "Machine Zone", "Coupang"
+  ],
+  "https://leetcode.com/problems/number-of-distinct-islands-ii/": [
+    "Number of Distinct Islands II", "Facebook", "Amazon"
+  ],
+  "https://leetcode.com/problems/falling-squares/": [
+    "Falling Squares", "Uber", "Square"
+  ],
+  "https://leetcode.com/problems/count-binary-substrings/": [
+    "Count Binary Substrings", "Oracle", "Adobe", "Goldman Sachs", "Amazon", "TikTok", "VMware", "Google", "Gap", "Helix"
+  ],
+  "https://leetcode.com/problems/next-closest-time/": [
+    "Next Closest Time", "Google", "Amazon"
+  ],
+  "https://leetcode.com/problems/robot-return-to-origin/": [
+    "Robot Return to Origin", "Goldman Sachs", "Yandex", "Amazon", "Google"
+  ],
+  "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/": [
+    "Smallest Range Covering Elements from K Lists", "Amazon", "Apple", "Flipkart", "Snapchat", "Pinterest", "Google", "Adobe", "Bloomberg", "Lyft"
+  ],
+  "https://leetcode.com/problems/find-the-closest-palindrome/": [
+    "Find the Closest Palindrome", "Uber", "Google", "Amazon", "Morgan Stanely", "Yelp", "Oracle"
+  ],
+  "https://leetcode.com/problems/array-partition/": [
+    "Array Partition", "Yahoo", "Amazon", "Adobe"
+  ],
+  "https://leetcode.com/problems/next-greater-element-iii/": [
+    "Next Greater Element III", "DoorDash", "TikTok", "Facebook", "Amazon", "Adobe", "Google", "Goldman Sachs", "Microsoft", "Apple", "DE Shaw", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/shortest-path-to-get-food/": [
+    "Shortest Path to Get Food", "Google", "Amazon", "DoorDash", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/output-contest-matches/": [
+    "Output Contest Matches", "Google"
+  ],
+  "https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum/": [
+    "Widest Pair of Indices With Equal Range Sum", "Microsoft"
+  ],
+  "https://leetcode.com/problems/maximum-alternating-subarray-sum/": [
+    "Maximum Alternating Subarray Sum", "Amazon"
+  ],
+  "https://leetcode.com/problems/all-paths-from-source-lead-to-destination/": [
+    "All Paths from Source Lead to Destination", "Google"
+  ],
+  "https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/": [
+    "Count Subarrays With More Ones Than Zeros", "Google"
+  ],
+  "https://leetcode.com/problems/inorder-successor-in-bst-ii/": [
+    "Inorder Successor in BST II", "Microsoft", "Arista Networks"
+  ],
+  "https://leetcode.com/problems/next-greater-element-ii/": [
+    "Next Greater Element II", "Amazon", "TikTok", "Yahoo", "Apple", "Facebook", "Adobe", "Google", "Bloomberg", "Microsoft", "Samsung"
+  ],
+  "https://leetcode.com/problems/next-greater-element-i/": [
+    "Next Greater Element I", "Amazon", "Apple", "Bloomberg", "Microsoft", "Adobe", "Google", "Uber", "Facebook", "Yahoo", "Goldman Sachs"
+  ],
+  "https://leetcode.com/problems/kth-smallest-instructions/": [
+    "Kth Smallest Instructions", "HeavyWater"
+  ],
+  "https://leetcode.com/problems/arranging-coins/": [
+    "Arranging Coins", "Google", "Adobe", "Amazon", "Bloomberg", "GoDady", "Atlassian"
+  ],
+  "https://leetcode.com/problems/minimum-genetic-mutation/": [
+    "Minimum Genetic Mutation", "Amazon", "Apple", "Bloomberg", "Twitter", "Yahoo"
+  ],
+  "https://leetcode.com/problems/lexicographical-numbers/": [
+    "Lexicographical Numbers", "Amazon", "Tiktok", "Facebook", "Uber", "Bloomberg", "Apple", "ByteDance"
+  ],
+  "https://leetcode.com/problems/shuffle-an-array/": [
+    "Shuffle an Array", "Facebook", "Nvidia", "Google", "Uber", "Apple"
+  ],
+  "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/": [
+    "Longest Increasing Path in a Matrix", "DoorDash", "Facebook", "Google", "Apple", "Snapchat", "TikTok", "Citadel", "Amazon", "Uber", "Nvidia", "DE Shaw", "Waymo", "Duolingo", "Microsoft", "Samsung"
+  ],
+  "https://leetcode.com/problems/count-of-range-sum/": [
+    "Count of Range Sum", "Amazon", "Adobe", "Google"
+  ],
+  "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/": [
+    "Best Time to Buy and Sell Stock with Cooldown", "Visa", "Apple", "Amazon", "Google", "Yahoo", "Adobe"
+  ],
+  "https://leetcode.com/problems/3sum-smaller/": [
+    "3Sum Smaller", "Tiktok", "Apple", "Google"
+  ],
+  "https://leetcode.com/problems/design-add-and-search-words-data-structure/": [
+    "Design Add and Search Words Data Structure", "Microsoft", "DoorDash", "Google", "Bloomberg", "Amazon", "Apple", "Facebook"
+  ],
+  "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/": [
+    "Populating Next Right Pointers in Each Node II", "Snowflake", "Citadel", "Walmart Labs", "Bloomberg", "Amazon", "Microsoft", "Facebook", "Google", "Adobe"
+  ],
+  "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/": [
+    "Populating Next Right Pointers in Each Node", "Facebook", "Bloomberg", "Microsoft", "Amazon", "Walmart Labs", "Apple", "Salesforce", "Snowflake", "Google", "Oracle", "Flipkart", "Adobe"
+  ],
+  "https://leetcode.com/problems/next-permutation/": [
+    "Next Permutation", "Facebook", "Amazon", "Microsoft", "Adobe", "Apple", "JPMorgan and Chase", "LinkedIn", "Bloomberg", "TikTok", "Google", "Yahoo", "Uber", "DoorDash", "Rubrik", "Walmart Labs", "DE Shaw", "ByteDance", "Goldman Sachs", "Grab", "Zoho"
+  ],
+  "https://leetcode.com/problems/roman-to-integer/": [
+    "Roman to Integer", "Amazon", "Google", "Apple", "IBM", "Microsoft", "Yahoo", "Facebook", "Adobe", "Bloomberg", "Uber", "Accenture", "Zoho", "RBC", "Oracle", "tcs", "TikTok", "Yandex", "Expedia", "Flipkart"
+  ],
   "https://leetcode.com/problems/cherry-pickup-ii/":[
     "Cherry Pickup II", "Flipkart", "Amazon", "Google"
   ],
@@ -6,39 +3786,38 @@
     "Divide Array Into Arrays With Max Difference", "Google"
   ],
   "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/":[
-    "Number of Submatrices That Sum to Target", "Google", "Amazon"
+    "Number of Submatrices That Sum to Target", "Google", "Amazon", "Yahoo"
   ],
   "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/":[
-    "Maximum Length of a Concatenated String with Unique Characters", "Microsoft", "Tesla", "Uber"
+    "Maximum Length of a Concatenated String with Unique Characters", "Tesla", "Uber", "Amazon", "Adobe", "Microsoft", "Honey"
   ],
   "https://leetcode.com/problems/sum-of-subarray-minimums/":[
-    "Sum of Subarray Minimums", "Amazon", "Microsoft", "Apple"
+    "Sum of Subarray Minimums", "Amazon", "Microsoft", "Apple", "Bloomberg", "Yahoo", "Google", "Dunzo", "DE Shaw", "PhonePe"
   ],
   "https://leetcode.com/problems/find-players-with-zero-or-one-losses/":[
-    "Find Players With Zero or One Losses", "Palantir Technologies", "Indeed"
+    "Find Players With Zero or One Losses", "Amazon", "Palantir Technologies", "Indeed"
   ],
   "https://leetcode.com/problems/determine-if-string-halves-are-alike/":[
     "Determine if String Halves Are Alike", "Amazon"
   ],
   "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/":[
-    "Amount of Time for Binary Tree to Be Infected", "Amazon", "Microsoft", "ShareChat"
+    "Amount of Time for Binary Tree to Be Infected", "Amazon", "Bloomberg", "Adobe", "Apple", "PayPal", "Microsoft", "ShareChat"
   ],
   "https://leetcode.com/problems/maximum-profit-in-job-scheduling/":[
-    "Maximum Profit in Job Scheduling", "DoorDash", "Pinterest", "Urban Company"
+    "Maximum Profit in Job Scheduling", "DoorDash", "Pinterest", "Airbnb", "Amazon", "Google", "Snowflake", "Flipkart", "Databricks", "Adobe", "PhonePe", "zeta", "Urban Company", "Apple", "Oracle", "oyo", "Swiggy", "Uber", "TikTok", "Pony.ai"
   ],
   "https://leetcode.com/problems/longest-increasing-subsequence/":[
     "Longest Increasing Subsequence", "PayTM", "Amazon", "OYO", "Microsoft", "Samsung", "BankBazaar", "Adobe", "Citrix", 
     "CodeNation", "Facebook", "Google", "Zoho", "Atlassian", "ShareChat", "Barclays","Morgan Stanley","Phone Pe",
-    "Meesho","Expedia Group","Lenskart","Visa","Uber","Ola", "American Express",
-    "Disney + Hotstar", "Walmart","HSBC","TCS","Quikr","Grab",
-    "MakeMyTrip","Kronos Incorporated","Cognizant","HCL Technologies","IBM",
-    "Infosys","EnKash","UST Global","Kickdrum","Mercer Mettl","HashedIn","CGI Inc.","Bajaj Electricals Ltd",
+    "Meesho","Expedia Group","Lenskart","Visa","Uber","Ola", "American Express", "Disney + Hotstar", "Walmart","HSBC","TCS","Quikr","Grab", "MakeMyTrip",
+    "Kronos Incorporated","Cognizant","HCL Technologies","IBM", "Infosys","EnKash","UST Global","Kickdrum","Mercer Mettl","HashedIn","CGI Inc.","Bajaj Electricals Ltd",
     "Larsen & Toubro Infotech","Rootstock Software","Capgemini India Pvt. Ltd.","Quizizz Inc.","UdChalo",
     "Nosh technologies","Mathway","Filenet","Bonami Software Pvt. Ltd","Fi money","Piramal Group","MagicPIN","Chegg",
-    "Mphasis","BYJUS","BirdEye","Tekion Corp","Spinny"
+    "Mphasis","BYJUS","BirdEye","Tekion Corp","Spinny", "Goldman Sachs", "TikTok", "Oracle", "Apple",
+    "Commvault", "Yandex", "Accenture", "Booking.com", "Intuit", "Pure Storage", "Bloomberg", "VMware", "ByteDance", "PayPal", "Huawei", "Deutsche Bank", "TuSimple", "Chewy"
   ],
   "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/":[
-    "Minimum Number of Operations to Make Array Empty", "Amazon"
+    "Minimum Number of Operations to Make Array Empty", "Amazon", "Apple"
   ],
   "https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/":[
     "Convert an Array Into a 2D Array With Conditions", "Amazon"
@@ -7511,7 +11290,7 @@
     "Microsoft",
     "Apple",
     "Adobe",
-    "Yahoo"
+    "Yahoo", "TikTok", "JPMorgan and Chase", "tcs", "Wix"
   ],
   "https://leetcode.com/problems/group-anagrams/": [
     "Group Anagrams",
