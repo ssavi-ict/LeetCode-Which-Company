@@ -98,6 +98,7 @@ Contributor(s) -
 ----
 <br>
 
-**Special Thanks** to **B M Marjan Khan** [@marjankhan945](https://github.com/marjankhan945) for his emmense contribution, support and suggestions towards working on this project.
+**Special Thanks** to **B M Marjan Khan** [@marjankhan945](https://github.com/marjankhan945) for his immense contribution, support and suggestions towards working on this project.
+**Special Thanks** to [**Rifat Sahriar**](https://github.com/marjankhan945) for his immense support in collecting company information.
 
 Read the background about how I started working on this in [LC Which Company - A Company names retrieval extension](https://sites.google.com/view/iamavik/leetcode-which-company-a-company-names-retrieval-extension).
