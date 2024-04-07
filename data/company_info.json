@@ -1,4 +1,796 @@
 {
+  "https://leetcode.com/problems/find-trending-hashtags-ii/": [
+    "Find Trending Hashtags II"
+  ],
+  "https://leetcode.com/problems/find-bursty-behavior/": [
+    "Find Bursty Behavior"
+  ],
+  "https://leetcode.com/problems/find-trending-hashtags/": [
+    "Find Trending Hashtags"
+  ],
+  "https://leetcode.com/problems/calculate-trapping-rain-water/": [
+    "Calculate Trapping Rain Water"
+  ],
+  "https://leetcode.com/problems/user-activities-within-time-bounds/": [
+    "User Activities within Time Bounds"
+  ],
+  "https://leetcode.com/problems/find-all-unique-email-domains/": [
+    "Find All Unique Email Domains"
+  ],
+  "https://leetcode.com/problems/friends-with-no-mutual-friends/": [
+    "Friends With No Mutual Friends"
+  ],
+  "https://leetcode.com/problems/employees-project-allocation/": [
+    "Employees Project Allocation"
+  ],
+  "https://leetcode.com/problems/snaps-analysis/": [
+    "Snaps Analysis"
+  ],
+  "https://leetcode.com/problems/top-percentile-fraud/": [
+    "Top Percentile Fraud"
+  ],
+  "https://leetcode.com/problems/viewers-turned-streamers/": [
+    "Viewers Turned Streamers"
+  ],
+  "https://leetcode.com/problems/friday-purchases-ii/": [
+    "Friday Purchases II"
+  ],
+  "https://leetcode.com/problems/friday-purchases-i/": [
+    "Friday Purchases I"
+  ],
+  "https://leetcode.com/problems/top-three-wineries/": [
+    "Top Three Wineries"
+  ],
+  "https://leetcode.com/problems/loan-types/": [
+    "Loan Types"
+  ],
+  "https://leetcode.com/problems/class-performance/": [
+    "Class Performance"
+  ],
+  "https://leetcode.com/problems/manager-of-the-largest-department/": [
+    "Manager of the Largest Department"
+  ],
+  "https://leetcode.com/problems/find-expensive-cities/": [
+    "Find Expensive Cities"
+  ],
+  "https://leetcode.com/problems/find-third-transaction/": [
+    "Find Third Transaction"
+  ],
+  "https://leetcode.com/problems/calculate-compressed-mean/": [
+    "Calculate Compressed Mean"
+  ],
+  "https://leetcode.com/problems/find-peak-calling-hours-for-each-city/": [
+    "Find Peak Calling Hours for Each City"
+  ],
+  "https://leetcode.com/problems/binary-tree-nodes/": [
+    "Binary Tree Nodes"
+  ],
+  "https://leetcode.com/problems/classifying-triangles-by-lengths/": [
+    "Classifying Triangles by Lengths"
+  ],
+  "https://leetcode.com/problems/maximize-items/": [
+    "Maximize Items"
+  ],
+  "https://leetcode.com/problems/find-candidates-for-data-scientist-position/": [
+    "Find Candidates for Data Scientist Position"
+  ],
+  "https://leetcode.com/problems/pizza-toppings-cost-analysis/": [
+    "Pizza Toppings Cost Analysis"
+  ],
+  "https://leetcode.com/problems/symmetric-coordinates/": [
+    "Symmetric Coordinates"
+  ],
+  "https://leetcode.com/problems/market-analysis-iii/": [
+    "Market Analysis III"
+  ],
+  "https://leetcode.com/problems/calculate-orders-within-each-interval/": [
+    "Calculate Orders Within Each Interval"
+  ],
+  "https://leetcode.com/problems/rolling-average-steps/": [
+    "Rolling Average Steps"
+  ],
+  "https://leetcode.com/problems/highest-salaries-difference/": [
+    "Highest Salaries Difference"
+  ],
+  "https://leetcode.com/problems/total-traveled-distance/": [
+    "Total Traveled Distance"
+  ],
+  "https://leetcode.com/problems/election-results/": [
+    "Election Results"
+  ],
+  "https://leetcode.com/problems/status-of-flight-tickets/": [
+    "Status of Flight Tickets"
+  ],
+  "https://leetcode.com/problems/flight-occupancy-and-waitlist-analysis/": [
+    "Flight Occupancy and Waitlist Analysis"
+  ],
+  "https://leetcode.com/problems/count-occurrences-in-text/": [
+    "Count Occurrences in Text"
+  ],
+  "https://leetcode.com/problems/popularity-percentage/": [
+    "Popularity Percentage"
+  ],
+  "https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts/": [
+    "Consecutive Transactions with Increasing Amounts"
+  ],
+  "https://leetcode.com/problems/customers-with-maximum-number-of-transactions-on-consecutive-days/": [
+    "Customers with Maximum Number of Transactions on Consecutive Days"
+  ],
+  "https://leetcode.com/problems/find-active-users/": [
+    "Find Active Users"
+  ],
+  "https://leetcode.com/problems/bikes-last-time-used/": [
+    "Bikes Last Time Used"
+  ],
+  "https://leetcode.com/problems/immediate-food-delivery-iii/": [
+    "Immediate Food Delivery III"
+  ],
+  "https://leetcode.com/problems/count-artist-occurrences-on-spotify-ranking-list/": [
+    "Count Artist Occurrences On Spotify Ranking List"
+  ],
+  "https://leetcode.com/problems/find-latest-salaries/": [
+    "Find Latest Salaries"
+  ],
+  "https://leetcode.com/problems/concatenate-the-name-and-the-profession/": [
+    "Concatenate the Name and the Profession"
+  ],
+  "https://leetcode.com/problems/merge-overlapping-events-in-the-same-hall/": [
+    "Merge Overlapping Events in the Same Hall"
+  ],
+  "https://leetcode.com/problems/form-a-chemical-bond/": [
+    "Form a Chemical Bond"
+  ],
+  "https://leetcode.com/problems/customers-with-strictly-increasing-purchases/": [
+    "Customers With Strictly Increasing Purchases", "Amazon"
+  ],
+  "https://leetcode.com/problems/employees-with-deductions/": [
+    "Employees With Deductions", "Amazon"
+  ],
+  "https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value/": [
+    "Change Null Values in a Table to the Previous Value", "Deloitte"
+  ],
+  "https://leetcode.com/problems/sort-the-olympic-table/": [
+    "Sort the Olympic Table"
+  ],
+  "https://leetcode.com/problems/calculate-the-influence-of-each-salesperson/": [
+    "Calculate the Influence of Each Salesperson"
+  ],
+  "https://leetcode.com/problems/generate-the-invoice/": [
+    "Generate the Invoice"
+  ],
+  "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/": [
+    "Number of Unique Subjects Taught by Each Teacher", "Capgemini"
+  ],
+  "https://leetcode.com/problems/compute-the-rank-as-a-percentage/": [
+    "Compute the Rank as a Percentage"
+  ],
+  "https://leetcode.com/problems/all-the-matches-of-the-league/": [
+    "All the Matches of the League", "Microsoft"
+  ],
+  "https://leetcode.com/problems/product-sales-analysis-v/": [
+    "Product Sales Analysis V", "Amazon"
+  ],
+  "https://leetcode.com/problems/product-sales-analysis-iv/": [
+    "Product Sales Analysis IV", "Amazon"
+  ],
+  "https://leetcode.com/problems/the-first-day-of-the-maximum-recorded-degree-in-each-city/": [
+    "The First Day of the Maximum Recorded Degree in Each City"
+  ],
+  "https://leetcode.com/problems/arrange-table-by-gender/": [
+    "Arrange Table by Gender"
+  ],
+  "https://leetcode.com/problems/tasks-count-in-the-weekend/": [
+    "Tasks Count in the Weekend"
+  ],
+  "https://leetcode.com/problems/products-with-three-or-more-orders-in-two-consecutive-years/": [
+    "Products With Three or More Orders in Two Consecutive Years", "Amazon"
+  ],
+  "https://leetcode.com/problems/dynamic-unpivoting-of-a-table/": [
+    "Dynamic Unpivoting of a Table"
+  ],
+  "https://leetcode.com/problems/dynamic-pivoting-of-a-table/": [
+    "Dynamic Pivoting of a Table"
+  ],
+  "https://leetcode.com/problems/number-of-times-a-driver-was-a-passenger/": [
+    "Number of Times a Driver Was a Passenger", "Amazon"
+  ],
+  "https://leetcode.com/problems/the-users-that-are-eligible-for-discount/": [
+    "The Users That Are Eligible for Discount", "Analytics Quotient"
+  ],
+  "https://leetcode.com/problems/users-with-two-purchases-within-seven-days/": [
+    "Users With Two Purchases Within Seven Days", "Amazon"
+  ],
+  "https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount/": [
+    "The Number of Users That Are Eligible for Discount", "Analytics Quotient"
+  ],
+  "https://leetcode.com/problems/finding-the-topic-of-each-post/": [
+    "Finding the Topic of Each Post", "Facebook"
+  ],
+  "https://leetcode.com/problems/the-change-in-global-rankings/": [
+    "The Change in Global Rankings"
+  ],
+  "https://leetcode.com/problems/longest-winning-streak/": [
+    "Longest Winning Streak", "Amazon"
+  ],
+  "https://leetcode.com/problems/order-two-columns-independently/": [
+    "Order Two Columns Independently", "Amazon", "Booking.com"
+  ],
+  "https://leetcode.com/problems/the-number-of-passengers-in-each-bus-ii/": [
+    "The Number of Passengers in Each Bus II"
+  ],
+  "https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i/": [
+    "The Number of Passengers in Each Bus I"
+  ],
+  "https://leetcode.com/problems/build-the-equation/": [
+    "Build the Equation"
+  ],
+  "https://leetcode.com/problems/the-airport-with-the-most-traffic/": [
+    "The Airport With the Most Traffic"
+  ],
+  "https://leetcode.com/problems/drop-type-1-orders-for-customers-with-type-0-orders/": [
+    "Drop Type 1 Orders for Customers With Type 0 Orders"
+  ],
+  "https://leetcode.com/problems/the-number-of-rich-customers/": [
+    "The Number of Rich Customers", "Athenahealth"
+  ],
+  "https://leetcode.com/problems/the-winner-university/": [
+    "The Winner University", "Walmart Labs"
+  ],
+  "https://leetcode.com/problems/account-balance/": [
+    "Account Balance"
+  ],
+  "https://leetcode.com/problems/the-category-of-each-member-in-the-store/": [
+    "The Category of Each Member in the Store"
+  ],
+  "https://leetcode.com/problems/accepted-candidates-from-the-interviews/": [
+    "Accepted Candidates From the Interviews"
+  ],
+  "https://leetcode.com/problems/low-quality-problems/": [
+    "Low-Quality Problems"
+  ],
+  "https://leetcode.com/problems/number-of-accounts-that-did-not-stream/": [
+    "Number of Accounts That Did Not Stream", "Warnermedia"
+  ],
+  "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company-ii/": [
+    "The Number of Seniors and Juniors to Join the Company II"
+  ],
+  "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company/": [
+    "The Number of Seniors and Juniors to Join the Company", "Apple"
+  ],
+  "https://leetcode.com/problems/count-the-number-of-experiments/": [
+    "Count the Number of Experiments", "Strava"
+  ],
+  "https://leetcode.com/problems/find-cutoff-score-for-each-school/": [
+    "Find Cutoff Score for Each School"
+  ],
+  "https://leetcode.com/problems/employees-whose-manager-left-the-company/": [
+    "Employees Whose Manager Left the Company", "Adobe"
+  ],
+  "https://leetcode.com/problems/first-and-last-call-on-the-same-day/": [
+    "First and Last Call On the Same Day", "Amazon"
+  ],
+  "https://leetcode.com/problems/employees-with-missing-information/": [
+    "Employees With Missing Information", "Adobe"
+  ],
+  "https://leetcode.com/problems/all-the-pairs-with-the-maximum-number-of-common-followers/": [
+    "All the Pairs With the Maximum Number of Common Followers", "Instagram"
+  ],
+  "https://leetcode.com/problems/strong-friendship/": [
+    "Strong Friendship", "Facebook"
+  ],
+  "https://leetcode.com/problems/users-that-actively-request-confirmation-messages/": [
+    "Users That Actively Request Confirmation Messages"
+  ],
+  "https://leetcode.com/problems/confirmation-rate/": [
+    "Confirmation Rate", "Amazon"
+  ],
+  "https://leetcode.com/problems/leetcodify-similar-friends/": [
+    "Leetcodify Similar Friends", "Spotify"
+  ],
+  "https://leetcode.com/problems/leetcodify-friends-recommendations/": [
+    "Leetcodify Friends Recommendations", "Spotify"
+  ],
+  "https://leetcode.com/problems/count-salary-categories/": [
+    "Count Salary Categories"
+  ],
+  "https://leetcode.com/problems/page-recommendations-ii/": [
+    "Page Recommendations II", "Facebook"
+  ],
+  "https://leetcode.com/problems/the-latest-login-in-2020/": [
+    "The Latest Login in 2020"
+  ],
+  "https://leetcode.com/problems/group-employees-of-the-same-salary/": [
+    "Group Employees of the Same Salary", "Clari"
+  ],
+  "https://leetcode.com/problems/calculate-special-bonus/": [
+    "Calculate Special Bonus", "Apple"
+  ],
+  "https://leetcode.com/problems/orders-with-maximum-quantity-above-average/": [
+    "Orders With Maximum Quantity Above Average"
+  ],
+  "https://leetcode.com/problems/convert-date-format/": [
+    "Convert Date Format"
+  ],
+  "https://leetcode.com/problems/suspicious-bank-accounts/": [
+    "Suspicious Bank Accounts", "JPMorgan and Chase"
+  ],
+  "https://leetcode.com/problems/league-statistics/": [
+    "League Statistics"
+  ],
+  "https://leetcode.com/problems/maximum-transaction-each-day/": [
+    "Maximum Transaction Each Day"
+  ],
+  "https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/": [
+    "Find Customers With Positive Revenue this Year", "Google"
+  ],
+  "https://leetcode.com/problems/find-interview-candidates/": [
+    "Find Interview Candidates", "Amazon"
+  ],
+  "https://leetcode.com/problems/ad-free-sessions/": [
+    "Ad-Free Sessions", "Amazon"
+  ],
+  "https://leetcode.com/problems/rearrange-products-table/": [
+    "Rearrange Products Table", "Bloomberg", "Apple", "Amazon"
+  ],
+  "https://leetcode.com/problems/primary-department-for-each-employee/": [
+    "Primary Department for Each Employee"
+  ],
+  "https://leetcode.com/problems/grand-slam-titles/": [
+    "Grand Slam Titles", "Amazon"
+  ],
+  "https://leetcode.com/problems/products-price-for-each-store/": [
+    "Product's Price for Each Store", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-the-subtasks-that-did-not-execute/": [
+    "Find the Subtasks That Did Not Execute", "Google"
+  ],
+  "https://leetcode.com/problems/recyclable-and-low-fat-products/": [
+    "Recyclable and Low Fat Products", "Amazon", "Facebook", "Microsoft", "Adobe", "Google", "Apple", "Bloomberg", "Uber", "Yahoo"
+  ],
+  "https://leetcode.com/problems/leetflex-banned-accounts/": [
+    "Leetflex Banned Accounts", "Audible"
+  ],
+  "https://leetcode.com/problems/find-total-time-spent-by-each-employee/": [
+    "Find Total Time Spent by Each Employee", "Adobe", "Amazon"
+  ],
+  "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/": [
+    "The Number of Employees Which Report to Each Employee", "Amazon", "Coderbyte"
+  ],
+  "https://leetcode.com/problems/find-followers-count/": [
+    "Find Followers Count", "Uber", "Tesla"
+  ],
+  "https://leetcode.com/problems/count-apples-and-oranges/": [
+    "Count Apples and Oranges"
+  ],
+  "https://leetcode.com/problems/biggest-window-between-visits/": [
+    "Biggest Window Between Visits"
+  ],
+  "https://leetcode.com/problems/number-of-calls-between-two-persons/": [
+    "Number of Calls Between Two Persons", "Facebook", "Amazon"
+  ],
+  "https://leetcode.com/problems/daily-leads-and-partners/": [
+    "Daily Leads and Partners"
+  ],
+  "https://leetcode.com/problems/invalid-tweets/": [
+    "Invalid Tweets", "Amazon", "Adobe", "Twitter", "Yahoo"
+  ],
+  "https://leetcode.com/problems/products-worth-over-invoices/": [
+    "Product's Worth Over Invoices"
+  ],
+  "https://leetcode.com/problems/fix-names-in-a-table/": [
+    "Fix Names in a Table", "Adobe"
+  ],
+  "https://leetcode.com/problems/average-time-of-process-per-machine/": [
+    "Average Time of Process per Machine", "Amazon", "Adobe", "Bloomberg", "Microsoft", "Apple", "Google", "Facebook"
+  ],
+  "https://leetcode.com/problems/hopper-company-queries-iii/": [
+    "Hopper Company Queries III", "Uber"
+  ],
+  "https://leetcode.com/problems/hopper-company-queries-ii/": [
+    "Hopper Company Queries II", "Uber"
+  ],
+  "https://leetcode.com/problems/hopper-company-queries-i/": [
+    "Hopper Company Queries I", "Uber"
+  ],
+  "https://leetcode.com/problems/percentage-of-users-attended-a-contest/": [
+    "Percentage of Users Attended a Contest"
+  ],
+  "https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country/": [
+    "All Valid Triplets That Can Represent a Country", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-the-missing-ids/": [
+    "Find the Missing IDs", "Amazon"
+  ],
+  "https://leetcode.com/problems/sellers-with-no-sales/": [
+    "Sellers With No Sales"
+  ],
+  "https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/": [
+    "The Most Frequently Ordered Products for Each Customer"
+  ],
+  "https://leetcode.com/problems/bank-account-summary-ii/": [
+    "Bank Account Summary II"
+  ],
+  "https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/": [
+    "Customer Who Visited but Did Not Make Any Transactions", "Amazon", "Adobe", "Apple", "Nerdwallet"
+  ],
+  "https://leetcode.com/problems/warehouse-manager/": [
+    "Warehouse Manager", "Amazon"
+  ],
+  "https://leetcode.com/problems/unique-orders-and-customers-per-month/": [
+    "Unique Orders and Customers Per Month", "Whole Food Market"
+  ],
+  "https://leetcode.com/problems/bank-account-summary/": [
+    "Bank Account Summary", "Optum"
+  ],
+  "https://leetcode.com/problems/the-most-recent-orders-for-each-product/": [
+    "The Most Recent Orders for Each Product"
+  ],
+  "https://leetcode.com/problems/fix-product-name-format/": [
+    "Fix Product Name Format"
+  ],
+  "https://leetcode.com/problems/the-most-recent-three-orders/": [
+    "The Most Recent Three Orders"
+  ],
+  "https://leetcode.com/problems/patients-with-a-condition/": [
+    "Patients With a Condition"
+  ],
+  "https://leetcode.com/problems/find-users-with-valid-e-mails/": [
+    "Find Users With Valid E-Mails"
+  ],
+  "https://leetcode.com/problems/customer-order-frequency/": [
+    "Customer Order Frequency", "Amazon"
+  ],
+  "https://leetcode.com/problems/countries-you-can-safely-invest-in/": [
+    "Countries You Can Safely Invest In"
+  ],
+  "https://leetcode.com/problems/friendly-movies-streamed-last-month/": [
+    "Friendly Movies Streamed Last Month", "Amazon"
+  ],
+  "https://leetcode.com/problems/group-sold-products-by-the-date/": [
+    "Group Sold Products By The Date", "Adobe", "StartUp"
+  ],
+  "https://leetcode.com/problems/sales-by-day-of-the-week/": [
+    "Sales by Day of the Week", "Amazon"
+  ],
+  "https://leetcode.com/problems/calculate-salaries/": [
+    "Calculate Salaries", "StartUp"
+  ],
+  "https://leetcode.com/problems/rectangles-area/": [
+    "Rectangles Area", "Twitter"
+  ],
+  "https://leetcode.com/problems/active-users/": [
+    "Active Users", "Amazon", "Facebook", "TikTok"
+  ],
+  "https://leetcode.com/problems/apples-oranges/": [
+    "Apples & Oranges", "Facebook"
+  ],
+  "https://leetcode.com/problems/evaluate-boolean-expression/": [
+    "Evaluate Boolean Expression", "Point72"
+  ],
+  "https://leetcode.com/problems/create-a-session-bar-chart/": [
+    "Create a Session Bar Chart", "Twitch"
+  ],
+  "https://leetcode.com/problems/npv-queries/": [
+    "NPV Queries", "Amazon"
+  ],
+  "https://leetcode.com/problems/find-the-quiet-students-in-all-exams/": [
+    "Find the Quiet Students in All Exams"
+  ],
+  "https://leetcode.com/problems/top-travellers/": [
+    "Top Travellers", "Point72"
+  ],
+  "https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/": [
+    "Customers Who Bought Products A and B but Not C", "Facebook"
+  ],
+  "https://leetcode.com/problems/capital-gainloss/": [
+    "Capital Gain/Loss", "Amazon", "Robinhood"
+  ],
+  "https://leetcode.com/problems/total-sales-amount-by-year/": [
+    "Total Sales Amount by Year"
+  ],
+  "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/": [
+    "Replace Employee ID With The Unique Identifier", "Google", "Amazon", "Adobe", "Point72"
+  ],
+  "https://leetcode.com/problems/get-the-second-most-recent-activity/": [
+    "Get the Second Most Recent Activity", "Microsoft"
+  ],
+  "https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/": [
+    "Number of Trusted Contacts of a Customer", "Robolox"
+  ],
+  "https://leetcode.com/problems/activity-participants/": [
+    "Activity Participants", "IBM"
+  ],
+  "https://leetcode.com/problems/students-with-invalid-departments/": [
+    "Students With Invalid Departments", "Amazon"
+  ],
+  "https://leetcode.com/problems/movie-rating/": [
+    "Movie Rating", "SAP"
+  ],
+  "https://leetcode.com/problems/number-of-transactions-per-visit/": [
+    "Number of Transactions per Visit", "Machine Zone"
+  ],
+  "https://leetcode.com/problems/list-the-products-ordered-in-a-period/": [
+    "List the Products Ordered in a Period", "Amazon"
+  ],
+  "https://leetcode.com/problems/ads-performance/": [
+    "Ads Performance", "Facebook"
+  ],
+  "https://leetcode.com/problems/restaurant-growth/": [
+    "Restaurant Growth", "Point72"
+  ],
+  "https://leetcode.com/problems/running-total-for-different-genders/": [
+    "Running Total for Different Genders"
+  ],
+  "https://leetcode.com/problems/find-the-team-size/": [
+    "Find the Team Size", "Amazon"
+  ],
+  "https://leetcode.com/problems/weather-type-in-each-country/": [
+    "Weather Type in Each Country", "Point72"
+  ],
+  "https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/": [
+    "Find the Start and End Number of Continuous Ranges", "Microsoft"
+  ],
+  "https://leetcode.com/problems/students-and-examinations/": [
+    "Students and Examinations", "Yahoo", "Amazon", "Robolox"
+  ],
+  "https://leetcode.com/problems/all-people-report-to-the-given-manager/": [
+    "All People Report to the Given Manager", "Adobe", "Google"
+  ],
+  "https://leetcode.com/problems/page-recommendations/": [
+    "Page Recommendations", "Facebook"
+  ],
+  "https://leetcode.com/problems/average-selling-price/": [
+    "Average Selling Price", "Google", "Amazon", "Apple", "Adobe"
+  ],
+  "https://leetcode.com/problems/number-of-comments-per-post/": [
+    "Number of Comments per Post", "Facebook"
+  ],
+  "https://leetcode.com/problems/report-contiguous-dates/": [
+    "Report Contiguous Dates", "Facebook"
+  ],
+  "https://leetcode.com/problems/team-scores-in-football-tournament/": [
+    "Team Scores in Football Tournament", "Wayfair"
+  ],
+  "https://leetcode.com/problems/queries-quality-and-percentage/": [
+    "Queries Quality and Percentage", "Amazon", "Facebook"
+  ],
+  "https://leetcode.com/problems/monthly-transactions-ii/": [
+    "Monthly Transactions II", "Wish"
+  ],
+  "https://leetcode.com/problems/last-person-to-fit-in-the-bus/": [
+    "Last Person to Fit in the Bus", "Amazon"
+  ],
+  "https://leetcode.com/problems/tournament-winners/": [
+    "Tournament Winners", "Wayfair"
+  ],
+  "https://leetcode.com/problems/monthly-transactions-i/": [
+    "Monthly Transactions I", "Adobe", "Wayfair", "Wish"
+  ],
+  "https://leetcode.com/problems/reformat-department-table/": [
+    "Reformat Department Table", "Amazon"
+  ],
+  "https://leetcode.com/problems/immediate-food-delivery-ii/": [
+    "Immediate Food Delivery II", "Apple", "DoorDash"
+  ],
+  "https://leetcode.com/problems/immediate-food-delivery-i/": [
+    "Immediate Food Delivery I", "DoorDash"
+  ],
+  "https://leetcode.com/problems/product-price-at-a-given-date/": [
+    "Product Price at a Given Date", "Google", "Amazon", "Yahoo"
+  ],
+  "https://leetcode.com/problems/market-analysis-ii/": [
+    "Market Analysis II", "Poshmark"
+  ],
+  "https://leetcode.com/problems/market-analysis-i/": [
+    "Market Analysis I", "Poshmark"
+  ],
+  "https://leetcode.com/problems/article-views-ii/": [
+    "Article Views II", "LinkedIn"
+  ],
+  "https://leetcode.com/problems/article-views-i/": [
+    "Article Views I", "Bloomberg", "Adobe", "Google", "Amazon", "Apple", "Yahoo", "Uber", "LinkedIn"
+  ],
+  "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/": [
+    "User Activity for the Past 30 Days II", "Facebook", "Zoom"
+  ],
+  "https://leetcode.com/problems/user-activity-for-the-past-30-days-i/": [
+    "User Activity for the Past 30 Days I", "Facebook", "Bloomberg", "Zoom"
+  ],
+  "https://leetcode.com/problems/reported-posts-ii/": [
+    "Reported Posts II", "Facebook"
+  ],
+  "https://leetcode.com/problems/user-purchase-platform/": [
+    "User Purchase Platform", "LinkedIn"
+  ],
+  "https://leetcode.com/problems/active-businesses/": [
+    "Active Businesses", "Yelp"
+  ],
+  "https://leetcode.com/problems/reported-posts/": [
+    "Reported Posts", "Facebook"
+  ],
+  "https://leetcode.com/problems/highest-grade-for-each-student/": [
+    "Highest Grade For Each Student", "Coursera"
+  ],
+  "https://leetcode.com/problems/new-users-daily-count/": [
+    "New Users Daily Count", "LinkedIn"
+  ],
+  "https://leetcode.com/problems/unpopular-books/": [
+    "Unpopular Books"
+  ],
+  "https://leetcode.com/problems/game-play-analysis-v/": [
+    "Game Play Analysis V", "GSN Games"
+  ],
+  "https://leetcode.com/problems/game-play-analysis-iv/": [
+    "Game Play Analysis IV", "Adobe", "GSN Games"
+  ],
+  "https://leetcode.com/problems/game-play-analysis-iii/": [
+    "Game Play Analysis III", "GSN Games"
+  ],
+  "https://leetcode.com/problems/game-play-analysis-ii/": [
+    "Game Play Analysis II", "GSN Games"
+  ],
+  "https://leetcode.com/problems/game-play-analysis-i/": [
+    "Game Play Analysis I", "Apple", "Adobe", "Bloomberg", "Amazon", "GSN Games"
+  ],
+  "https://leetcode.com/problems/sales-analysis-iii/": [
+    "Sales Analysis III", "Amazon"
+  ],
+  "https://leetcode.com/problems/sales-analysis-ii/": [
+    "Sales Analysis II", "Amazon"
+  ],
+  "https://leetcode.com/problems/sales-analysis-i/": [
+    "Sales Analysis I", "Amazon"
+  ],
+  "https://leetcode.com/problems/project-employees-iii/": [
+    "Project Employees III", "Facebook"
+  ],
+  "https://leetcode.com/problems/project-employees-ii/": [
+    "Project Employees II", "Facebook"
+  ],
+  "https://leetcode.com/problems/project-employees-i/": [
+    "Project Employees I", "Amazon", "Facebook"
+  ],
+  "https://leetcode.com/problems/product-sales-analysis-iii/": [
+    "Product Sales Analysis III", "Amazon"
+  ],
+  "https://leetcode.com/problems/product-sales-analysis-ii/": [
+    "Product Sales Analysis II", "Amazon"
+  ],
+  "https://leetcode.com/problems/product-sales-analysis-i/": [
+    "Product Sales Analysis I", "Google", "Amazon", "Adobe"
+  ],
+  "https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/": [
+    "Actors and Directors Who Cooperated At Least Three Times", "Amazon"
+  ],
+  "https://leetcode.com/problems/customers-who-bought-all-products/": [
+    "Customers Who Bought All Products", "Apple", "Amazon", "Adobe"
+  ],
+  "https://leetcode.com/problems/swap-salary/": [
+    "Swap Salary", "Apple", "Yahoo"
+  ],
+  "https://leetcode.com/problems/exchange-seats/": [
+    "Exchange Seats", "Amazon", "Uber", "Bloomberg", "Yahoo"
+  ],
+  "https://leetcode.com/problems/not-boring-movies/": [
+    "Not Boring Movies", "Amazon"
+  ],
+  "https://leetcode.com/problems/biggest-single-number/": [
+    "Biggest Single Number", "Apple"
+  ],
+  "https://leetcode.com/problems/students-report-by-geography/": [
+    "Students Report By Geography", "Amazon"
+  ],
+  "https://leetcode.com/problems/average-salary-departments-vs-company/": [
+    "Average Salary: Departments VS Company"
+  ],
+  "https://leetcode.com/problems/second-degree-follower/": [
+    "Second Degree Follower"
+  ],
+  "https://leetcode.com/problems/shortest-distance-in-a-line/": [
+    "Shortest Distance in a Line"
+  ],
+  "https://leetcode.com/problems/shortest-distance-in-a-plane/": [
+    "Shortest Distance in a Plane"
+  ],
+  "https://leetcode.com/problems/triangle-judgement/": [
+    "Triangle Judgement", "Amazon", "Apple"
+  ],
+  "https://leetcode.com/problems/tree-node/": [
+    "Tree Node", "Microsoft", "Twitter"
+  ],
+  "https://leetcode.com/problems/sales-person/": [
+    "Sales Person", "Uber", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/consecutive-available-seats/": [
+    "Consecutive Available Seats", "Amazon"
+  ],
+  "https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/": [
+    "Friend Requests II: Who Has the Most Friends", "Amazon", "Facebook"
+  ],
+  "https://leetcode.com/problems/human-traffic-of-stadium/": [
+    "Human Traffic of Stadium", "Amazon"
+  ],
+  "https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/": [
+    "Friend Requests I: Overall Acceptance Rate", "Facebook"
+  ],
+  "https://leetcode.com/problems/classes-more-than-5-students/": [
+    "Classes More Than 5 Students"
+  ],
+  "https://leetcode.com/problems/big-countries/": [
+    "Big Countries", "Amazon", "Apple", "Google", "Bloomberg", "Adobe", "Facebook", "Yahoo"
+  ],
+  "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/": [
+    "Customer Placing the Largest Number of Orders", "Adobe", "Google", "Apple", "Uber", "Twitter"
+  ],
+  "https://leetcode.com/problems/investments-in-2016/": [
+    "Investments in 2016", "Twitter"
+  ],
+  "https://leetcode.com/problems/find-customer-referee/": [
+    "Find Customer Referee", "Amazon", "Google", "Facebook", "Apple", "Adobe", "Uber"
+  ],
+  "https://leetcode.com/problems/count-student-number-in-departments/": [
+    "Count Student Number in Departments", "Twitter"
+  ],
+  "https://leetcode.com/problems/find-cumulative-salary-of-an-employee/": [
+    "Find Cumulative Salary of an Employee", "Amazon"
+  ],
+  "https://leetcode.com/problems/get-highest-answer-rate-question/": [
+    "Get Highest Answer Rate Question", "Facebook"
+  ],
+  "https://leetcode.com/problems/employee-bonus/": [
+    "Employee Bonus", "Google", "Amazon", "Netsuite"
+  ],
+  "https://leetcode.com/problems/winning-candidate/": [
+    "Winning Candidate"
+  ],
+  "https://leetcode.com/problems/find-median-given-frequency-of-numbers/": [
+    "Find Median Given Frequency of Numbers", "Pinterest"
+  ],
+  "https://leetcode.com/problems/managers-with-at-least-5-direct-reports/": [
+    "Managers with at Least 5 Direct Reports", "Amazon", "Google", "Microsoft", "Apple", "Bloomberg", "Yahoo", "Adobe", "Uber"
+  ],
+  "https://leetcode.com/problems/median-employee-salary/": [
+    "Median Employee Salary", "Google"
+  ],
+  "https://leetcode.com/problems/trips-and-users/": [
+    "Trips and Users", "Amazon", "Adobe", "Bloomberg", "Uber"
+  ],
+  "https://leetcode.com/problems/rising-temperature/": [
+    "Rising Temperature", "Bloomberg", "Amazon", "Adobe", "Google", "Yahoo", "Uber"
+  ],
+  "https://leetcode.com/problems/delete-duplicate-emails/": [
+    "Delete Duplicate Emails", "Amazon", "Apple", "Oracle", "Uber"
+  ],
+  "https://leetcode.com/problems/department-top-three-salaries/": [
+    "Department Top Three Salaries", "Google", "Microsoft", "Amazon", "Facebook", "Uber"
+  ],
+  "https://leetcode.com/problems/department-highest-salary/": [
+    "Department Highest Salary", "Amazon", "Apple", "Google", "Adobe"
+  ],
+  "https://leetcode.com/problems/customers-who-never-order/": [
+    "Customers Who Never Order", "Amazon", "Apple", "Bloomberg", "Adobe"
+  ],
+  "https://leetcode.com/problems/duplicate-emails/": [
+    "Duplicate Emails", "Amazon", "Adobe", "Uber"
+  ],
+  "https://leetcode.com/problems/employees-earning-more-than-their-managers/": [
+    "Employees Earning More Than Their Managers", "Amazon", "Yahoo", "Apple", "Uber", "Google", "Bloomberg", "Microsoft", "Wix"
+  ],
+  "https://leetcode.com/problems/consecutive-numbers/": [
+    "Consecutive Numbers", "Amazon", "Facebook", "Apple", "Adobe", "Uber"
+  ],
+  "https://leetcode.com/problems/rank-scores/": [
+    "Rank Scores", "Google", "Adobe", "Amazon", "Apple", "Uber"
+  ],
+  "https://leetcode.com/problems/nth-highest-salary/": [
+    "Nth Highest Salary", "Amazon", "Adobe", "Bloomberg"
+  ],
+  "https://leetcode.com/problems/second-highest-salary/": [
+    "Second Highest Salary", "Adobe", "Apple", "Amazon", "Accenture", "Google", "tcs", "Microsoft", "Oracle", "Yahoo", "EPAM Systems", "Amdocs"
+  ],
+  "https://leetcode.com/problems/combine-two-tables/": [
+    "Combine Two Tables", "Amazon", "Bloomberg", "Apple", "Google", "Microsoft", "Adobe", "Facebook"
+  ],
   "https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/": [
     "Most Expensive Item That Can Not Be Bought", "Amazon"
   ],
