@@ -9,14 +9,18 @@ from config import CONFIG
 class CONTEST(object):
     def __init__(self, contest_info_path):
         self.contest_info_path = contest_info_path
+        self.header = headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+        }
 
     # noinspection PyMethodMayBeStatic
     def get_all_urls(self):
-        time.sleep(5)
-        reqs = requests.get(url=CONFIG.CONTEST_ROOT_URL)
-        time.sleep(10)
+        time.sleep(2)
+        # response = requests.get(api_url, headers=headers)
+        reqs = requests.get(url=CONFIG.CONTEST_ROOT_URL, headers=self.header)
+        time.sleep(2)
         b_soup = BeautifulSoup(reqs.text, 'html.parser')
-        time.sleep(5)
+        time.sleep(2)
         all_urls = []
         for href in b_soup.find_all('a'):
             all_urls.append(href.get('href'))
@@ -42,7 +46,7 @@ class CONTEST(object):
 
         for slug in contest_slugs:
             formed_url = CONFIG.CONTEST_API_ENDPOINT + slug
-            response = requests.get(formed_url)
+            response = requests.get(formed_url, headers=self.header)
             response_json = response.json()
             is_private = response_json["contest"]["is_private"]
             contest_start_time = response_json["contest"]["start_time"]
@@ -51,7 +55,7 @@ class CONTEST(object):
                 print("[ " + str(is_private) + " ]", contest_title, ' is private ... ')
                 continue
             contest_duration = response_json["contest"]["duration"]
-            print("Contest Info : ", contest_title, contest_start_time, contest_duration, is_virtual, is_private)
+            print("Contest Info : ", contest_title, contest_start_time, contest_duration, is_private)
             contest_info = {
                 "title": contest_title, "start_time": contest_start_time, "contest_duration": contest_duration
             }
@@ -83,3 +87,4 @@ if __name__ == '__main__':
     contest.store_valid_contests_in_json()
 
 # all_url = ['/', '/explore/', '/problemset/all/', '/contest/', '/discuss/', '/', None, '/contest/weekly-contest-350', '/contest/biweekly-contest-107', '/business/contact/', '/contest/weekly-contest-291', '/contest/weekly-contest-290', '/contest/biweekly-contest-85', '/contest/weekly-contest-349', None, '/contest/biweekly-contest-106', None, '/contest/weekly-contest-348', None, '/contest/weekly-contest-347', None, '/contest/biweekly-contest-105', None, '/contest/weekly-contest-346', None, '/contest/weekly-contest-345', None, '/contest/biweekly-contest-104', None, '/contest/weekly-contest-344', None, '/contest/weekly-contest-343', None, '/neal_wu', 'https://leetcode.cn/u/Heltion', 'https://leetcode.cn/u/JOHNKRAM', '/numb3r5', 'https://leetcode.cn/u/int65536', 'https://leetcode.cn/u/arignote', '/hank55663', '/xiaowuc1', '/qeetcode', '/AntonRaichuk', '/contest/globalranking', '/support/', '/jobs/', '/bugbounty/', '/interview/', '/student/', '/terms/', '/privacy/', '/region/']
+
