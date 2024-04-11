@@ -7,7 +7,7 @@ on:
 
 jobs:
   run_contest_script:
-    runs-on: windows-latest
+    runs-on: windows-latest  # Changed to run on Windows
 
     steps:
       - name: Checkout code
@@ -19,9 +19,13 @@ jobs:
           python-version: '3.12.0'
 
       - name: Install dependencies
-        run: pip install -r scripts/requirements.txt
+        run: |
+          pip install -r scripts/requirements.txt
+          # Additional steps to install git
+          choco install git -y
 
       - name: Check if branch exists
+        shell: bash  # Use bash shell to execute Git commands
         run: |
           branch_exists=$(git ls-remote --exit-code --heads origin automate-c-json-update || echo "")
           if [ -n "$branch_exists" ]; then
@@ -58,6 +62,6 @@ jobs:
           pr_body="This pull request updates the JSON file automatically."
 
           # Create the pull request using the GitHub API
-          curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          -d "{\"title\":\"$pr_title\",\"body\":\"$pr_body\",\"head\":\"$pr_branch\",\"base\":\"main\"}" \
+          curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" `
+          -d "{\"title\":\"$pr_title\",\"body\":\"$pr_body\",\"head\":\"$pr_branch\",\"base\":\"main\"}" `
           "https://api.github.com/repos/$GITHUB_REPOSITORY/pulls"
