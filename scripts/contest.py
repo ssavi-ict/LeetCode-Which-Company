@@ -9,7 +9,7 @@ from config import CONFIG
 class CONTEST(object):
     def __init__(self, contest_info_path):
         self.contest_info_path = contest_info_path
-        self.header = headers = {
+        self.header = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
         }
 
