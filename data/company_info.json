@@ -11365,7 +11365,9 @@
     "Sum Root to Leaf Numbers",
     "Facebook",
     "Microsoft",
-    "Amazon"
+    "Amazon", 
+    "ServiceNow", 
+    "Bloomberg"
   ],
   "https://leetcode.com/problems/longest-consecutive-sequence/": [
     "Longest Consecutive Sequence",
