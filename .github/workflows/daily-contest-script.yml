@@ -32,7 +32,7 @@ jobs:
           fi
 
       - name: Run contest.py script
-        run: python scripts/contest.py
+        run: python scripts/contest_parse.py
 
       - name: Check for changes
         id: git-diff
