@@ -10921,7 +10921,18 @@
     "Dropbox",
     "Square",
     "Twitch",
-    "Cruise Automation"
+    "Cruise Automation",
+    "Yandex",
+    "Tesla",
+    "Samsung",
+    "Siemens",
+    "turing",
+    "Yahoo",
+    "Walmart Labs",
+    "Disney",
+    "Citadel",
+    "Snowflake",
+    "Ozon"
   ],
   "https://leetcode.com/problems/binary-tree-right-side-view/": [
     "Binary Tree Right Side View",
