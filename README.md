@@ -47,24 +47,27 @@ When solving a problem if you click on the ![icon](chrome/res/32.png) from the *
 ![found](/static/webfile/info_shows.PNG)
 - Updation of company information scheduled to be done on a regular basis. You can check the commits tagged `company-info`.
 
-- **💥 NEW FEATURE 💥**
-    
-    - Once you click on the **[All Company]** button it will open up a page where you can see all the problems available in our storage with company names are listed as follows - ![all company](/static/webfile/complete_list.png)
+- **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
+    - [v2.1.0] Click on **[Company &Equilibrium; Problems]** button you will be landed on page where you can click on a company to see all the problems asked by that company as follows - ![all company](/static/webfile/company-filtering.png)
+
+- **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
+    - [v2.0.0] Click on **[DSA Preparation]** button ![DSA Preparation](/static/webfile/dsa-preparation.png). From now on you can practice the question of SDE Sheets and track progress accordingly. Check your SDE sheet completion status for **Striver's SDE Sheet, Blind75 SDE Sheet, NeetCode SDE Sheet** altogether. ![SDE Sheet](/static/webfile/sde_sheet.gif)
+
+- **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
+    - [v1.0.8] From now on you will be able to see the companies who asked a question recently for a certain problem. From the available company information for a problem, there will be a (✯) sign located on the right side of the top **5** company. This feature has been added on **[Pop Up Window], [Company &Equilibrium; Problems]** page. 
+        - *This information has been collected from the different sources of the internet. It will be hard to verify the exact timeline.*
+- **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
+    - [v1.0.7] Click on the **[DSA Preparation]** button ![DSA Preparation](/static/webfile/dsa-preparation.png), it redirect to your preparation zone.
+    It shows your solving summary from where you can get picture of your solving history. Moreover, your going to get suggestions to solve the next Easy/Medium/Hard problem. Now your preparation is going even more fine-tuned. ![solve the next](/static/webfile/problem-suggestion.PNG)
 
 - **💥 NEW FEATURE 💥**
     - Click on the **[DSA Preparation]** button ![DSA Preparation](/static/webfile/dsa-preparation.png), it will open a page where you can see all upcoming Leetcode weekly and Biweekly contests listed with your local timing and with duration as below - 
     ![details_contest_list](/static/webfile/leetcoder.PNG) Clickable link will redirect to actual contest page.
     - The checkbox (*marked in red*) can be checked to receive contest notification everyday twice a day or unchecked if you wish not to receive contest notification. ![notification](/static/webfile/notification.PNG)
 
-- **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
-    - [v1.0.7] Click on the **[DSA Preparation]** button ![DSA Preparation](/static/webfile/dsa-preparation.png), it redirect to your preparation zone.
-    It shows your solving summary from where you can get picture of your solving history. Moreover, your going to get suggestions to solve the next Easy/Medium/Hard problem. Now your preparation is going even more fine-tuned. ![solve the next](/static/webfile/problem-suggestion.PNG)
-
-- **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
-    - [v1.0.8] From now on you will be able to see the companies who asked a question recently for a certain problem. From the available company information for a problem, there will be a (✯) sign located on the right side of the top **5** company. This feature has been added on **[Pop Up Window], [All Company]** page. 
-        - *This information has been collected from the different sources of the internet. It will be hard to verify the exact timeline.*
-- **💥 NEW FEATURE 💥** [*Chrome Only Feature*]
-    - [v2.0.0] Click on **[DSA Preparation]** button ![DSA Preparation](/static/webfile/dsa-preparation.png). From now on you can practice the question of SDE Sheets and track progress accordingly. Check your SDE sheet completion status for **Striver's SDE Sheet, Blind75 SDE Sheet, NeetCode SDE Sheet** altogether. ![SDE Sheet](/static/webfile/sde_sheet.gif)
+- **💥 NEW FEATURE 💥**
+    - Once you click on the **[Company &Equilibrium; Problems]** button it will open up a page where you can see all the problems available in our storage with company names are listed as follows - ![all company](/static/webfile/problem-filtering.png)
+    
 
 <br>
 

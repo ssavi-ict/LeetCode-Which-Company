@@ -4,41 +4,13 @@
     <meta charset="utf-8">   
     <title>CrackTech-LeetCode Company Tag, DSA Preparation</title>
     <style>
-        .content-item a img{
-            height: auto;
-            width: 60%;
-            padding: 10px;
-            flex: 1;
-        }
-        #noticeListContainer {
-            border: 2px dashed red;
-            padding: 10px;
-            border-radius: 5px;
-            margin-top: 15px;
-            font-family: Verdana, Geneva, Tahoma, sans-serif;
-            background-color: #f8f6f6; /* Light gray background */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Gray shadow */
-        }
-
-        #noticeTitle {
-            font-size: 15px;
-            color: #336699; /* Eye-soothing color */
-            margin-bottom: 10px;
-        }
-
-        #noticeList {
-            list-style-type: decimal;
-        }
-
-        #noticeList li {
-            font-size: 12px;
-            margin-bottom: 5px;
-            color: dodgerblue;
-        }
+        
     </style>
     <script type="text/javascript" src="script/notices.script.js"></script>
+    <script type="text/javascript" src="script/tabsim.script.js"></script>
     <meta name="description" content="Bootstrap.">  
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/index_styles.css" rel="stylesheet">
     <script src="script/jquery.min.js"></script>
     <link rel="stylesheet" href="css/jquery.dataTables.min.css"></style>
     <script type="text/javascript" src="script/jquery.dataTables.min.js"></script>
@@ -52,14 +24,9 @@
             <h1>APPRECIATE</h1>
             Hello, Dear Leetcoder... <br>
             Thank you for using <a href = "https://github.com/ssavi-ict/LC-Which-Company" target="_blank">CrackTech - Find LeetCode Company Tags</a> (<i>Previously LeetCode-Which-Company</i>). <br> 
-            I appreciate your effort towards sharpening your DSA skills and making your path towards your dream company.
-            This is a small effort to help you in your dream company specific preparation. Read the 
-            <a href = "https://sites.google.com/view/iamavik/leetcode-which-company-a-company-names-retrieval-extension" target="_blank">background</a>
-            of working on this extension. Visit my writings on <a href="https://sites.google.com/view/iamavik/" target="_blank">Avik Sarkar | <i>Let Avik Connect You!</i></a>
             <br>
             Please do consider sharing this free extension among your fellow LeetCoders. I feel it will be helpful for them as well.
             To use <b>CrackTech - Find LeetCode Company Tags</b> (<i>Previously LeetCode-Which-Company</i>) please read the instructions - <a href="https://github.com/ssavi-ict/LC-Which-Company#readme" target="_blank">Here</a>.
-
         </div>
         <hr>
         <div class="quick-access-panel">
@@ -76,6 +43,11 @@
                     </a>
                 </div>
                 <div class="content-item">
+                    <a href="about.html" target="_blank">
+                        <center><img src="res/about-me.png" alt="about me"></center>
+                    </a>
+                </div>
+                <div class="content-item">
                     <a href="https://www.buymeacoffee.com/ssavi" target="_blank">
                         <center><img src="res/buy-me-a-coffee.png" alt="Buy Me A Coffee"></center>
                     </a>
@@ -85,20 +57,57 @@
                         <center><img src="res/project-source.png" alt="Go To Project Source"></center>
                     </a>
                 </div>
+                
             </div>
         </div>
         <hr>
         <br>
         <div class="row header" style="margin: auto; text-align:center;color:green;padding-bottom: 12px;width: fit-content;">
-            <h2 style="font-family: 'Playfair'; font-style: italic; font-weight: bold; border-bottom: 2px solid indigo; padding-bottom: 2px;">
-                Problem Lists With Company Names
-            </h2>
+            <h2 id="companyInfoHeaderText" class="company_info_header">Filtered by Company</h2>
         </div>
         <br><br>
-        <div id = "company_table">
-            <h4 style="font-family: 'Playfair'; font-style: italic;"><sup>&#10031;</sup> - <i> Asked in recent interviews</i></h4>
-            <table id="dtBasicExample" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%" style="font-family: Segoe UI;">
-            </table>
+        <div class="tab-container">
+            <!-- Tab buttons -->
+            <div class="tab-buttons">
+                <button onclick="openTab('companyQuestions', 'Filtered by Company')" class="active">Company Based Filtering</button>
+                <button onclick="openTab('companyTable', 'Filtered by Problems')">Problem Based Filtering</button>
+            </div>
+
+            <!-- Tab content -->
+            <div id="companyQuestions" class="tab-content active">
+                <!-- Flex container for side-by-side tables -->
+                <div class="flex-container">
+                    <!-- DIV1: One-column table with unique ID -->
+                     
+                    <div id="topicsDiv">
+                        <table id="companyNameTable">
+                            <tbody>
+                                <!-- Company names will be populated here -->
+                            </tbody>
+                        </table>
+                    </div>
+        
+                    <!-- DIV2: Two-column table with unique ID -->
+                    <div id="questionsDiv">
+                        <div class="selected-company-header">
+                            <h4 id = "selectedCompanyHeaderText" style="font-family: 'Roboto'; text-align: center; font-style: italic;"></h4>
+                        </div>
+                        <table id="questionsByCompanyTable">
+                            
+                        </table>
+                    </div>
+                </div>
+            </div>
+        
+            <div id="companyTable" class="tab-content">
+                <div id="company_table">
+                    <h4 style="font-family: 'Playfair'; font-style: italic;">
+                        <sup>&#10031;</sup> - <i> Asked in recent interviews</i>
+                    </h4>
+                    <table id="dtBasicExample" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%" style="font-family: Segoe UI;">
+                    </table>
+                </div>
+            </div>
         </div>
         <br>
         <hr>

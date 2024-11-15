@@ -1,0 +1,152 @@
+.content-item a img{
+    height: auto;
+    width: 60%;
+    padding: 10px;
+    flex: 1;
+}
+#noticeListContainer {
+    border: 2px dashed red;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f8f6f6; /* Light gray background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Gray shadow */
+}
+
+#noticeTitle {
+    font-size: 15px;
+    color: #336699; /* Eye-soothing color */
+    margin-bottom: 10px;
+}
+
+#noticeList {
+    list-style-type: decimal;
+}
+
+#noticeList li {
+    font-size: 12px;
+    margin-bottom: 5px;
+    color: dodgerblue;
+}
+
+/* Basic styling for tabs */
+.tab-container {
+    width: 100%;
+}
+
+.tab-buttons {
+    display: flex;
+    border-bottom: 2px solid #ddd;
+}
+
+.tab-buttons button {
+    padding: 10px 20px;
+    cursor: pointer;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f1f1f1;
+    border: none;
+    outline: none;
+    transition: background-color 0.3s;
+}
+
+.tab-buttons button.active {
+    background-color: #ddd;
+    font-weight: bold;
+}
+
+.tab-content {
+    display: none;
+    padding: 20px;
+    border: 1px solid #ddd;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.tab-content.active {
+    display: block;
+}
+.company_info_header {
+    font-family: 'Playfair', serif;
+    font-style: italic;
+    font-weight: bold;
+    border-bottom: 2px solid indigo;
+    padding-bottom: 2px;
+}
+/* Flex container for side-by-side divs */
+.flex-container {
+    display: flex;
+    width: 100%;
+    gap: 20px;
+}
+
+/* DIV1 with 30% width */
+#topicsDiv {
+    flex: 0 0 30%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow-y: auto;  /* Enable scroll for overflow */
+    height: 600px;
+    max-height: 600px; 
+}
+
+/* DIV2 with 70% width */
+#questionsDiv {
+    flex: 0 0 70%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow-y: auto;  /* Enable scroll for overflow */
+    height: 600px;
+    max-height: 600px; 
+}
+
+/* Scoped styling for DIV1 table (companyNameTable) */
+#companyNameTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#companyNameTable th, #companyNameTable td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+#companyNameTable th {
+    background-color: #f1f1f1;
+    font-weight: bold;
+}
+
+/* Scoped styling for DIV2 table (questionsByCompanyTable) */
+#questionsByCompanyTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#questionsByCompanyTable th, #questionsByCompanyTable td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+#questionsByCompanyTable th {
+    background-color: #f1f1f1;
+    font-weight: bold;
+}
+
+#companyNameTable tbody tr:hover {
+    cursor: pointer;
+    background-color: #f0f0f0;
+}
+
+#companyNameTable, 
+#companyNameTable th, 
+#companyNameTable td {
+    border-left: none;
+    border-right: none;
+}
+
+.selected-row {
+    background-color: #d0e0f0; /* Light blue background or your preferred color */
+}

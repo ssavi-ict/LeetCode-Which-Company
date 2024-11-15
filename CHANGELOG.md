@@ -1,5 +1,19 @@
 # Find all the change history listed below 
 
+**[16/11/2024]**
+- v2.1.0 [Feature and Enhancements](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/434)
+- Company-based problems filtering.
+- Create a tabbed layout to add Company-based filtering.
+- Added an `About Me` page.
+- Bring problems asked in companies into a tabbed layout.
+- Separate the database.
+- Create a company name database to parse company names.
+- Create a script to auto-parse company names.
+- Modify relevant pages.
+- Chrome-only update.
+- Notices updated.
+- README updated.
+
 **[31/12/2023]**
 - v2.0.0 [Features](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/194)
 - Popular SDE Sheet sheets.

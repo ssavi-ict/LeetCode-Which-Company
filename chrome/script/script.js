@@ -5,8 +5,8 @@ fetch('https://raw.githubusercontent.com/ssavi-ict/LC-Which-Company/main/data/co
                         let tableContent = '';
                         tableContent +=  '<thead><tr><th class="th-sm"><center>Problem Name</center></th>';
                         tableContent +=  '<th class="th-sm"><center>Companies Asked</center></th>';
-                        tableContent +=  '<th class="th-sm"><center>Tutorial<center></th></tr></thead>';
-                        tableContent +=  '<tbody>';
+                        // tableContent +=  '<th class="th-sm"><center>Tutorial<center></th>';
+                        tableContent +=  '</tr></thead><tbody>';
                         
                         // Parse the Data. And add them into the Table.
                         for (let key in data){
@@ -22,7 +22,7 @@ fetch('https://raw.githubusercontent.com/ssavi-ict/LC-Which-Company/main/data/co
                                 if(i <= 5) tableContent += "<sup>&#10031;</sup>";
                             }
                             tableContent += "</td>";
-                            tableContent += "<td></td>";
+                            // tableContent += "<td></td>";
                             tableContent += "</tr>";
                         }
 
