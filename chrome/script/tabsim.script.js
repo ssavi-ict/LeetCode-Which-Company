@@ -1,10 +1,21 @@
 document.addEventListener("DOMContentLoaded", () => {
-    loadCompanyNames();  // Load company names when the page loads
+    // loadCompanyNames();  // Load company names when the page loads
+    loadCompanyNames();
+    bindTabEvents();
 });
 
 let companyInfo = {}; // To store parsed company_info.json
+let selectedRow = null; // To track the currently selected row
 
-async function openTab(tabName, headerText) {
+function bindTabEvents() {
+    const companyTab = document.getElementById('companyQuestionsTab');
+    const interviewTab = document.getElementById('interviewQuestionsTab');
+
+    companyTab.addEventListener('click', () => openTab('companyQuestions', 'Filtered by Company', companyTab));
+    interviewTab.addEventListener('click', () => openTab('companyTable', 'Filtered by Problems', interviewTab));
+}
+
+async function openTab(tabName, headerText, tabElement) {
     document.getElementById('companyInfoHeaderText').innerText = headerText;
 
     const contents = document.getElementsByClassName('tab-content');
@@ -18,13 +29,13 @@ async function openTab(tabName, headerText) {
     }
 
     document.getElementById(tabName).classList.add('active');
-    event.target.classList.add('active');
+    tabElement.classList.add('active');
 
     // Check if company names are already loaded
-    const tbody = document.getElementById('companyNameTable').querySelector('tbody');
+    /*const tbody = document.getElementById('companyNameTable').querySelector('tbody');
     if (tabName === 'companyQuestions' && tbody.children.length === 0) {
         await loadCompanyNames();
-    }
+    } */
 }
 
 
