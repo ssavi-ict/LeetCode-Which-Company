@@ -2,7 +2,7 @@
     "name": "CrackTech-LeetCode Company Tag, DSA Prep",
     "version": "2.0.1",
     "homepage_url":"https://github.com/ssavi-ict/LeetCode-Which-Company",
-    "description": "An extension that can help candidate to prepare for a Company specific DSA interview.",
+    "description": "Extension that can help candidate to prepare for a Company specific DSA interview.",
     "manifest_version": 3,
     "author": "Avik Sarkar",
     "action":{
@@ -25,7 +25,7 @@
     "content_scripts": [
         {
           "matches": ["https://leetcode.com/"],
-          "js": ["script/analyze_profile.js", "script/sde_sheet_script.js"],
+          "js": ["script/analyze_profile.js", "script/sde_sheet_script.js", "script/tabsim.script.js"],
           "resources": ["ext_data/sheets.json"]
         }
     ] 
