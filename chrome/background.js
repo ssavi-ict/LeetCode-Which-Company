@@ -83,9 +83,14 @@ chrome.runtime.onStartup.addListener(function () {
 });
 
 // Event listener for the browser installation/upgrade
-chrome.runtime.onInstalled.addListener(function () {
+chrome.runtime.onInstalled.addListener(function (details) {
   scheduleFirstNotification();
+  if (details.reason === "update") {
+    chrome.tabs.create({ url: "about.html" });
+  }
 });
+
+
 
 // Function to schedule the first notification
 function scheduleFirstNotification() {
@@ -100,9 +105,6 @@ function scheduleFirstNotification() {
   });
 }
 
-// chrome.tabs.onCreated.addListener(function(tab) {
-//   fetchNotificationContent();
-// });
 
 // Event listener for the alarm trigger
 chrome.alarms.onAlarm.addListener(function (alarm) {
@@ -119,13 +121,6 @@ chrome.alarms.onAlarm.addListener(function (alarm) {
 function scheduleSecondNotification() {
   chrome.alarms.create("secondNotificationAlarm", { delayInMinutes: 15 });
 }
-
-// // Event listener for notification click
-// chrome.notifications.onClicked.addListener(function (notificationId) {
-//   if (notificationId.startsWith("cracktech_notification_")) {
-//     chrome.tabs.create({ url: "https://leetcode.com/contest/" });
-//   }
-// });
 
 // Event listener for notification button clicks
 chrome.notifications.onButtonClicked.addListener(function (notificationId, buttonIndex) {
