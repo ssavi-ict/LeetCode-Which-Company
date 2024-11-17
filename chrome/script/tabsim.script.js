@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // loadCompanyNames();  // Load company names when the page loads
     loadCompanyNames();
     bindTabEvents();
 });
@@ -30,12 +29,6 @@ async function openTab(tabName, headerText, tabElement) {
 
     document.getElementById(tabName).classList.add('active');
     tabElement.classList.add('active');
-
-    // Check if company names are already loaded
-    /*const tbody = document.getElementById('companyNameTable').querySelector('tbody');
-    if (tabName === 'companyQuestions' && tbody.children.length === 0) {
-        await loadCompanyNames();
-    } */
 }
 
 

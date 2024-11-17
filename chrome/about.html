@@ -6,23 +6,45 @@
     <title>About Me</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
             background-color: #f4f4f9;
             color: #333;
             margin: 0;
             padding: 0;
             display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
+            flex-direction: column; /* Stack elements vertically */
+            align-items: center; /* Center elements horizontally */
+            justify-content: center; /* Center elements vertically */
+            height: 100vh; /* Full viewport height */
         }
+
         .about-me-container {
-            text-align: center;
             background: #fff;
-            padding: 20px;
+            padding: 10px;
             border-radius: 10px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            max-width: 400px;
+            max-width: 600px;
+            width: 70%;
+            display: flex;
+            justify-content: space-between; /* For the internal div alignment */
+        }
+        .content {
+            flex: 60;
+            text-align: center;
+            padding: 10px;
+        }
+        .version-info {
+            flex: 40;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding: 5px;
+        }
+        .divider {
+            width: 0.5px;
+            background: gray;
+            margin: 10px 10px;
         }
         img {
             border-radius: 50%;
@@ -31,7 +53,7 @@
             object-fit: cover;
             margin-bottom: 20px;
         }
-        h1 {
+        h1, h2 {
             font-size: 24px;
             margin-bottom: 10px;
         }
@@ -49,30 +71,74 @@
             border-radius: 25px;
             font-size: 16px;
             font-weight: bold;
-            margin-top: 20px;
+            margin-top: 10px;
             transition: background-color 0.3s ease;
         }
         .more-profile-links:hover {
             background-color: #0056b3;
         }
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 20px 0 20px 0;
+            text-align: left;
+            font-size: 15px;
+        }
+        ul li::before {
+            content: "• ";
+            color: #333;
+        }
+        .version-info h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+            text-align: left;
+        }
+
+        .version-info img {
+            max-width: 100%; /* Ensures the image doesn't exceed the container width */
+            height: auto;
+            margin-bottom: 20px; /* Adds space below the image */
+            border-radius: 10px; /* Optional: Adds rounded corners */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow */
+        }
     </style>
 </head>
 <body>
     <div class="about-me-container">
-        <a href="https://ibb.co/dpV3R54">
-            <img src="https://i.ibb.co/M1tjmCk/profile.jpg" alt="profile">
-        </a>
-        <h1>Avik Sarkar</h1>
-        <p>
-            I am a Test Engineer at Google with extensive experience in the tech industry, 
-            starting my career at Samsung Research and contributing over 5 years. I hold a Bachelor's degree 
-            from Comilla University (2018 graduate).
-        </p>
-        <p>
-            My technical expertise includes test automation, Bluetooth protocol development, and software quality assurance.
-        </p>
-        <a href="https://topmate.io/aviksarkar/" class="more-profile-links" target="_blank">Get 1:1 Career Mentorship</a>
-        <a href="https://linktr.ee/avik_sarkar" class="more-profile-links" target="_blank">View My Extended Profile</a>
+        <!-- Current Content Section -->
+        <div class="content">
+            <a href="https://ibb.co/dpV3R54">
+                <img src="https://i.ibb.co/M1tjmCk/profile.jpg" alt="profile">
+            </a>
+            <h1>Avik Sarkar</h1>
+            <p>
+                I am a Test Engineer at Google with extensive experience in the tech industry, 
+                starting my career at Samsung Research and contributing over 5 years. I hold a Bachelor's degree 
+                from Comilla University (2016 graduate).
+            </p>
+            <p>
+                My technical expertise includes test engineering, Bluetooth protocol development, and machine learning for software testing.
+            </p>
+            <a href="https://topmate.io/aviksarkar/" class="more-profile-links" target="_blank">Get 1:1 Career Mentorship</a>
+            <a href="https://linktr.ee/avik_sarkar" class="more-profile-links" target="_blank">View My Extended Profile</a>
+        </div>
+
+        <!-- Divider Line -->
+        <div class="divider"></div>
+
+        <!-- Version Info Section -->
+        <div class="version-info">
+            <a href="https://ibb.co/r7Xqsqm">
+                <img src="https://i.ibb.co/4m0CdC7/thanks.png" alt="thanks" border="0">
+            </a>
+            <h2>Current Version: v2.1.0</h2>
+            <ul>
+                <li>Company-based problems filtering.</li>
+                <li>Tabbed layout.</li>
+                <li>About Me page.</li>
+            </ul>
+            <a href="https://github.com/ssavi-ict/LeetCode-Which-Company/blob/main/CHANGELOG.md" class="more-profile-links" target="_blank">Learn More</a>
+        </div>
     </div>
 </body>
 </html>
