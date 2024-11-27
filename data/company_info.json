@@ -1,4 +1,7 @@
 {
+  "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed/":[
+    "Maximum Number of Potholes That Can Be Fixed", "GEICO"
+  ],
   "https://leetcode.com/problems/find-trending-hashtags-ii/": [
     "Find Trending Hashtags II"
   ],
@@ -2214,7 +2217,7 @@
     "Check Distances Between Same Letters"
   ],
   "https://leetcode.com/problems/largest-palindromic-number/": [
-    "Largest Palindromic Number", "Microsoft", "Smartnews", "Adobe"
+    "Largest Palindromic Number", "Microsoft", "Smartnews", "Adobe", "GEICO"
   ],
   "https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/": [
     "Minimum Adjacent Swaps to Make a Valid Array", "Amazon"
@@ -3549,7 +3552,7 @@
     "Number of Ways to Paint N x 3 Grid", "Hackerrank"
   ],
   "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/": [
-    "Number of Steps to Reduce a Number in Binary Representation to One", "Microsoft", "Amazon"
+    "Number of Steps to Reduce a Number in Binary Representation to One", "Microsoft", "Amazon", "GEICO"
   ],
   "https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/": [
     "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K", "Amazon", "Google"
@@ -3996,7 +3999,7 @@
     "Connecting Cities With Minimum Cost", "Amazon"
   ],
   "https://leetcode.com/problems/path-with-maximum-minimum-value/": [
-    "Path With Maximum Minimum Value", "Google", "Amazon", "DoorDash"
+    "Path With Maximum Minimum Value", "Google", "Amazon", "DoorDash", "GEICO"
   ],
   "https://leetcode.com/problems/stream-of-characters/": [
     "Stream of Characters", "Google", "Salesforce", "Amazon", "Microsoft"
@@ -10375,7 +10378,8 @@
     "Apple",
     "Salesforce",
     "VMware",
-    "Nvidia"
+    "Nvidia",
+    "GEICO"
   ],
   "https://leetcode.com/problems/palindrome-permutation-ii/": [
     "Palindrome Permutation II",
@@ -11495,7 +11499,8 @@
     "tiktok",
     "Zoho",
     "Netflix",
-    "Zoom"
+    "Zoom",
+    "GEICO"
   ],
   "https://leetcode.com/problems/triangle/": [
     "Triangle",
@@ -11950,7 +11955,8 @@
     "Oracle",
     "Apple",
     "Uber",
-    "Square"
+    "Square",
+    "GEICO"
   ],
   "https://leetcode.com/problems/unique-paths-ii/": [
     "Unique Paths II",
@@ -12021,7 +12027,8 @@
     "Nvidia",
     "Morgan Stanley",
     "ByteDance",
-    "tiktok"
+    "tiktok",
+    "GEICO"
   ],
   "https://leetcode.com/problems/jump-game/": [
     "Jump Game",
@@ -12280,7 +12287,8 @@
     "Facebook",
     "Karat",
     "Wayfair",
-    "Nvidia"
+    "Nvidia",
+    "GEICO"
   ],
   "https://leetcode.com/problems/search-insert-position/": [
     "Search Insert Position",
@@ -12579,7 +12587,8 @@
     "Capital One",
     "Adobe",
     "Google",
-    "tiktok"
+    "tiktok",
+    "GEICO"
   ],
   "https://leetcode.com/problems/container-with-most-water/": [
     "Container With Most Water",
