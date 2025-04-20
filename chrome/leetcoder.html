@@ -1,49 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>CrackTech-LeetCode Company Tag, DSA Preparation</title>
+    <title>CrackTech - Tech Interview Preparation</title>
     <script type="text/javascript" src="script/Chart.min.js"></script>
     <style></style>
     <link rel="stylesheet" href="script/sde_sheet.style.css">
+    <link rel="stylesheet" href="script/tech_content.style.css">
 </head>
 <body>
     <div class="content-container" style="margin: 0 auto;">
         <div id="noticeListContainer"></div>
 		<div class="intro-content-1" style="font-family: 'Segoe UI'; font-size: medium; display: flex; margin-top: 15px;">
-            <div class="content-left-part" style="width: 50%; padding-right:2%;">
+            <div class="content-left-part" style="width: 100%; padding-right:2%; text-align: center;">
                 <h1 style="text-align: center;">WORK HARD, PREPARE HARDER</h1>
-                <p>Thank you for using <i>CrackTech-LeetCode Company Tag, DSA Preparation</i> extension.<br>
-                    This is a small effort to help you in your dream company specific preparation. Track your progress and prepare with famous SDE sheets.
+                <p>Thank you for using <i>CrackTech - Tech Interview Preparation</i> chrome extension.<br>
+                    This is a small effort to help you in your dream company specific preparation. Prepare with famous SDE sheets, Read and practice tech content daily, be enriched.
                     <br>
                     Do consider sharing this free extension among your fellow LeetCoders. I feel it will be helpful for them as well.
                 </p>
-            </div>
-            <div class="empty" style="border: 2px solid black;"></div>
-            <div class = "content-right-part" style="float: right; padding-left: 2%;">
-                <div class="header">
-                    <p style="font-size: 12px; font-weight: bold;">Don't Miss Upcoming Contest(s)</p>
-                    <div class="switch">
-                        <span class="switch-text">Get Notified: </span>
-                        <label class="notify-checkbox">
-                            <input type="checkbox" id="notificationCheckbox" checked>
-                            <span class="checkbox"></span>
-                        </label>
-                        <p>[&nbsp;</p><i><span id="switchStatus">Turned On</span></i><p> &nbsp;]</p>
-                    </div>
-                </div>
-                <table id="contestTable">
-                    <tr id = "ptable-tr">
-                        <th id = "ptable-td">Name</th>
-                        <th id = "ptable-td">Start Date</th>
-                        <th id = "ptable-td">Start Time</th>
-                        <th id = "ptable-td">Duration</th>
-                    </tr>
-                </table>
-                <table id="nbtable" style="margin: 0 auto;">
-                    <tr id = "ptable-tr">
-                        <td id = "ptable-td" style="border: none;"><i><b>** Note: Contest information will update around 8AM everyday.</b></i></td>
-                    </tr>
-                </table>
             </div>
 		</div>
         <hr>
@@ -135,6 +109,24 @@
             </div>
         </div>
         <hr>
+        <div id="tech_main_wrapper">
+            <div id="tech_main_wrapper_header_text"">
+                <h3>One tech content every day, One step ahead on your way.</h3>
+            </div>
+          
+            <div class="tech_container" id="tech_content_container">
+              <!-- Tech boxes will be inserted here -->
+            </div>
+          
+            <!-- Modal -->
+            <div id="tech_popup_modal">
+              <div class="tech_modal_content">
+                <span class="tech_close" id="tech_close_btn">&times;</span>
+                <div id="tech_modal_body"></div>
+              </div>
+            </div>
+        </div>          
+        <hr>
 		<div class="preparation-container" id="cracktech-preparation-container">
             <div class = "preparation-header-content">
                 <h3 id = "heading-line"></h3> 
@@ -202,8 +194,8 @@
         <br>
     </div>
 </body>
-<script type="text/javascript" src="script/helper.js"></script>
 <script type="text/javascript" src="script/analyze_profile.js"></script>
 <script type="text/javascript" src="script/sde_sheet_script.js"></script>
+<script type="text/javascript" src="script/tech_content_script.js"></script>
 <script type="text/javascript" src="script/notices.script.js"></script>
 </html>

@@ -1,5 +1,18 @@
 # Find all the change history listed below 
 
+**[21/04/2025]**
+- v2.2.0 [Feature and Enhancements](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/446)
+- Name modified to *CrackTech - Tech Interview Preparation*
+- Daily system design, low level design, test engineering, behavioral content recommendation.
+- Relevant database prepartion.
+- List of system design, low level design, test engineering, behavioral contents.
+- Removed the contest and notification features
+- Updated popup html.
+- Modify relevant pages.
+- Chrome-only update.
+- Notices updated.
+- README updated.
+
 **[16/11/2024]**
 - v2.1.0 [Feature and Enhancements](https://github.com/ssavi-ict/LeetCode-Which-Company/issues/434)
 - Company-based problems filtering.

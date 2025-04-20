@@ -1,13 +1,13 @@
 {
-    "name": "CrackTech-LeetCode Company Tag, DSA Prep",
-    "version": "2.1.0",
+    "name": "CrackTech - Tech Interview Preparation",
+    "version": "2.2.0",
     "homepage_url":"https://github.com/ssavi-ict/LeetCode-Which-Company",
-    "description": "Extension that can help candidate to prepare for a Company specific DSA interview.",
+    "description": "A tool that can help candidate to prepare for a tech interview preparation.",
     "manifest_version": 3,
     "author": "Avik Sarkar",
     "action":{
         "default_popup": "popup.html",
-        "default_title": "CrackTech-LeetCode Company Tag, DSA Prep"
+        "default_title": "CrackTech - Tech Interview Preparation"
     },
     "icons": {
         "32": "res/32.png",
@@ -25,7 +25,7 @@
     "content_scripts": [
         {
           "matches": ["https://leetcode.com/"],
-          "js": ["script/analyze_profile.js", "script/sde_sheet_script.js", "script/tabsim.script.js"],
+          "js": ["script/analyze_profile.js", "script/sde_sheet_script.js", "script/tabsim.script.js", "script/tech_content_script.js"],
           "resources": ["ext_data/sheets.json"]
         }
     ] 

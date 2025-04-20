@@ -1,5 +1,4 @@
 {
-    "Notice 1": "Kindly note that, this extension use it's own database to maintain company information. So, not every problem may contain company information. Rest assured, the developer collect and update company information from online sources. You are welcome to contribute.",
-    "Notice 2": "Company information is being collected from different online sources. So, the frequency of appearing each problem quite hard to gather.",
-    "Notice 3": "[Chrome Extension Exclusive] Click company name and get list of problems asked by the company."
+    "Notice 1": "Company information is being collected from different online sources. So, the frequency of appearing each problem quite hard to gather.",
+    "Notice 2": "[New Update v2.2.0] Daily system design, low level design, test engineering and behavioral content recommendation."
 }
