@@ -103,7 +103,7 @@ a {
     align-items: flex-start;
 }
 
-#stat-container-header-text, .preparation-header-content{
+#stat-container-header-text, .preparation-header-content, #tech_main_wrapper_header_text{
     margin: 30px 0px 30px; 
     border: 2px solid; 
     border-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);

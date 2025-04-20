@@ -68,16 +68,25 @@ document.addEventListener('DOMContentLoaded', function () {
 	const notificationCheckbox = document.getElementById('notificationCheckbox');
 	const switchStatus = document.getElementById('switchStatus');
 
-	notificationCheckbox.addEventListener('change', () => {
-		const isChecked = notificationCheckbox.checked;
-		if (isChecked) {
-		  switchStatus.textContent = 'Turned On';
-		  chrome.storage.local.set({ switchState: isChecked });
-		} else {
-		  switchStatus.textContent = 'Turned Off';
-		  chrome.storage.local.set({ switchState: isChecked });
+	if (notificationCheckbox && switchStatus) {
+		notificationCheckbox.addEventListener('change', () => {
+		  const isChecked = notificationCheckbox.checked;
+		  switchStatus.textContent = isChecked ? 'Turned On' : 'Turned Off';
+		  
+		  try {
+			chrome.storage.local.set({ switchState: isChecked });
+		  } catch (err) {
+			console.error('Error saving switch state:', err);
+		  }
+		});
+	  } else {
+		if (!notificationCheckbox) {
+		  console.error("Element with id 'notificationCheckbox' not found.");
 		}
-	  });
+		if (!switchStatus) {
+		  console.error("Element with id 'switchStatus' not found.");
+		}
+	  }
 
 	function getLocalTime(date) {
 		const localOptions = {
