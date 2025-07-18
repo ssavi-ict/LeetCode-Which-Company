@@ -1,4 +1,4 @@
-*!!! Declaration: I hereby declare that I do not make a single penny by this work. I do this work entirely by passion and interest. !!!*
+*!!! Declaration: I hereby declare that I do not make a single penny from this work. I do this work entirely out of passion and interest. And in no way does it replace the premium products out there. !!!*
 ---
 # Available In -
 <center><a href = "https://chrome.google.com/webstore/detail/cracktech-find-leetcode-c/fmbicfmfmangckllfaomfkhdankgapfk" target="_blank"><img src="/static/chrome-webstore.png" width="200"></a> &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp;<a href = "https://addons.mozilla.org/en-US/firefox/addon/cracktech-leetcode-company-tag/" target="_blank"><img src="/static/firefox-add-on-store.PNG" width="200"></a> &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; <a href = "https://microsoftedge.microsoft.com/addons/detail/leetcode-which-company/aknogcjbpnfdmmnlphmkpcldbepblapf" target="_blank"><img src="/static/ms-edge-store.PNG" width="200"></a></center>
@@ -9,36 +9,36 @@
 
 ## CrackTech - Tech Interview Preparation (previously *CrackTech-LeetCode Company Tag, DSA Preparation*) helps you to prepare for your next tech interview
 
-Are you ?
+Are you?
 - Preparing for your technical interviews. 
 - Looking for the **DSA questions** asked by companies like Microsoft, Google, Meta, Apple.
 - Looking for a list of **system design** contents
-- Looking for a list of **low level design** contents
+- Looking for a list of **low-level design** contents
 - Looking for a list of **test engineering** topics
 - Looking for a list of **behavioral** contents
 
-Then this extension can be a good friend of you.
+Then this extension can be a good friend to you.
 
-This extension is my effort to make your preparation one step better. I am continuously updating company information solely, you might not get company information for every single problem as you can find in Leetcode premium. I collect company information from different sources on the internet like blogs, job site, glassdoor etc. and update it in my database. So in some cases, you might get **some more company information** than Leetcode provides.
+This extension is my effort to make your preparation one step better. I am continuously updating company information solely; you might not get company information for every single problem. I collect company information from different sources on the internet, like blogs, job sites, Glassdoor etc., and update it in my database. So in some cases, you might get **some more company information** than Leetcode provides.
 
 Install this extension/add-on and boost your prep. Wishing you all the very best in your journey.
 
 ------
 Access company information for all available problems from : <a href="https://ssavi-ict.github.io/LeetCode-Which-Company/" target="_blank">All Company Information</a>
 ------ 
-## How this extension is different from existing others - 
+## How this extension is different from existing ones - 
 
 - Regular updates on company information.
-- Addition of new company information for problems almost everyday.
-- Company based problem list at a glance.
-- List of system design, low level design, test engineering, behavioral contents. [*New*]
+- Addition of new company information for problems almost every day.
+- Company-based problem list at a glance.
+- List of system design, low-level design, test engineering, and behavioral contents. [*New*]
 - A pop-up window extension. No garbage, just the content you needed.
-- Flexible to LeetCode UI changes. So no downtime on your preparation.
-- Upcoming Contest Notification everyday. Never miss a LeetCode contest now.
-- Next to solve suggestion for Easy, Medium, and Hard category.
-- ✯ Notation to denote the recent companies who asked a question.
-- Backup URL if extension pop up fails to load company information. <a href="https://ssavi-ict.github.io/LeetCode-Which-Company/" target="_blank">Visit Here</a>
-- Ace your DSA Preparation by popular SDE sheets. Progress tracking overview. [*New*]
+- Flexible to LeetCode UI changes. So, no downtime on your preparation.
+- Upcoming Contest Notification every day. Never miss a LeetCode contest now.
+- Next to solve suggestions for the Easy, Medium, and Hard categories.
+- ✯ Notation to denote the recent companies that asked a question.
+- Backup URL if the extension pop-up fails to load company information. <a href="https://ssavi-ict.github.io/LeetCode-Which-Company/" target="_blank">Visit Here</a>
+- Ace your DSA Preparation with popular SDE sheets. Progress tracking overview. [*New*]
 - No data collection.
 
 ------ 
