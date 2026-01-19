@@ -6687,7 +6687,8 @@
     "Maximum Number of Events That Can Be Attended",
     "Amazon",
     "Salesforce",
-    "JPMorgan"
+    "JPMorgan",
+	"Capmint"
   ],
   "https://leetcode.com/problems/product-of-the-last-k-numbers/": [
     "Product of the Last K Numbers",
